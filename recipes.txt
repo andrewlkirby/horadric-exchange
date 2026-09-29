@@ -1,0 +1,1344 @@
+NOTE: recipes match the base item by type and ethereal state, plus a quality rule that depends on the item: for charms/rings/amulets/jewels, ANY quality works (low/normal/superior/magic/rare/crafted) since these almost never drop as true white items. For everything else, the base must be genuinely white (low, normal, or superior quality) -- magic, rare, crafted, and already-unique/set items do NOT satisfy the recipe. For the always-any-quality category, a DIFFERENT unique/set item sharing the same base type also satisfies the recipe and gets destroyed for the same result -- double check what you feed in.
+
+CRAFTING RECIPES (826)
+Base item + rune + filler item -> named unique/set item
+======================================================================
+Battle Boots + Hel Rune + Scroll of Identify -> Aldur's Advance
+Shadow Plate + Gul Rune + Scroll of Identify -> Aldur's Deception
+Jagged Star + Sol Rune + Scroll of Identify -> Aldur's Rhythm
+Hunter's Guise + Dol Rune + Scroll of Identify -> Aldur's Stony Gaze
+Sacred Rondache (Ethereal) + Lo Rune + Scroll of Identify -> Alma Negra (eth)
+Sacred Rondache + Vex Rune + Scroll of Identify -> Alma Negra
+Demonhead (Ethereal) + Ohm Rune + Scroll of Identify -> Andariel's Visage (eth)
+Demonhead + Um Rune + Scroll of Identify -> Andariel's Visage
+Ring + El Rune + Scroll of Identify -> Angelic Halo
+Ring Mail + Tir Rune + Scroll of Identify -> Angelic Mantle
+Sabre + Eld Rune + Scroll of Identify -> Angelic Sickle
+Amulet + El Rune + Scroll of Identify -> Angelic Wings
+Spiderweb Sash (Ethereal) + Gul Rune + Scroll of Identify -> Arachnid Mesh (eth)
+Spiderweb Sash + Ist Rune + Scroll of Identify -> Arachnid Mesh
+War Staff + Tal Rune + Scroll of Identify -> Arcanna's Deathwand
+Light Plate + Thul Rune + Scroll of Identify -> Arcanna's Flesh
+Skull Cap + Eld Rune + Scroll of Identify -> Arcanna's Head
+Ring + El Rune + Scroll of Town Portal -> Arcanna's Sign
+Light Belt + Eld Rune + Scroll of Identify -> Arctic Binding
+Quilted Armor + El Rune + Scroll of Identify -> Arctic Furs
+Short War Bow + Ral Rune + Scroll of Identify -> Arctic Horn
+Light Gauntlets + Ith Rune + Scroll of Identify -> Arctic Mitts
+Hyperion Spear (Ethereal) + Lo Rune + Scroll of Identify -> Arioc's Needle (eth)
+Hyperion Spear + Ist Rune + Scroll of Identify -> Arioc's Needle
+Balrog Skin (Ethereal) + Lo Rune + Scroll of Identify -> Arkaine's Valor (eth)
+Balrog Skin + Vex Rune + Scroll of Identify -> Arkaine's Valor
+Tomb Wand (Ethereal) + Hel Rune + Scroll of Identify -> Arm of King Leoric (eth)
+Tomb Wand + Shael Rune + Scroll of Identify -> Arm of King Leoric
+Slayer Guard (Ethereal) + Lum Rune + Scroll of Identify -> Arreat's Face (eth)
+Slayer Guard + Hel Rune + Scroll of Identify -> Arreat's Face
+Battle Scythe (Ethereal) + Lum Rune + Scroll of Identify -> Athena's Wrath (eth)
+Battle Scythe + Hel Rune + Scroll of Identify -> Athena's Wrath
+Amulet + Um Rune + Scroll of Identify -> Atma's Scarab
+Embossed Plate (Ethereal) + Lem Rune + Scroll of Identify -> Atma's Wail (eth)
+Embossed Plate + Ko Rune + Scroll of Identify -> Atma's Wail
+Phase Blade + Fal Rune + Scroll of Identify -> Azurewrath
+Knout (Ethereal) + Ko Rune + Scroll of Identify -> Baezil's Vortex (eth)
+Knout + Io Rune + Scroll of Identify -> Baezil's Vortex
+Short Staff (Ethereal) + Nef Rune + Scroll of Identify -> Bane Ash (eth)
+Short Staff + Eld Rune + Scroll of Identify -> Bane Ash
+Devil Star (Ethereal) + Amn Rune + Scroll of Identify -> Baranar's Star (eth)
+Devil Star + Ort Rune + Scroll of Identify -> Baranar's Star
+Double Axe + Nef Rune + Scroll of Identify -> Berserker's Hatchet
+Splint Mail + Ith Rune + Scroll of Identify -> Berserker's Hauberk
+Helm + Tir Rune + Scroll of Identify -> Berserker's Headgear
+Dacian Falx (Ethereal) + Lum Rune + Scroll of Identify -> Bing Sz Wang (eth)
+Dacian Falx + Hel Rune + Scroll of Identify -> Bing Sz Wang
+Chaos Armor (Ethereal) + Lem Rune + Scroll of Identify -> Black Hades (eth)
+Chaos Armor + Ko Rune + Scroll of Identify -> Black Hades
+Cinquedeas (Ethereal) + Io Rune + Scroll of Identify -> Blackbog's Sharp (eth)
+Cinquedeas + Dol Rune + Scroll of Identify -> Blackbog's Sharp
+Grave Wand (Ethereal) + Lum Rune + Scroll of Identify -> Blackhand Key (eth)
+Grave Wand + Hel Rune + Scroll of Identify -> Blackhand Key
+Death Mask (Ethereal) + Lum Rune + Scroll of Identify -> Blackhorn's Face (eth)
+Death Mask + Hel Rune + Scroll of Identify -> Blackhorn's Face
+Bill (Ethereal) + Lum Rune + Scroll of Identify -> Blackleach Blade (eth)
+Bill + Hel Rune + Scroll of Identify -> Blackleach Blade
+Luna (Ethereal) + Um Rune + Scroll of Identify -> Blackoak Shield (eth)
+Luna + Lem Rune + Scroll of Identify -> Blackoak Shield
+Bastard Sword (Ethereal) + Sol Rune + Scroll of Identify -> Blacktongue (eth)
+Bastard Sword + Thul Rune + Scroll of Identify -> Blacktongue
+Tulwar (Ethereal) + Hel Rune + Scroll of Identify -> Blade of Ali Baba (eth)
+Tulwar + Shael Rune + Scroll of Identify -> Blade of Ali Baba
+Double Axe (Ethereal) + Ral Rune + Scroll of Identify -> Bladebone (eth)
+Double Axe + Ith Rune + Scroll of Identify -> Bladebone
+Plated Belt (Ethereal) + Dol Rune + Scroll of Identify -> Bladebuckle (eth)
+Plated Belt + Sol Rune + Scroll of Identify -> Bladebuckle
+Long War Bow + Amn Rune + Scroll of Identify -> Blastbark
+Leather Armor (Ethereal) + Tal Rune + Scroll of Identify -> Blinkbats Form (eth)
+Leather Armor + Eth Rune + Scroll of Identify -> Blinkbats Form
+Scimitar (Ethereal) + Eth Rune + Scroll of Identify -> Blood Crescent (eth)
+Scimitar + Tir Rune + Scroll of Identify -> Blood Crescent
+Heavy Gloves (Ethereal) + Ith Rune + Scroll of Identify -> Bloodfist (eth)
+Heavy Gloves + Nef Rune + Scroll of Identify -> Bloodfist
+Gladius (Ethereal) + Shael Rune + Scroll of Identify -> Bloodletter (eth)
+Gladius + Amn Rune + Scroll of Identify -> Bloodletter
+Elegant Blade (Ethereal) + Mal Rune + Scroll of Identify -> Bloodmoon (eth)
+Elegant Blade + Pul Rune + Scroll of Identify -> Bloodmoon
+Matriarchal Bow (Ethereal) + Vex Rune + Scroll of Identify -> Bloodraven's Charge (eth)
+Matriarchal Bow + Ist Rune + Scroll of Identify -> Bloodraven's Charge
+Morning Star (Ethereal) + Ral Rune + Scroll of Identify -> Bloodrise (eth)
+Morning Star + Ith Rune + Scroll of Identify -> Bloodrise
+Brandistock (Ethereal) + Ort Rune + Scroll of Identify -> Bloodthief (eth)
+Brandistock + Tal Rune + Scroll of Identify -> Bloodthief
+War Club (Ethereal) + Fal Rune + Scroll of Identify -> Bloodtree Stump (eth)
+War Club + Lum Rune + Scroll of Identify -> Bloodtree Stump
+Succubus Skull (Ethereal) + Vex Rune + Scroll of Identify -> Boneflame (eth)
+Succubus Skull + Ist Rune + Scroll of Identify -> Boneflame
+Plate Mail (Ethereal) + Sol Rune + Scroll of Identify -> Boneflesh (eth)
+Plate Mail + Thul Rune + Scroll of Identify -> Boneflesh
+Ogre Axe (Ethereal) + Ist Rune + Scroll of Identify -> Bonehew (eth)
+Ogre Axe + Um Rune + Scroll of Identify -> Bonehew
+Lich Wand (Ethereal) + Ohm Rune + Scroll of Identify -> Boneshade (eth)
+Lich Wand + Gul Rune + Scroll of Identify -> Boneshade
+Gothic Axe (Ethereal) + Lum Rune + Scroll of Identify -> Boneslayer Blade (eth)
+Gothic Axe + Hel Rune + Scroll of Identify -> Boneslayer Blade
+Maul (Ethereal) + Sol Rune + Scroll of Identify -> Bonesob (eth)
+Maul + Thul Rune + Scroll of Identify -> Bonesob
+Great Axe (Ethereal) + Sol Rune + Scroll of Identify -> Brainhew (eth)
+Great Axe + Thul Rune + Scroll of Identify -> Brainhew
+Ring + Ist Rune + Scroll of Identify -> Bul Katho's Wedding Band
+Colossus Blade + Vex Rune + Scroll of Identify -> Bul-Kathos' Sacred Charge
+Mythical Sword + Vex Rune + Scroll of Identify -> Bul-Kathos' Tribal Guardian
+Ballista + Fal Rune + Scroll of Identify -> Buriza-Do Kyanon
+Cleaver (Ethereal) + Io Rune + Scroll of Identify -> Butcher's Pupil (eth)
+Cleaver + Dol Rune + Scroll of Identify -> Butcher's Pupil
+Tower Shield (Ethereal) + Thul Rune + Scroll of Identify -> Bverrit Keep (eth)
+Tower Shield + Ral Rune + Scroll of Identify -> Bverrit Keep
+Petrified Wand (Ethereal) + Hel Rune + Scroll of Identify -> Carin Shard (eth)
+Petrified Wand + Shael Rune + Scroll of Identify -> Carin Shard
+Ring + Lem Rune + Scroll of Identify -> Carrion Wind
+Chain Mail + Nef Rune + Scroll of Identify -> Cathan's Mesh
+Battle Staff + Eth Rune + Scroll of Identify -> Cathan's Rule
+Ring + El Rune + Tome of Identify -> Cathan's Seal
+Amulet + El Rune + Scroll of Town Portal -> Cathan's Sigil
+Mask + Ith Rune + Scroll of Identify -> Cathan's Visage
+Blood Spirit (Ethereal) + Mal Rune + Scroll of Identify -> Cerebus (eth)
+Blood Spirit + Pul Rune + Scroll of Identify -> Cerebus
+Chain Gloves (Ethereal) + Ral Rune + Scroll of Identify -> Chance Guards (eth)
+Chain Gloves + Ith Rune + Scroll of Identify -> Chance Guards
+Cedar Staff (Ethereal) + Hel Rune + Scroll of Identify -> Chromatic Ire (eth)
+Cedar Staff + Shael Rune + Scroll of Identify -> Chromatic Ire
+Grand Scepter + Nef Rune + Scroll of Identify -> Civerb's Cudgel
+Amulet + El Rune + Tome of Identify -> Civerb's Icon
+Large Shield + Tir Rune + Scroll of Identify -> Civerb's Ward
+Small Shield + Eld Rune + Scroll of Identify -> Cleglaw's Claw
+Chain Gloves + Nef Rune + Scroll of Identify -> Cleglaw's Pincers
+Long Sword + Ith Rune + Scroll of Identify -> Cleglaw's Tooth
+Long Siege Bow + Hel Rune + Scroll of Identify -> Cliffkiller
+Gothic Sword (Ethereal) + Ko Rune + Scroll of Identify -> Cloudcrack (eth)
+Gothic Sword + Io Rune + Scroll of Identify -> Cloudcrack
+Helm (Ethereal) + Ral Rune + Scroll of Identify -> Coif of Glory (eth)
+Helm + Ith Rune + Scroll of Identify -> Coif of Glory
+Hatchet (Ethereal) + Hel Rune + Scroll of Identify -> Coldkill (eth)
+Hatchet + Shael Rune + Scroll of Identify -> Coldkill
+Cutlass (Ethereal) + Dol Rune + Scroll of Identify -> Coldsteel Eye (eth)
+Cutlass + Sol Rune + Scroll of Identify -> Coldsteel Eye
+Ornate Plate (Ethereal) + Pul Rune + Scroll of Identify -> Corpsemourn (eth)
+Ornate Plate + Fal Rune + Scroll of Identify -> Corpsemourn
+Studded Leather + Eld Rune + Scroll of Identify -> Cow King's Hide
+Heavy Boots + Eld Rune + Scroll of Identify -> Cow King's Hooves
+War Hat + Thul Rune + Scroll of Identify -> Cow King's Horns
+Espandon (Ethereal) + Lum Rune + Scroll of Identify -> Crainte Vomir (eth)
+Espandon + Hel Rune + Scroll of Identify -> Crainte Vomir
+War Spike (Ethereal) + Mal Rune + Scroll of Identify -> Cranebeak (eth)
+War Spike + Pul Rune + Scroll of Identify -> Cranebeak
+Mithril Coil + Um Rune + Scroll of Identify -> Credendum
+Amulet + Io Rune + Scroll of Identify -> Crescent Moon
+Tigulated Mail (Ethereal) + Io Rune + Scroll of Identify -> Crow Caw (eth)
+Tigulated Mail + Dol Rune + Scroll of Identify -> Crow Caw
+Corona (Ethereal) + Ist Rune + Scroll of Identify -> Crown of Ages (eth)
+Corona + Um Rune + Scroll of Identify -> Crown of Ages
+Grand Crown (Ethereal) + Fal Rune + Scroll of Identify -> Crown of Thieves (eth)
+Grand Crown + Lum Rune + Scroll of Identify -> Crown of Thieves
+Mace (Ethereal) + Ith Rune + Scroll of Identify -> Crushflange (eth)
+Mace + Nef Rune + Scroll of Identify -> Crushflange
+War Sword (Ethereal) + Dol Rune + Scroll of Identify -> Culwens Point (eth)
+War Sword + Sol Rune + Scroll of Identify -> Culwens Point
+Greater Talons (Ethereal) + Io Rune + Scroll of Identify -> Cutthroat1 (eth)
+Greater Talons + Dol Rune + Scroll of Identify -> Cutthroat1
+Reinforced Mace + Fal Rune + Scroll of Identify -> Dangoon's Teaching
+Dusk Shroud + Lem Rune + Scroll of Identify -> Dark Adherent
+Cudgel (Ethereal) + Hel Rune + Scroll of Identify -> Dark Clan Crusher (eth)
+Cudgel + Shael Rune + Scroll of Identify -> Dark Clan Crusher
+Bloodlord Skull (Ethereal) + Ist Rune + Scroll of Identify -> Darkforge Spawn (eth)
+Bloodlord Skull + Um Rune + Scroll of Identify -> Darkforge Spawn
+Ring Mail (Ethereal) + Ral Rune + Scroll of Identify -> Darkglow (eth)
+Ring Mail + Ith Rune + Scroll of Identify -> Darkglow
+Basinet (Ethereal) + Io Rune + Scroll of Identify -> Darksight Helm (eth)
+Basinet + Dol Rune + Scroll of Identify -> Darksight Helm
+Sash + El Rune + Scroll of Identify -> Death's Guard
+Leather Gloves + El Rune + Scroll of Identify -> Death's Hand
+War Sword + Ral Rune + Scroll of Identify -> Death's Touch
+Battle Dart (Ethereal) + Ko Rune + Scroll of Identify -> Deathbit (eth)
+Battle Dart + Io Rune + Scroll of Identify -> Deathbit
+Berserker Axe (Ethereal) + Gul Rune + Scroll of Identify -> Deathcleaver (eth)
+Berserker Axe + Mal Rune + Scroll of Identify -> Deathcleaver
+Unearthed Wand (Ethereal) + Ist Rune + Scroll of Identify -> Deaths's Web (eth)
+Unearthed Wand + Gul Rune + Scroll of Identify -> Deaths's Web
+Axe (Ethereal) + Ith Rune + Scroll of Identify -> Deathspade (eth)
+Axe + Nef Rune + Scroll of Identify -> Deathspade
+Chu-Ko-Nu + Lum Rune + Scroll of Identify -> Demon Machine
+Balrog Spear (Ethereal) + Gul Rune + Scroll of Identify -> Demon's Arch (eth)
+Balrog Spear + Mal Rune + Scroll of Identify -> Demon's Arch
+Destroyer Helm (Ethereal) + Mal Rune + Scroll of Identify -> Demonhorn's Edge (eth)
+Destroyer Helm + Pul Rune + Scroll of Identify -> Demonhorn's Edge
+Tyrant Club (Ethereal) + Mal Rune + Scroll of Identify -> Demonlimb (eth)
+Tyrant Club + Pul Rune + Scroll of Identify -> Demonlimb
+Bardiche (Ethereal) + Eth Rune + Scroll of Identify -> Dimoaks Hew (eth)
+Bardiche + Tir Rune + Scroll of Identify -> Dimoaks Hew
+Ataghan (Ethereal) + Ist Rune + Scroll of Identify -> Djinnslayer (eth)
+Ataghan + Um Rune + Scroll of Identify -> Djinnslayer
+Champion Sword (Ethereal) + Ko Rune + Scroll of Identify -> Doombringer (eth)
+Champion Sword + Io Rune + Scroll of Identify -> Doombringer
+Repeating Crossbow + Amn Rune + Scroll of Identify -> Doomspittle
+Vampirebone Gloves (Ethereal) + Ohm Rune + Scroll of Identify -> Dracul's Grasp (eth)
+Vampirebone Gloves + Gul Rune + Scroll of Identify -> Dracul's Grasp
+Zakarum Shield (Ethereal) + Ohm Rune + Scroll of Identify -> Dragonscale (eth)
+Zakarum Shield + Gul Rune + Scroll of Identify -> Dragonscale
+Cuirass (Ethereal) + Shael Rune + Scroll of Identify -> Duriel's Shell (eth)
+Cuirass + Amn Rune + Scroll of Identify -> Duriel's Shell
+Full Helm (Ethereal) + Ort Rune + Scroll of Identify -> Duskdeep (eth)
+Full Helm + Tal Rune + Scroll of Identify -> Duskdeep
+Ring + Io Rune + Scroll of Identify -> Dwarf Star
+Crusader Bow + Mal Rune + Scroll of Identify -> Eaglehorn
+Battle Hammer (Ethereal) + Lum Rune + Scroll of Identify -> Earthshaker (eth)
+Battle Hammer + Hel Rune + Scroll of Identify -> Earthshaker
+Thunder Maul (Ethereal) + Gul Rune + Scroll of Identify -> Earthshifter (eth)
+Thunder Maul + Mal Rune + Scroll of Identify -> Earthshifter
+Double Bow + Shael Rune + Scroll of Identify -> Endlesshail
+Eldritch Orb (Ethereal) + Vex Rune + Scroll of Identify -> Eschuta's temper (eth)
+Eldritch Orb + Ist Rune + Scroll of Identify -> Eschuta's temper
+Silver-edged Axe + Gul Rune + Scroll of Identify -> Ethereal Edge
+Glorious Axe (Ethereal) + Ohm Rune + Scroll of Identify -> Executioner's Justice (eth)
+Glorious Axe + Gul Rune + Scroll of Identify -> Executioner's Justice
+Dimensional Shard (Ethereal) + Vex Rune + Scroll of Identify -> Fathom (eth)
+Dimensional Shard + Ist Rune + Scroll of Identify -> Fathom
+Large Axe (Ethereal) + Eth Rune + Scroll of Identify -> Fechmars Axe (eth)
+Large Axe + Tir Rune + Scroll of Identify -> Fechmars Axe
+Club (Ethereal) + Tir Rune + Scroll of Identify -> Felloak (eth)
+Club + El Rune + Scroll of Identify -> Felloak
+Feral Claws (Ethereal) + Ist Rune + Scroll of Identify -> Firelizard's Talons (eth)
+Feral Claws + Um Rune + Scroll of Identify -> Firelizard's Talons
+Balrog Blade (Ethereal) + Vex Rune + Scroll of Identify -> Flamebellow (eth)
+Balrog Blade + Ist Rune + Scroll of Identify -> Flamebellow
+Barbed Club (Ethereal) + Io Rune + Scroll of Identify -> Fleshrender (eth)
+Barbed Club + Dol Rune + Scroll of Identify -> Fleshrender
+Fanged Knife (Ethereal) + Gul Rune + Scroll of Identify -> Fleshripper (eth)
+Fanged Knife + Mal Rune + Scroll of Identify -> Fleshripper
+Gauntlets (Ethereal) + Thul Rune + Scroll of Identify -> Frostburn (eth)
+Gauntlets + Ral Rune + Scroll of Identify -> Frostburn
+Cryptic Sword (Ethereal) + Gul Rune + Scroll of Identify -> Frostwind (eth)
+Cryptic Sword + Mal Rune + Scroll of Identify -> Frostwind
+Winged Harpoon (Ethereal) + Gul Rune + Scroll of Identify -> Gargoyle's Bite (eth)
+Winged Harpoon + Mal Rune + Scroll of Identify -> Gargoyle's Bite
+Grand Charm + Ist Rune + Scroll of Identify -> Gheed's Fortune
+Legend Spike + Pul Rune + Scroll of Identify -> Ghostflame
+Heavy Bracers (Ethereal) + Hel Rune + Scroll of Identify -> Ghoulhide (eth)
+Heavy Bracers + Shael Rune + Scroll of Identify -> Ghoulhide
+Bone Visage (Ethereal) + Ist Rune + Scroll of Identify -> Giantskull (eth)
+Bone Visage + Um Rune + Scroll of Identify -> Giantskull
+Flying Axe (Ethereal) + Gul Rune + Scroll of Identify -> Gimmershred (eth)
+Flying Axe + Mal Rune + Scroll of Identify -> Gimmershred
+Dimensional Blade (Ethereal) + Io Rune + Scroll of Identify -> Ginther's Rift (eth)
+Dimensional Blade + Dol Rune + Scroll of Identify -> Ginther's Rift
+Falchion (Ethereal) + Tal Rune + Scroll of Identify -> Gleamscythe (eth)
+Falchion + Eth Rune + Scroll of Identify -> Gleamscythe
+Mesh Belt (Ethereal) + Io Rune + Scroll of Identify -> Gloomstrap (eth)
+Mesh Belt + Dol Rune + Scroll of Identify -> Gloomstrap
+Light Plated Boots (Ethereal) + Amn Rune + Scroll of Identify -> Goblin Toe (eth)
+Light Plated Boots + Fal Rune + Scroll of Identify -> Goblin Toe
+Gothic Bow + Io Rune + Scroll of Identify -> Godstrike Arch
+Full Plate Mail (Ethereal) + Shael Rune + Scroll of Identify -> Goldskin (eth)
+Full Plate Mail + Amn Rune + Scroll of Identify -> Goldskin
+Heavy Belt (Ethereal) + Ith Rune + Scroll of Identify -> Goldwrap (eth)
+Heavy Belt + Nef Rune + Scroll of Identify -> Goldwrap
+Heavy Boots (Ethereal) + Ith Rune + Scroll of Identify -> Gorefoot (eth)
+Heavy Boots + Nef Rune + Scroll of Identify -> Gorefoot
+War Boots (Ethereal) + Fal Rune + Scroll of Identify -> Gorerider (eth)
+War Boots + Fal Rune + Scroll of Identify -> Gorerider
+Broad Axe (Ethereal) + Ral Rune + Scroll of Identify -> Goreshovel (eth)
+Broad Axe + Ith Rune + Scroll of Identify -> Goreshovel
+Bone Wand (Ethereal) + Thul Rune + Scroll of Identify -> Gravenspine (eth)
+Bone Wand + Ral Rune + Scroll of Identify -> Gravenspine
+Sharkskin Gloves (Ethereal) + Dol Rune + Scroll of Identify -> Gravepalm (eth)
+Sharkskin Gloves + Sol Rune + Scroll of Identify -> Gravepalm
+Quilted Armor (Ethereal) + Eth Rune + Scroll of Identify -> Greyform (eth)
+Quilted Armor + Tir Rune + Scroll of Identify -> Greyform
+Diadem (Ethereal) + Mal Rune + Scroll of Identify -> Griffon's Eye (eth)
+Diadem + Gul Rune + Scroll of Identify -> Griffon's Eye
+Grim Scythe (Ethereal) + Ko Rune + Scroll of Identify -> Grim's Burning Dead (eth)
+Grim Scythe + Io Rune + Scroll of Identify -> Grim's Burning Dead
+Ornate Plate + Fal Rune + Scroll of Town Portal -> Griswold's Heart
+Vortex Shield + Vex Rune + Scroll of Identify -> Griswold's Honor
+Caduceus + Vex Rune + Scroll of Identify -> Griswold's Redemption
+Corona + Vex Rune + Scroll of Identify -> Griswold's Valor
+Broad Sword (Ethereal) + Ort Rune + Scroll of Identify -> Griswolds Edge (eth)
+Broad Sword + Tal Rune + Scroll of Identify -> Griswolds Edge
+Templar Coat (Ethereal) + Ko Rune + Scroll of Identify -> Guardian Angel (eth)
+Templar Coat + Um Rune + Scroll of Identify -> Guardian Angel
+Naga (Ethereal) + Fal Rune + Scroll of Identify -> Guardian Naga (eth)
+Naga + Lum Rune + Scroll of Identify -> Guardian Naga
+Winged Helm + Um Rune + Scroll of Identify -> Guillaume's Face
+Dagger (Ethereal) + Nef Rune + Scroll of Identify -> Gull (eth)
+Dagger + Eld Rune + Scroll of Identify -> Gull
+Demon Crossbow + Ist Rune + Scroll of Identify -> Gutsiphon
+Cuirass + Dol Rune + Scroll of Identify -> Haemosu's Adamant
+Conqueror Crown (Ethereal) + Lo Rune + Scroll of Identify -> Halaberd's Reign (eth)
+Conqueror Crown + Vex Rune + Scroll of Identify -> Halaberd's Reign
+Divine Scepter (Ethereal) + Lum Rune + Scroll of Identify -> Hand of Blessed Light (eth)
+Divine Scepter + Hel Rune + Scroll of Identify -> Hand of Blessed Light
+Shako (Ethereal) + Jah Rune + Scroll of Identify -> Harlequin Crest (eth)
+Shako + Ist Rune + Scroll of Identify -> Harlequin Crest
+Scale Mail (Ethereal) + Ral Rune + Scroll of Identify -> Hawkmail (eth)
+Scale Mail + Ith Rune + Scroll of Identify -> Hawkmail
+Troll Nest (Ethereal) + Ohm Rune + Scroll of Identify -> Headhunter's Glory (eth)
+Troll Nest + Gul Rune + Scroll of Identify -> Headhunter's Glory
+Battle Sword (Ethereal) + Io Rune + Scroll of Identify -> Headstriker (eth)
+Battle Sword + Dol Rune + Scroll of Identify -> Headstriker
+Rondel (Ethereal) + Hel Rune + Scroll of Identify -> Heart Carver (eth)
+Rondel + Shael Rune + Scroll of Identify -> Heart Carver
+Mighty Scepter (Ethereal) + Mal Rune + Scroll of Identify -> Heaven's Light (eth)
+Mighty Scepter + Pul Rune + Scroll of Identify -> Heaven's Light
+Light Plate (Ethereal) + Dol Rune + Scroll of Identify -> Heavenly Garb (eth)
+Light Plate + Sol Rune + Scroll of Identify -> Heavenly Garb
+Hellforge Hammer (Ethereal) + Tir Rune + Scroll of Identify -> Hell Forge Hammer (eth)
+Hellforge Hammer + El Rune + Scroll of Identify -> Hell Forge Hammer
+Heavy Crossbow + Amn Rune + Scroll of Identify -> Hellcast
+Short War Bow + Amn Rune + Scroll of Identify -> Hellclap
+War Gauntlets (Ethereal) + Ko Rune + Scroll of Identify -> Hellmouth (eth)
+War Gauntlets + Io Rune + Scroll of Identify -> Hellmouth
+Long Sword (Ethereal) + Amn Rune + Scroll of Identify -> Hellplague (eth)
+Long Sword + Ort Rune + Scroll of Identify -> Hellplague
+Colossus Crossbow + Gul Rune + Scroll of Identify -> Hellrack
+Decapitator (Ethereal) + Mal Rune + Scroll of Identify -> Hellslayer (eth)
+Decapitator + Pul Rune + Scroll of Identify -> Hellslayer
+Gilded Shield (Ethereal) + Lum Rune + Scroll of Identify -> Herald of Zakarum (eth)
+Gilded Shield + Um Rune + Scroll of Identify -> Herald of Zakarum
+Shamshir (Ethereal) + Dol Rune + Scroll of Identify -> Hexfire (eth)
+Shamshir + Sol Rune + Scroll of Identify -> Hexfire
+Amulet + Ist Rune + Scroll of Identify -> Highlord's Wrath
+Heirophant Trophy (Ethereal) + Dol Rune + Scroll of Identify -> Homunculus (eth)
+Heirophant Trophy + Sol Rune + Scroll of Identify -> Homunculus
+Yari (Ethereal) + Io Rune + Scroll of Identify -> Hone Sundan (eth)
+Yari + Dol Rune + Scroll of Identify -> Hone Sundan
+Horadric Staff (Ethereal) + Tir Rune + Scroll of Identify -> Horadric Staff (eth)
+Horadric Staff + El Rune + Scroll of Identify -> Horadric Staff
+Scourge (Ethereal) + Ist Rune + Scroll of Identify -> Horizon's Tornado (eth)
+Scourge + Um Rune + Scroll of Identify -> Horizon's Tornado
+Boots (Ethereal) + Nef Rune + Scroll of Identify -> Hotspur (eth)
+Boots + Eld Rune + Scroll of Identify -> Hotspur
+Great Helm (Ethereal) + Sol Rune + Scroll of Identify -> Howltusk (eth)
+Great Helm + Thul Rune + Scroll of Identify -> Howltusk
+Buckler + El Rune + Scroll of Identify -> Hsarus' Iron Fist
+Chain Boots + Nef Rune + Scroll of Identify -> Hsarus' Iron Heel
+Belt + Nef Rune + Scroll of Identify -> Hsarus' Iron Stay
+Bec-de-Corbin (Ethereal) + Ko Rune + Scroll of Identify -> Husoldal Evo (eth)
+Bec-de-Corbin + Io Rune + Scroll of Identify -> Husoldal Evo
+Belt + Nef Rune + Scroll of Town Portal -> Hwanin's Blessing
+Bill + Amn Rune + Scroll of Identify -> Hwanin's Justice
+Tigulated Mail + Shael Rune + Scroll of Identify -> Hwanin's Refuge
+Grand Crown + Io Rune + Scroll of Identify -> Hwanin's Splendor
+Splint Mail (Ethereal) + Amn Rune + Scroll of Identify -> Iceblink (eth)
+Splint Mail + Ort Rune + Scroll of Identify -> Iceblink
+Crossbow + Tal Rune + Scroll of Identify -> Ichorsting
+War Belt + Io Rune + Scroll of Identify -> Immortal King's Detail
+War Gauntlets + Io Rune + Scroll of Town Portal -> Immortal King's Forge
+War Boots + Io Rune + Scroll of Identify -> Immortal King's Pillar
+Sacred Armor + Vex Rune + Scroll of Identify -> Immortal King's Soul Cage
+Ogre Maul + Pul Rune + Scroll of Identify -> Immortal King's Stone Crusher
+Avenger Guard + Tal Rune + Scroll of Identify -> Immortal King's Will
+Cap + El Rune + Scroll of Identify -> Infernal Cranium
+Heavy Belt + Ith Rune + Scroll of Identify -> Infernal Sign
+Grim Wand + Ral Rune + Scroll of Identify -> Infernal Torch
+Demonhide Boots (Ethereal) + Shael Rune + Scroll of Identify -> Infernostride (eth)
+Demonhide Boots + Amn Rune + Scroll of Identify -> Infernostride
+Crown + Ort Rune + Scroll of Identify -> Iratha's Coil
+Amulet + El Rune + Tome of Town Portal -> Iratha's Collar
+Heavy Belt + Ith Rune + Scroll of Town Portal -> Iratha's Cord
+Light Gauntlets + Ith Rune + Scroll of Town Portal -> Iratha's Cuff
+Blade (Ethereal) + Sol Rune + Scroll of Identify -> Irices Shard (eth)
+Blade + Thul Rune + Scroll of Identify -> Irices Shard
+Trellised Armor (Ethereal) + Dol Rune + Scroll of Identify -> Ironpelt (eth)
+Trellised Armor + Sol Rune + Scroll of Identify -> Ironpelt
+War Hammer (Ethereal) + Shael Rune + Scroll of Identify -> Ironstone (eth)
+War Hammer + Amn Rune + Scroll of Identify -> Ironstone
+Caduceus (Ethereal) + Um Rune + Scroll of Identify -> Ironward (eth)
+Caduceus + Lem Rune + Scroll of Identify -> Ironward
+Wand (Ethereal) + Nef Rune + Scroll of Identify -> Iros Torch (eth)
+Wand + Eld Rune + Scroll of Identify -> Iros Torch
+Breast Plate + Eth Rune + Scroll of Identify -> Isenhart's Case
+Full Helm + Nef Rune + Scroll of Identify -> Isenhart's Horns
+Broad Sword + Nef Rune + Scroll of Identify -> Isenhart's Lightbrand
+Gothic Shield + Ort Rune + Scroll of Identify -> Isenhart's Parry
+Twin Axe (Ethereal) + Lum Rune + Scroll of Identify -> Islestrike (eth)
+Twin Axe + Hel Rune + Scroll of Identify -> Islestrike
+Wrist Sword (Ethereal) + Ist Rune + Scroll of Identify -> Jadetalon (eth)
+Wrist Sword + Um Rune + Scroll of Identify -> Jadetalon
+Totemic Mask (Ethereal) + Lum Rune + Scroll of Identify -> Jalal's Mane (eth)
+Totemic Mask + Hel Rune + Scroll of Identify -> Jalal's Mane
+Fuscina (Ethereal) + Dol Rune + Scroll of Identify -> Kelpie Snare (eth)
+Fuscina + Sol Rune + Scroll of Identify -> Kelpie Snare
+Pavise (Ethereal) + Ko Rune + Scroll of Identify -> Kerke's Sanctuary (eth)
+Pavise + Io Rune + Scroll of Identify -> Kerke's Sanctuary
+Khalim's Flail (Ethereal) + Tir Rune + Scroll of Identify -> KhalimFlail (eth)
+Khalim's Flail + El Rune + Scroll of Identify -> KhalimFlail
+Giant Sword (Ethereal) + Amn Rune + Scroll of Identify -> Kinemils Awl (eth)
+Giant Sword + Ort Rune + Scroll of Identify -> Kinemils Awl
+Tiara (Ethereal) + Lo Rune + Scroll of Identify -> Kira's Guardian (eth)
+Tiara + Vex Rune + Scroll of Identify -> Kira's Guardian
+Scepter (Ethereal) + Nef Rune + Scroll of Identify -> Knell Striker (eth)
+Scepter + Eld Rune + Scroll of Identify -> Knell Striker
+Sabre (Ethereal) + Ith Rune + Scroll of Identify -> Krintizs Skewer (eth)
+Sabre + Nef Rune + Scroll of Identify -> Krintizs Skewer
+Cedar Bow + Sol Rune + Scroll of Identify -> Kuko Shakaku
+Winged Axe (Ethereal) + Gul Rune + Scroll of Identify -> Lacerator (eth)
+Winged Axe + Mal Rune + Scroll of Identify -> Lacerator
+Barbed Shield (Ethereal) + Hel Rune + Scroll of Identify -> Lance Guard (eth)
+Barbed Shield + Shael Rune + Scroll of Identify -> Lance Guard
+Spetum (Ethereal) + Amn Rune + Scroll of Identify -> Lance of Yaggai (eth)
+Spetum + Ort Rune + Scroll of Identify -> Lance of Yaggai
+Arbalest + Sol Rune + Scroll of Identify -> Langer Briser
+Battle Gauntlets (Ethereal) + Lum Rune + Scroll of Identify -> Lavagout (eth)
+Battle Gauntlets + Hel Rune + Scroll of Identify -> Lavagout
+Bramble Mitts + Lum Rune + Scroll of Identify -> Laying of Hands
+Gnarled Staff (Ethereal) + Ort Rune + Scroll of Identify -> Lazarus Spire (eth)
+Gnarled Staff + Tal Rune + Scroll of Identify -> Lazarus Spire
+Light Crossbow + Nef Rune + Scroll of Identify -> Leadcrow
+Sash (Ethereal) + Eth Rune + Scroll of Identify -> Lenyms Cord (eth)
+Sash + Tir Rune + Scroll of Identify -> Lenyms Cord
+Kraken Shell (Ethereal) + Ist Rune + Scroll of Identify -> Leviathan (eth)
+Kraken Shell + Um Rune + Scroll of Identify -> Leviathan
+Grim Shield (Ethereal) + Lum Rune + Scroll of Identify -> Lidless Wall (eth)
+Grim Shield + Hel Rune + Scroll of Identify -> Lidless Wall
+Phase Blade + Lem Rune + Scroll of Identify -> Lightsabre
+Ceremonial Bow (Ethereal) + Lum Rune + Scroll of Identify -> Lycander's Aim (eth)
+Ceremonial Bow + Hel Rune + Scroll of Identify -> Lycander's Aim
+Ceremonial Pike (Ethereal) + Lum Rune + Scroll of Identify -> Lycander's Flank (eth)
+Ceremonial Pike + Hel Rune + Scroll of Identify -> Lycander's Flank
+Grand Matron Bow + Mal Rune + Scroll of Identify -> M'avina's Caster
+Kraken Shell + Ist Rune + Scroll of Identify -> M'avina's Embrace
+Battle Gauntlets + Hel Rune + Scroll of Town Portal -> M'avina's Icy Clutch
+Sharkskin Belt + Sol Rune + Scroll of Identify -> M'avina's Tenet
+Diadem + Vex Rune + Scroll of Identify -> M'avina's True Sight
+Yew Wand (Ethereal) + Ral Rune + Scroll of Identify -> Maelstromwrath (eth)
+Yew Wand + Ith Rune + Scroll of Identify -> Maelstromwrath
+Light Gauntlets (Ethereal) + Thul Rune + Scroll of Identify -> Magefist (eth)
+Light Gauntlets + Fal Rune + Scroll of Identify -> Magefist
+Rune Bow + Hel Rune + Scroll of Identify -> Magewrath
+Sharkskin Gloves + Sol Rune + Scroll of Town Portal -> Magnus' Skin
+Ring + Ith Rune + Scroll of Identify -> Manald Heal
+Archon Staff (Ethereal) + Lo Rune + Scroll of Identify -> Mang Song's Lesson (eth)
+Archon Staff + Gul Rune + Scroll of Identify -> Mang Song's Lesson
+Amulet + Ist Rune + Scroll of Town Portal -> Mara's Kaleidoscope
+Boneweave Boots (Ethereal) + Ist Rune + Scroll of Identify -> Marrowwalk (eth)
+Boneweave Boots + Um Rune + Scroll of Identify -> Marrowwalk
+Aegis (Ethereal) + Ohm Rune + Scroll of Identify -> Medusa's Gaze (eth)
+Aegis + Gul Rune + Scroll of Identify -> Medusa's Gaze
+Champion Axe (Ethereal) + Ist Rune + Scroll of Identify -> Messerschmidt's Reaver (eth)
+Champion Axe + Um Rune + Scroll of Identify -> Messerschmidt's Reaver
+Amulet + Vex Rune + Scroll of Identify -> Metalgrid
+Crown + Ort Rune + Scroll of Town Portal -> Milabrega's Diadem
+Kite Shield + Nef Rune + Scroll of Identify -> Milabrega's Orb
+Ancient Armor + Sol Rune + Scroll of Identify -> Milabrega's Robe
+War Scepter + Ith Rune + Scroll of Identify -> Milabrega's Rod
+Military Pick (Ethereal) + Thul Rune + Scroll of Identify -> Mindrend (eth)
+Military Pick + Ral Rune + Scroll of Identify -> Mindrend
+Jagged Star (Ethereal) + Lum Rune + Scroll of Identify -> Moonfall (eth)
+Jagged Star + Hel Rune + Scroll of Identify -> Moonfall
+Round Shield (Ethereal) + Dol Rune + Scroll of Identify -> Mosers Blessed Circle (eth)
+Round Shield + Sol Rune + Scroll of Identify -> Mosers Blessed Circle
+Ring + Tir Rune + Scroll of Identify -> Nagelring
+Circlet + Tal Rune + Scroll of Identify -> Naj's Circlet
+Hellforge Plate + Mal Rune + Scroll of Identify -> Naj's Light Plate
+Elder Staff + Um Rune + Scroll of Identify -> Naj's Puzzler
+Scissors Suwayyah + Vex Rune + Scroll of Identify -> Natalya's Mark
+Loricated Mail + Um Rune + Scroll of Identify -> Natalya's Shadow
+Mesh Boots + Shael Rune + Scroll of Identify -> Natalya's Soul
+Grim Helm + Hel Rune + Scroll of Identify -> Natalya's Totem
+Ring + Fal Rune + Scroll of Identify -> Nature's Peace
+Belt (Ethereal) + Thul Rune + Scroll of Identify -> Nightsmoke (eth)
+Belt + Ral Rune + Scroll of Identify -> Nightsmoke
+Spired Helm (Ethereal) + Ist Rune + Scroll of Identify -> Nightwing's Veil (eth)
+Spired Helm + Um Rune + Scroll of Identify -> Nightwing's Veil
+Amulet + Nef Rune + Scroll of Identify -> Nokozan Relic
+Truncheon (Ethereal) + Gul Rune + Scroll of Identify -> Nord's Tenderizer (eth)
+Truncheon + Mal Rune + Scroll of Identify -> Nord's Tenderizer
+Vampirefang Belt (Ethereal) + Um Rune + Scroll of Identify -> Nosferatu's Coil (eth)
+Vampirefang Belt + Lem Rune + Scroll of Identify -> Nosferatu's Coil
+Spired Helm + Ist Rune + Scroll of Identify -> Ondal's Almighty
+Elder Staff (Ethereal) + Ist Rune + Scroll of Identify -> Ondal's Wisdom (eth)
+Elder Staff + Um Rune + Scroll of Town Portal -> Ondal's Wisdom
+Dusk Shroud (Ethereal) + Ohm Rune + Scroll of Identify -> Ormus' Robes (eth)
+Dusk Shroud + Um Rune + Scroll of Identify -> Ormus' Robes
+War Hat (Ethereal) + Shael Rune + Scroll of Identify -> Peasent Crown (eth)
+War Hat + Amn Rune + Scroll of Identify -> Peasent Crown
+Buckler (Ethereal) + Tir Rune + Scroll of Identify -> Pelta Lunata (eth)
+Buckler + El Rune + Scroll of Town Portal -> Pelta Lunata
+Composite Bow + Ral Rune + Scroll of Identify -> Piercerib
+Partizan (Ethereal) + Lum Rune + Scroll of Identify -> Pierre Tombale Couant (eth)
+Partizan + Hel Rune + Scroll of Identify -> Pierre Tombale Couant
+Rune Sword (Ethereal) + Lum Rune + Scroll of Identify -> Plague Bearer (eth)
+Rune Sword + Hel Rune + Scroll of Identify -> Plague Bearer
+Short Bow + Tir Rune + Scroll of Identify -> Pluckeye
+Crowbill (Ethereal) + Ko Rune + Scroll of Identify -> Pompe's Wrath (eth)
+Crowbill + Io Rune + Scroll of Identify -> Pompe's Wrath
+Short Battle Bow + Thul Rune + Scroll of Identify -> Pullspite
+Siege Crossbow + Shael Rune + Scroll of Identify -> Pus Spiter
+Mage Plate (Ethereal) + Lem Rune + Scroll of Identify -> Que-Hegan's Wisdon (eth)
+Mage Plate + Ko Rune + Scroll of Identify -> Que-Hegan's Wisdon
+xts (Ethereal) + Fal Rune + Scroll of Identify -> Radimant's Sphere (eth)
+xts + Lum Rune + Scroll of Identify -> Radimant's Sphere
+Jewel + Ist Rune + Scroll of Identify -> Rainbow Facet (Hit Power - Cold)
+Jewel + Ist Rune + Scroll of Town Portal -> Rainbow Facet (Hit Power - Fire)
+Jewel + Ist Rune + Tome of Identify -> Rainbow Facet (Hit Power - Lightning)
+Jewel + Ist Rune + Tome of Town Portal -> Rainbow Facet (Hit Power - Poison)
+Jewel + Ist Rune + Key -> Rainbow Facet (Level Up - Cold)
+Jewel + Ist Rune + Minor Healing Potion -> Rainbow Facet (Level Up - Fire)
+Jewel + Ist Rune + Minor Mana Potion -> Rainbow Facet (Level Up - Lightning)
+Jewel + Ist Rune + Light Healing Potion -> Rainbow Facet (Level Up - Poison)
+War Axe (Ethereal) + Shael Rune + Scroll of Identify -> Rakescar (eth)
+War Axe + Amn Rune + Scroll of Identify -> Rakescar
+Gothic Plate (Ethereal) + Dol Rune + Scroll of Identify -> Rattlecage (eth)
+Gothic Plate + Sol Rune + Scroll of Identify -> Rattlecage
+Ring + Ko Rune + Scroll of Identify -> Raven Frost
+Sky Spirit (Ethereal) + Ohm Rune + Scroll of Identify -> Ravenlore (eth)
+Sky Spirit + Gul Rune + Scroll of Identify -> Ravenlore
+Tomahawk (Ethereal) + Ist Rune + Scroll of Identify -> Razoredge (eth)
+Tomahawk + Um Rune + Scroll of Identify -> Razoredge
+Jo Staff (Ethereal) + Shael Rune + Scroll of Identify -> Razorswitch (eth)
+Jo Staff + Amn Rune + Scroll of Identify -> Razorswitch
+Sharkskin Belt (Ethereal) + Dol Rune + Scroll of Identify -> Razortail (eth)
+Sharkskin Belt + Um Rune + Scroll of Identify -> Razortail
+Trident (Ethereal) + Tal Rune + Scroll of Identify -> Razortine (eth)
+Trident + Eth Rune + Scroll of Identify -> Razortine
+Quarterstaff (Ethereal) + Sol Rune + Scroll of Identify -> Ribcracker (eth)
+Quarterstaff + Thul Rune + Scroll of Identify -> Ribcracker
+Long Bow + Ith Rune + Scroll of Identify -> Rimeraven
+Razor Bow + Sol Rune + Scroll of Identify -> Riphook
+Flamberge (Ethereal) + Sol Rune + Scroll of Identify -> Ripsaw (eth)
+Flamberge + Thul Rune + Scroll of Identify -> Ripsaw
+Demonhide Boots + Amn Rune + Scroll of Town Portal -> Rite of Passage
+Short Sword (Ethereal) + Tir Rune + Scroll of Identify -> Rixots Keen (eth)
+Short Sword + El Rune + Scroll of Identify -> Rixots Keen
+Field Plate (Ethereal) + Shael Rune + Scroll of Identify -> Rockfleece (eth)
+Field Plate + Amn Rune + Scroll of Identify -> Rockfleece
+Sallet (Ethereal) + Dol Rune + Scroll of Identify -> Rockstopper (eth)
+Sallet + Sol Rune + Scroll of Identify -> Rockstopper
+Ettin Axe (Ethereal) + Vex Rune + Scroll of Identify -> Runemaster (eth)
+Ettin Axe + Ist Rune + Scroll of Identify -> Runemaster
+Grand Scepter (Ethereal) + Ort Rune + Scroll of Identify -> Rusthandle (eth)
+Grand Scepter + Tal Rune + Scroll of Identify -> Rusthandle
+Cap + El Rune + Scroll of Town Portal -> Sander's Paragon
+Heavy Boots + Eld Rune + Scroll of Town Portal -> Sander's Riprap
+Bone Wand + Eth Rune + Scroll of Identify -> Sander's Superstition
+Heavy Gloves + Eld Rune + Scroll of Identify -> Sander's Taboo
+Scarabshell Boots (Ethereal) + Hel Rune + Scroll of Identify -> Sandstorm Trek (eth)
+Scarabshell Boots + Shael Rune + Scroll of Identify -> Sandstorm Trek
+Amulet + Ral Rune + Scroll of Identify -> Saracen's Chance
+Legend Sword + Ko Rune + Scroll of Identify -> Sazabi's Cobalt Redeemer
+Balrog Skin + Mal Rune + Scroll of Identify -> Sazabi's Ghost Liberator
+Basinet + Dol Rune + Scroll of Town Portal -> Sazabi's Mental Sheath
+Legendary Mallet (Ethereal) + Lum Rune + Scroll of Identify -> Schaefer's Hammer (eth)
+Legendary Mallet + Hel Rune + Scroll of Identify -> Schaefer's Hammer
+Amulet + Pul Rune + Scroll of Identify -> Seraph's Hymn
+Long Staff (Ethereal) + Ith Rune + Scroll of Identify -> Serpent Lord (eth)
+Long Staff + Nef Rune + Scroll of Identify -> Serpent Lord
+Myrmidon Greaves (Ethereal) + Vex Rune + Scroll of Identify -> Shadowdancer (eth)
+Myrmidon Greaves + Ist Rune + Scroll of Identify -> Shadowdancer
+Two-Handed Sword (Ethereal) + Tal Rune + Scroll of Identify -> Shadowfang (eth)
+Two-Handed Sword + Eth Rune + Scroll of Identify -> Shadowfang
+Battle Cestus + Vex Rune + Scroll of Identify -> Shadowkiller
+Mesh Armor (Ethereal) + Dol Rune + Scroll of Identify -> Shaftstop (eth)
+Mesh Armor + Sol Rune + Scroll of Identify -> Shaftstop
+Gauntlets + Ral Rune + Scroll of Town Portal -> Sigon's Gage
+Tower Shield + Tal Rune + Scroll of Identify -> Sigon's Guard
+Greaves + Ral Rune + Scroll of Identify -> Sigon's Sabot
+Gothic Plate + Thul Rune + Scroll of Identify -> Sigon's Shelter
+Great Helm + Tal Rune + Scroll of Identify -> Sigon's Visor
+Plated Belt + Ral Rune + Scroll of Identify -> Sigon's Wrap
+Mesh Boots (Ethereal) + Hel Rune + Scroll of Identify -> Silkweave (eth)
+Mesh Boots + Shael Rune + Scroll of Town Portal -> Silkweave
+Demonhide Armor (Ethereal) + Dol Rune + Scroll of Identify -> Skin of the Flayerd One (eth)
+Demonhide Armor + Sol Rune + Scroll of Identify -> Skin of the Flayerd One
+Serpentskin Armor (Ethereal) + Io Rune + Scroll of Identify -> Skin of the Vipermagi (eth)
+Serpentskin Armor + Mal Rune + Scroll of Identify -> Skin of the Vipermagi
+Rune Staff (Ethereal) + Lum Rune + Scroll of Identify -> Skullcollector (eth)
+Rune Staff + Hel Rune + Scroll of Identify -> Skullcollector
+Russet Armor (Ethereal) + Lum Rune + Scroll of Identify -> Skullder's Ire (eth)
+Russet Armor + Hel Rune + Scroll of Identify -> Skullder's Ire
+Edge Bow + Amn Rune + Scroll of Identify -> Skystrike
+Light Belt (Ethereal) + Tal Rune + Scroll of Identify -> Snakecord (eth)
+Light Belt + Eth Rune + Scroll of Identify -> Snakecord
+Battle Belt (Ethereal) + Lum Rune + Scroll of Identify -> Snowclash (eth)
+Battle Belt + Hel Rune + Scroll of Identify -> Snowclash
+Scythe (Ethereal) + Thul Rune + Scroll of Identify -> Soul Harvest (eth)
+Scythe + Ral Rune + Scroll of Identify -> Soul Harvest
+Vambraces (Ethereal) + Ohm Rune + Scroll of Identify -> Souldrain (eth)
+Vambraces + Gul Rune + Scroll of Identify -> Souldrain
+War Fork (Ethereal) + Hel Rune + Scroll of Identify -> Soulfeast Tine (eth)
+War Fork + Shael Rune + Scroll of Identify -> Soulfeast Tine
+Claymore (Ethereal) + Thul Rune + Scroll of Identify -> Soulflay (eth)
+Claymore + Ral Rune + Scroll of Identify -> Soulflay
+Chain Mail (Ethereal) + Ort Rune + Scroll of Identify -> Sparking Mail (eth)
+Chain Mail + Tal Rune + Scroll of Identify -> Sparking Mail
+Bearded Axe (Ethereal) + Io Rune + Scroll of Identify -> Spellsteel (eth)
+Bearded Axe + Dol Rune + Scroll of Identify -> Spellsteel
+Blade Barrier (Ethereal) + Gul Rune + Scroll of Identify -> Spike Thorn (eth)
+Blade Barrier + Mal Rune + Scroll of Identify -> Spike Thorn
+Poignard (Ethereal) + Dol Rune + Scroll of Identify -> Spineripper (eth)
+Poignard + Sol Rune + Scroll of Identify -> Spineripper
+Lance (Ethereal) + Io Rune + Scroll of Identify -> Spire of Honor (eth)
+Lance + Dol Rune + Scroll of Identify -> Spire of Honor
+Ward (Ethereal) + Gul Rune + Scroll of Identify -> Spirit Ward (eth)
+Ward + Mal Rune + Scroll of Identify -> Spirit Ward
+Linked Mail (Ethereal) + Hel Rune + Scroll of Identify -> Spiritforge (eth)
+Linked Mail + Shael Rune + Scroll of Identify -> Spiritforge
+Earth Spirit (Ethereal) + Ist Rune + Scroll of Identify -> Spiritkeeper (eth)
+Earth Spirit + Um Rune + Scroll of Identify -> Spiritkeeper
+Staff of Kings (Ethereal) + Tir Rune + Scroll of Identify -> Staff of Kings (eth)
+Staff of Kings + El Rune + Scroll of Identify -> Staff of Kings
+Casque (Ethereal) + Hel Rune + Scroll of Identify -> Stealskull (eth)
+Casque + Shael Rune + Scroll of Identify -> Stealskull
+Shadow Plate (Ethereal) + Ist Rune + Scroll of Identify -> Steel Carapice (eth)
+Shadow Plate + Um Rune + Scroll of Identify -> Steel Carapice
+Kite Shield (Ethereal) + Ort Rune + Scroll of Identify -> Steelclash (eth)
+Kite Shield + Tal Rune + Scroll of Identify -> Steelclash
+Great Maul (Ethereal) + Dol Rune + Scroll of Identify -> Steeldriver (eth)
+Great Maul + Sol Rune + Scroll of Identify -> Steeldriver
+Voulge (Ethereal) + Ral Rune + Scroll of Identify -> Steelgoad (eth)
+Voulge + Ith Rune + Scroll of Identify -> Steelgoad
+War Pike (Ethereal) + Gul Rune + Scroll of Identify -> Steelpillar (eth)
+War Pike + Mal Rune + Scroll of Identify -> Steelpillar
+Ogre Gauntlets (Ethereal) + Dol Rune + Scroll of Identify -> Steelrend (eth)
+Ogre Gauntlets + Sol Rune + Scroll of Identify -> Steelrend
+Armet (Ethereal) + Mal Rune + Scroll of Identify -> Steelshade (eth)
+Armet + Pul Rune + Scroll of Identify -> Steelshade
+Legendary Mallet (Ethereal) + Gul Rune + Scroll of Identify -> Stone Crusher (eth)
+Legendary Mallet + Mal Rune + Scroll of Identify -> Stone Crusher
+Matriarchal Spear (Ethereal) + Ist Rune + Scroll of Identify -> Stoneraven (eth)
+Matriarchal Spear + Um Rune + Scroll of Identify -> Stoneraven
+Scutum (Ethereal) + Hel Rune + Scroll of Identify -> Stormchaser (eth)
+Scutum + Shael Rune + Scroll of Identify -> Stormchaser
+War Scepter (Ethereal) + Amn Rune + Scroll of Identify -> Stormeye (eth)
+War Scepter + Ort Rune + Scroll of Identify -> Stormeye
+Large Shield (Ethereal) + Tal Rune + Scroll of Identify -> Stormguild (eth)
+Large Shield + Eth Rune + Scroll of Identify -> Stormguild
+Scourge (Ethereal) + Lum Rune + Scroll of Identify -> Stormlash (eth)
+Scourge + Hel Rune + Scroll of Identify -> Stormlash
+Tabar (Ethereal) + Lum Rune + Scroll of Identify -> Stormrider (eth)
+Tabar + Hel Rune + Scroll of Identify -> Stormrider
+Monarch (Ethereal) + Um Rune + Scroll of Identify -> Stormshield (eth)
+Monarch + Lem Rune + Scroll of Identify -> Stormshield
+Stilleto (Ethereal) + Lum Rune + Scroll of Identify -> Stormspike (eth)
+Stilleto + Hel Rune + Scroll of Identify -> Stormspike
+Giant Thresher (Ethereal) + Gul Rune + Scroll of Identify -> Stormspire (eth)
+Giant Thresher + Mal Rune + Scroll of Identify -> Stormspire
+Spiked Club (Ethereal) + Nef Rune + Scroll of Identify -> Stoutnail (eth)
+Spiked Club + Eld Rune + Scroll of Identify -> Stoutnail
+Demonhide Sash (Ethereal) + Sol Rune + Scroll of Identify -> String of Ears (eth)
+Demonhide Sash + Thul Rune + Scroll of Identify -> String of Ears
+Burnt Wand (Ethereal) + Dol Rune + Scroll of Identify -> Suicide Branch (eth)
+Burnt Wand + Sol Rune + Scroll of Identify -> Suicide Branch
+Khalim's Will (Ethereal) + Tir Rune + Scroll of Identify -> SuperKhalimFlail (eth)
+Khalim's Will + El Rune + Scroll of Identify -> SuperKhalimFlail
+Flanged Mace (Ethereal) + Io Rune + Scroll of Identify -> Sureshrill Frost (eth)
+Flanged Mace + Dol Rune + Scroll of Identify -> Sureshrill Frost
+Spiked Shield (Ethereal) + Ral Rune + Scroll of Identify -> Swordback Hold (eth)
+Spiked Shield + Ith Rune + Scroll of Identify -> Swordback Hold
+Executioner Sword (Ethereal) + Ko Rune + Scroll of Identify -> Swordguard (eth)
+Executioner Sword + Io Rune + Scroll of Identify -> Swordguard
+Ward + Gul Rune + Scroll of Identify -> Taebaek's Glory
+Amulet + Sol Rune + Scroll of Identify -> Tal Rasha's Adjudication
+Mesh Belt + Shael Rune + Scroll of Identify -> Tal Rasha's Fine-Spun Cloth
+Lacquered Plate + Gul Rune + Scroll of Identify -> Tal Rasha's Guardianship
+Death Mask + Dol Rune + Scroll of Identify -> Tal Rasha's Horadric Crest
+Swirling Crystal + Hel Rune + Scroll of Identify -> Tal Rasha's Lidless Eye
+Military Pick + Ith Rune + Scroll of Identify -> Tancred's Crowbill
+Boots + El Rune + Scroll of Identify -> Tancred's Hobnails
+Bone Helm + Tal Rune + Scroll of Identify -> Tancred's Skull
+Full Plate Mail + Amn Rune + Scroll of Town Portal -> Tancred's Spine
+Amulet + El Rune + Key -> Tancred's Weird
+Skull Cap (Ethereal) + Ral Rune + Scroll of Identify -> Tarnhelm (eth)
+Skull Cap + Ith Rune + Scroll of Identify -> Tarnhelm
+Greaves (Ethereal) + Dol Rune + Scroll of Identify -> Tearhaunch (eth)
+Greaves + Sol Rune + Scroll of Identify -> Tearhaunch
+Amulet + El Rune + Minor Healing Potion -> Telling of Beads
+Sacred Armor (Ethereal) + Ohm Rune + Scroll of Identify -> Templar's Might (eth)
+Sacred Armor + Gul Rune + Scroll of Identify -> Templar's Might
+Ancient Sword (Ethereal) + Lum Rune + Scroll of Identify -> The Atlantian (eth)
+Ancient Sword + Hel Rune + Scroll of Identify -> The Atlantian
+Poleaxe (Ethereal) + Sol Rune + Scroll of Identify -> The Battlebranch (eth)
+Poleaxe + Thul Rune + Scroll of Identify -> The Battlebranch
+Amulet + Lum Rune + Scroll of Identify -> The Cat's Eye
+Hard Leather Armor (Ethereal) + Ral Rune + Scroll of Identify -> The Centurion (eth)
+Hard Leather Armor + Ith Rune + Scroll of Identify -> The Centurion
+Battle Axe (Ethereal) + Thul Rune + Scroll of Identify -> The Chieftan (eth)
+Battle Axe + Ral Rune + Scroll of Identify -> The Chieftan
+Thunder Maul (Ethereal) + Lo Rune + Scroll of Identify -> The Cranium Basher (eth)
+Thunder Maul + Vex Rune + Scroll of Identify -> The Cranium Basher
+Dirk (Ethereal) + Ith Rune + Scroll of Identify -> The Diggler (eth)
+Dirk + Nef Rune + Scroll of Identify -> The Diggler
+Spear (Ethereal) + Eth Rune + Scroll of Identify -> The Dragon Chang (eth)
+Spear + Tir Rune + Scroll of Identify -> The Dragon Chang
+Amulet + Ith Rune + Scroll of Identify -> The Eye of Etlich
+Mask (Ethereal) + Thul Rune + Scroll of Identify -> The Face of Horror (eth)
+Mask + Ral Rune + Scroll of Identify -> The Face of Horror
+Holy Water Sprinkler (Ethereal) + Io Rune + Scroll of Identify -> The Fetid Sprinkler (eth)
+Holy Water Sprinkler + Dol Rune + Scroll of Identify -> The Fetid Sprinkler
+Martel de Fer (Ethereal) + Ko Rune + Scroll of Identify -> The Gavel of Pain (eth)
+Martel de Fer + Fal Rune + Scroll of Identify -> The Gavel of Pain
+Flail (Ethereal) + Thul Rune + Scroll of Identify -> The Generals Tan Do Li Ga (eth)
+Flail + Ral Rune + Scroll of Identify -> The Generals Tan Do Li Ga
+Wire Fleece (Ethereal) + Lo Rune + Scroll of Identify -> The Gladiator's Bane (eth)
+Wire Fleece + Vex Rune + Scroll of Identify -> The Gladiator's Bane
+Hand Axe (Ethereal) + Nef Rune + Scroll of Identify -> The Gnasher (eth)
+Hand Axe + Eld Rune + Scroll of Identify -> The Gnasher
+Colossus Blade (Ethereal) + Ohm Rune + Scroll of Identify -> The Grandfather (eth)
+Colossus Blade + Gul Rune + Scroll of Identify -> The Grandfather
+War Scythe (Ethereal) + Dol Rune + Scroll of Identify -> The Grim Reaper (eth)
+War Scythe + Sol Rune + Scroll of Identify -> The Grim Reaper
+Leather Gloves (Ethereal) + Nef Rune + Scroll of Identify -> The Hand of Broc (eth)
+Leather Gloves + Eld Rune + Scroll of Identify -> The Hand of Broc
+Giant Axe (Ethereal) + Dol Rune + Scroll of Identify -> The Humongous (eth)
+Giant Axe + Sol Rune + Scroll of Identify -> The Humongous
+War Spear (Ethereal) + Dol Rune + Scroll of Identify -> The Impaler (eth)
+War Spear + Sol Rune + Scroll of Identify -> The Impaler
+War Staff (Ethereal) + Shael Rune + Scroll of Identify -> The Iron Jang Bong (eth)
+War Staff + Amn Rune + Scroll of Identify -> The Iron Jang Bong
+Kriss (Ethereal) + Thul Rune + Scroll of Identify -> The Jade Tan Do (eth)
+Kriss + Ral Rune + Scroll of Identify -> The Jade Tan Do
+Amulet + Thul Rune + Scroll of Identify -> The Mahim-Oak Curio
+Lochaber Axe (Ethereal) + Lum Rune + Scroll of Identify -> The Meat Scraper (eth)
+Lochaber Axe + Hel Rune + Scroll of Identify -> The Meat Scraper
+Ancient Axe (Ethereal) + Ko Rune + Scroll of Identify -> The Minataur (eth)
+Ancient Axe + Io Rune + Scroll of Identify -> The Minataur
+Swirling Crystal (Ethereal) + Mal Rune + Scroll of Identify -> The Oculus (eth)
+Swirling Crystal + Pul Rune + Scroll of Identify -> The Oculus
+Great Sword (Ethereal) + Dol Rune + Scroll of Identify -> The Patriarch (eth)
+Great Sword + Sol Rune + Scroll of Identify -> The Patriarch
+Thresher (Ethereal) + Mal Rune + Scroll of Identify -> The Reaper's Toll (eth)
+Thresher + Ist Rune + Scroll of Identify -> The Reaper's Toll
+Mighty Scepter (Ethereal) + Vex Rune + Scroll of Identify -> The Reedeemer (eth)
+Mighty Scepter + Ist Rune + Scroll of Identify -> The Reedeemer
+Amulet + Um Rune + Scroll of Town Portal -> The Rising Sun
+Battle Staff (Ethereal) + Thul Rune + Scroll of Identify -> The Salamander (eth)
+Battle Staff + Ral Rune + Scroll of Identify -> The Salamander
+Francisca (Ethereal) + Um Rune + Scroll of Identify -> The Scalper (eth)
+Francisca + Lem Rune + Scroll of Identify -> The Scalper
+Ghost Armor (Ethereal) + Shael Rune + Scroll of Identify -> The Spirit Shroud (eth)
+Ghost Armor + Amn Rune + Scroll of Identify -> The Spirit Shroud
+Ring + Gul Rune + Scroll of Identify -> The Stone of Jordan
+Pike (Ethereal) + Shael Rune + Scroll of Identify -> The Tannr Gorerod (eth)
+Pike + Amn Rune + Scroll of Identify -> The Tannr Gorerod
+Tusk Sword (Ethereal) + Ko Rune + Scroll of Identify -> The Vile Husk (eth)
+Tusk Sword + Io Rune + Scroll of Identify -> The Vile Husk
+Gothic Shield (Ethereal) + Sol Rune + Scroll of Identify -> The Ward (eth)
+Gothic Shield + Thul Rune + Scroll of Identify -> The Ward
+War Belt (Ethereal) + Ko Rune + Scroll of Identify -> Thudergod's Vigor (eth)
+War Belt + Um Rune + Scroll of Identify -> Thudergod's Vigor
+Matriarchal Javelin (Ethereal) + Gul Rune + Scroll of Identify -> Thunderstroke (eth)
+Matriarchal Javelin + Mal Rune + Scroll of Identify -> Thunderstroke
+Dragon Shield (Ethereal) + Io Rune + Scroll of Identify -> Tiamat's Rebuke (eth)
+Dragon Shield + Dol Rune + Scroll of Identify -> Tiamat's Rebuke
+Ceremonial Javelin (Ethereal) + Lem Rune + Scroll of Identify -> Titan's Revenge (eth)
+Ceremonial Javelin + Ko Rune + Scroll of Identify -> Titan's Revenge
+Zweihander (Ethereal) + Ko Rune + Scroll of Identify -> Todesfaelle Flamme (eth)
+Zweihander + Io Rune + Scroll of Identify -> Todesfaelle Flamme
+Cryptic Axe (Ethereal) + Lo Rune + Scroll of Identify -> Tomb Reaver (eth)
+Cryptic Axe + Vex Rune + Scroll of Identify -> Tomb Reaver
+Sharktooth Armor (Ethereal) + Fal Rune + Scroll of Identify -> Toothrow (eth)
+Sharktooth Armor + Lum Rune + Scroll of Identify -> Toothrow
+Heavy Bracers + Fal Rune + Scroll of Identify -> Trang-Oul's Claws
+Troll Belt + Gul Rune + Scroll of Identify -> Trang-Oul's Girth
+Bone Visage + Gul Rune + Scroll of Identify -> Trang-Oul's Guise
+Chaos Armor + Ko Rune + Scroll of Town Portal -> Trang-Oul's Scales
+Cantor Trophy + Hel Rune + Scroll of Identify -> Trang-Oul's Wing
+Chain Boots (Ethereal) + Ral Rune + Scroll of Identify -> Treads of Cthon (eth)
+Chain Boots + Ith Rune + Scroll of Identify -> Treads of Cthon
+Studded Leather (Ethereal) + Ort Rune + Scroll of Identify -> Twitchthroe (eth)
+Studded Leather + Tal Rune + Scroll of Identify -> Twitchthroe
+Sacred Armor (Ethereal) + Lo Rune + Scroll of Identify -> Tyrael's Might (eth)
+Sacred Armor + Vex Rune + Scroll of Town Portal -> Tyrael's Might
+Small Shield (Ethereal) + Ith Rune + Scroll of Identify -> Umbral Disk (eth)
+Small Shield + Nef Rune + Scroll of Identify -> Umbral Disk
+Grim Wand (Ethereal) + Shael Rune + Scroll of Identify -> Umes Lament (eth)
+Grim Wand + Amn Rune + Scroll of Identify -> Umes Lament
+Crown (Ethereal) + Dol Rune + Scroll of Identify -> Undead Crown (eth)
+Crown + Sol Rune + Scroll of Identify -> Undead Crown
+Winged Helm (Ethereal) + Ko Rune + Scroll of Identify -> Valkiry Wing (eth)
+Winged Helm + Io Rune + Scroll of Identify -> Valkiry Wing
+Grim Helm (Ethereal) + Fal Rune + Scroll of Identify -> Vampiregaze (eth)
+Grim Helm + Lum Rune + Scroll of Identify -> Vampiregaze
+Spired Helm (Ethereal) + Um Rune + Scroll of Identify -> Veil of Steel (eth)
+Spired Helm + Lem Rune + Scroll of Identify -> Veil of Steel
+Demonhide Gloves (Ethereal) + Shael Rune + Scroll of Identify -> Venom Grip (eth)
+Demonhide Gloves + Amn Rune + Scroll of Identify -> Venom Grip
+Breast Plate (Ethereal) + Thul Rune + Scroll of Identify -> Venomsward (eth)
+Breast Plate + Ral Rune + Scroll of Identify -> Venomsward
+Mithril Coil (Ethereal) + Ko Rune + Scroll of Identify -> Verdungo's Hearty Cord (eth)
+Mithril Coil + Io Rune + Scroll of Identify -> Verdungo's Hearty Cord
+Ancient Armor (Ethereal) + Shael Rune + Scroll of Identify -> Victors Silk (eth)
+Ancient Armor + Amn Rune + Scroll of Identify -> Victors Silk
+Leather Armor + El Rune + Scroll of Identify -> Vidala's Ambush
+Long Battle Bow + Tal Rune + Scroll of Identify -> Vidala's Barb
+Light Plated Boots + Ith Rune + Scroll of Identify -> Vidala's Fetlock
+Amulet + El Rune + Minor Mana Potion -> Vidala's Snare
+Mancatcher (Ethereal) + Vex Rune + Scroll of Identify -> Viperfork (eth)
+Mancatcher + Ist Rune + Scroll of Identify -> Viperfork
+Defender (Ethereal) + Shael Rune + Scroll of Identify -> Visceratuant (eth)
+Defender + Amn Rune + Scroll of Identify -> Visceratuant
+Bone Shield (Ethereal) + Thul Rune + Scroll of Identify -> Wall of the Eyeless (eth)
+Bone Shield + Ral Rune + Scroll of Identify -> Wall of the Eyeless
+Cap (Ethereal) + Tir Rune + Scroll of Identify -> War Bonnet (eth)
+Cap + El Rune + Tome of Identify -> War Bonnet
+Military Axe (Ethereal) + Hel Rune + Scroll of Identify -> Warlord's Trust (eth)
+Military Axe + Shael Rune + Scroll of Identify -> Warlord's Trust
+Gothic Staff (Ethereal) + Io Rune + Scroll of Identify -> Warpspear (eth)
+Gothic Staff + Dol Rune + Scroll of Identify -> Warpspear
+Winged Knife (Ethereal) + Ohm Rune + Scroll of Identify -> Warshrike (eth)
+Winged Knife + Gul Rune + Scroll of Identify -> Warshrike
+Battle Boots (Ethereal) + Lum Rune + Scroll of Identify -> Wartraveler (eth)
+Battle Boots + Ist Rune + Scroll of Identify -> Wartraveler
+Sharkskin Boots (Ethereal) + Amn Rune + Scroll of Identify -> Waterwalk (eth)
+Sharkskin Boots + Ort Rune + Scroll of Identify -> Waterwalk
+Short Siege Bow + Dol Rune + Scroll of Identify -> Whichwild String
+Round Shield + Amn Rune + Scroll of Identify -> Whitstan's Guard
+Ward Bow + Um Rune + Scroll of Identify -> Widowmaker
+Battle Belt + Hel Rune + Scroll of Town Portal -> Wilhelm's Pride
+Hydra Bow + Ist Rune + Scroll of Identify -> Windforce
+Ogre Maul (Ethereal) + Gul Rune + Scroll of Identify -> Windhammer (eth)
+Ogre Maul + Mal Rune + Scroll of Identify -> Windhammer
+Ring + Gul Rune + Scroll of Town Portal -> Wisp
+Hunter's Bow + Eth Rune + Scroll of Identify -> Witherstring
+Bone Knife (Ethereal) + Thul Rune + Scroll of Identify -> Wizardspike (eth)
+Bone Knife + Ral Rune + Scroll of Identify -> Wizardspike
+Long Battle Bow + Thul Rune + Scroll of Identify -> Wizendraw
+Halberd (Ethereal) + Shael Rune + Scroll of Identify -> Woestave (eth)
+Halberd + Amn Rune + Scroll of Identify -> Woestave
+Fury Visor (Ethereal) + Lo Rune + Scroll of Identify -> Wolfhowl (eth)
+Fury Visor + Vex Rune + Scroll of Identify -> Wolfhowl
+Bone Helm (Ethereal) + Thul Rune + Scroll of Identify -> Wormskull (eth)
+Bone Helm + Ral Rune + Scroll of Identify -> Wormskull
+Ghost Glaive + Gul Rune + Scroll of Identify -> Wraithflight
+Rune Scepter (Ethereal) + Io Rune + Scroll of Identify -> Zakarum's Hand (eth)
+Rune Scepter + Dol Rune + Scroll of Identify -> Zakarum's Hand
+
+SALVAGE RECIPES (509)
+Named unique/set item + filler item -> base item + rune
+======================================================================
+Aldur's Advance + Scroll of Identify -> Battle Boots + Hel Rune
+Aldur's Deception + Scroll of Identify -> Shadow Plate + Gul Rune
+Aldur's Rhythm + Scroll of Identify -> Jagged Star + Sol Rune
+Aldur's Stony Gaze + Scroll of Identify -> Hunter's Guise + Dol Rune
+Alma Negra + Scroll of Identify -> Sacred Rondache + Vex Rune
+Andariel's Visage + Scroll of Identify -> Demonhead + Um Rune
+Angelic Halo + Scroll of Identify -> Ring + El Rune
+Angelic Mantle + Scroll of Identify -> Ring Mail + Tir Rune
+Angelic Sickle + Scroll of Identify -> Sabre + Eld Rune
+Angelic Wings + Scroll of Identify -> Amulet + El Rune
+Arachnid Mesh + Scroll of Identify -> Spiderweb Sash + Ist Rune
+Arcanna's Deathwand + Scroll of Identify -> War Staff + Tal Rune
+Arcanna's Flesh + Scroll of Identify -> Light Plate + Thul Rune
+Arcanna's Head + Scroll of Identify -> Skull Cap + Eld Rune
+Arcanna's Sign + Scroll of Identify -> Ring + El Rune
+Arctic Binding + Scroll of Identify -> Light Belt + Eld Rune
+Arctic Furs + Scroll of Identify -> Quilted Armor + El Rune
+Arctic Horn + Scroll of Identify -> Short War Bow + Ral Rune
+Arctic Mitts + Scroll of Identify -> Light Gauntlets + Ith Rune
+Arioc's Needle + Scroll of Identify -> Hyperion Spear + Ist Rune
+Arkaine's Valor + Scroll of Identify -> Balrog Skin + Vex Rune
+Arm of King Leoric + Scroll of Identify -> Tomb Wand + Shael Rune
+Arreat's Face + Scroll of Identify -> Slayer Guard + Hel Rune
+Athena's Wrath + Scroll of Identify -> Battle Scythe + Hel Rune
+Atma's Scarab + Scroll of Identify -> Amulet + Um Rune
+Atma's Wail + Scroll of Identify -> Embossed Plate + Ko Rune
+Azurewrath + Scroll of Identify -> Phase Blade + Fal Rune
+Baezil's Vortex + Scroll of Identify -> Knout + Io Rune
+Bane Ash + Scroll of Identify -> Short Staff + Eld Rune
+Baranar's Star + Scroll of Identify -> Devil Star + Ort Rune
+Berserker's Hatchet + Scroll of Identify -> Double Axe + Nef Rune
+Berserker's Hauberk + Scroll of Identify -> Splint Mail + Ith Rune
+Berserker's Headgear + Scroll of Identify -> Helm + Tir Rune
+Bing Sz Wang + Scroll of Identify -> Dacian Falx + Hel Rune
+Black Hades + Scroll of Identify -> Chaos Armor + Ko Rune
+Blackbog's Sharp + Scroll of Identify -> Cinquedeas + Dol Rune
+Blackhand Key + Scroll of Identify -> Grave Wand + Hel Rune
+Blackhorn's Face + Scroll of Identify -> Death Mask + Hel Rune
+Blackleach Blade + Scroll of Identify -> Bill + Hel Rune
+Blackoak Shield + Scroll of Identify -> Luna + Lem Rune
+Blacktongue + Scroll of Identify -> Bastard Sword + Thul Rune
+Blade of Ali Baba + Scroll of Identify -> Tulwar + Shael Rune
+Bladebone + Scroll of Identify -> Double Axe + Ith Rune
+Bladebuckle + Scroll of Identify -> Plated Belt + Sol Rune
+Blastbark + Scroll of Identify -> Long War Bow + Amn Rune
+Blinkbats Form + Scroll of Identify -> Leather Armor + Eth Rune
+Blood Crescent + Scroll of Identify -> Scimitar + Tir Rune
+Bloodfist + Scroll of Identify -> Heavy Gloves + Nef Rune
+Bloodletter + Scroll of Identify -> Gladius + Amn Rune
+Bloodmoon + Scroll of Identify -> Elegant Blade + Pul Rune
+Bloodraven's Charge + Scroll of Identify -> Matriarchal Bow + Ist Rune
+Bloodrise + Scroll of Identify -> Morning Star + Ith Rune
+Bloodthief + Scroll of Identify -> Brandistock + Tal Rune
+Bloodtree Stump + Scroll of Identify -> War Club + Lum Rune
+Boneflame + Scroll of Identify -> Succubus Skull + Ist Rune
+Boneflesh + Scroll of Identify -> Plate Mail + Thul Rune
+Bonehew + Scroll of Identify -> Ogre Axe + Um Rune
+Boneshade + Scroll of Identify -> Lich Wand + Gul Rune
+Boneslayer Blade + Scroll of Identify -> Gothic Axe + Hel Rune
+Bonesob + Scroll of Identify -> Maul + Thul Rune
+Brainhew + Scroll of Identify -> Great Axe + Thul Rune
+Bul Katho's Wedding Band + Scroll of Identify -> Ring + Ist Rune
+Bul-Kathos' Sacred Charge + Scroll of Identify -> Colossus Blade + Vex Rune
+Bul-Kathos' Tribal Guardian + Scroll of Identify -> Mythical Sword + Vex Rune
+Buriza-Do Kyanon + Scroll of Identify -> Ballista + Fal Rune
+Butcher's Pupil + Scroll of Identify -> Cleaver + Dol Rune
+Bverrit Keep + Scroll of Identify -> Tower Shield + Ral Rune
+Carin Shard + Scroll of Identify -> Petrified Wand + Shael Rune
+Carrion Wind + Scroll of Identify -> Ring + Lem Rune
+Cathan's Mesh + Scroll of Identify -> Chain Mail + Nef Rune
+Cathan's Rule + Scroll of Identify -> Battle Staff + Eth Rune
+Cathan's Seal + Scroll of Identify -> Ring + El Rune
+Cathan's Sigil + Scroll of Identify -> Amulet + El Rune
+Cathan's Visage + Scroll of Identify -> Mask + Ith Rune
+Cerebus + Scroll of Identify -> Blood Spirit + Pul Rune
+Chance Guards + Scroll of Identify -> Chain Gloves + Ith Rune
+Chromatic Ire + Scroll of Identify -> Cedar Staff + Shael Rune
+Civerb's Cudgel + Scroll of Identify -> Grand Scepter + Nef Rune
+Civerb's Icon + Scroll of Identify -> Amulet + El Rune
+Civerb's Ward + Scroll of Identify -> Large Shield + Tir Rune
+Cleglaw's Claw + Scroll of Identify -> Small Shield + Eld Rune
+Cleglaw's Pincers + Scroll of Identify -> Chain Gloves + Nef Rune
+Cleglaw's Tooth + Scroll of Identify -> Long Sword + Ith Rune
+Cliffkiller + Scroll of Identify -> Long Siege Bow + Hel Rune
+Cloudcrack + Scroll of Identify -> Gothic Sword + Io Rune
+Coif of Glory + Scroll of Identify -> Helm + Ith Rune
+Coldkill + Scroll of Identify -> Hatchet + Shael Rune
+Coldsteel Eye + Scroll of Identify -> Cutlass + Sol Rune
+Corpsemourn + Scroll of Identify -> Ornate Plate + Fal Rune
+Cow King's Hide + Scroll of Identify -> Studded Leather + Eld Rune
+Cow King's Hooves + Scroll of Identify -> Heavy Boots + Eld Rune
+Cow King's Horns + Scroll of Identify -> War Hat + Thul Rune
+Crainte Vomir + Scroll of Identify -> Espandon + Hel Rune
+Cranebeak + Scroll of Identify -> War Spike + Pul Rune
+Credendum + Scroll of Identify -> Mithril Coil + Um Rune
+Crescent Moon + Scroll of Identify -> Amulet + Io Rune
+Crow Caw + Scroll of Identify -> Tigulated Mail + Dol Rune
+Crown of Ages + Scroll of Identify -> Corona + Um Rune
+Crown of Thieves + Scroll of Identify -> Grand Crown + Lum Rune
+Crushflange + Scroll of Identify -> Mace + Nef Rune
+Culwens Point + Scroll of Identify -> War Sword + Sol Rune
+Cutthroat1 + Scroll of Identify -> Greater Talons + Dol Rune
+Dangoon's Teaching + Scroll of Identify -> Reinforced Mace + Fal Rune
+Dark Adherent + Scroll of Identify -> Dusk Shroud + Lem Rune
+Dark Clan Crusher + Scroll of Identify -> Cudgel + Shael Rune
+Darkforge Spawn + Scroll of Identify -> Bloodlord Skull + Um Rune
+Darkglow + Scroll of Identify -> Ring Mail + Ith Rune
+Darksight Helm + Scroll of Identify -> Basinet + Dol Rune
+Death's Guard + Scroll of Identify -> Sash + El Rune
+Death's Hand + Scroll of Identify -> Leather Gloves + El Rune
+Death's Touch + Scroll of Identify -> War Sword + Ral Rune
+Deathbit + Scroll of Identify -> Battle Dart + Io Rune
+Deathcleaver + Scroll of Identify -> Berserker Axe + Mal Rune
+Deaths's Web + Scroll of Identify -> Unearthed Wand + Gul Rune
+Deathspade + Scroll of Identify -> Axe + Nef Rune
+Demon Machine + Scroll of Identify -> Chu-Ko-Nu + Lum Rune
+Demon's Arch + Scroll of Identify -> Balrog Spear + Mal Rune
+Demonhorn's Edge + Scroll of Identify -> Destroyer Helm + Pul Rune
+Demonlimb + Scroll of Identify -> Tyrant Club + Pul Rune
+Dimoaks Hew + Scroll of Identify -> Bardiche + Tir Rune
+Djinnslayer + Scroll of Identify -> Ataghan + Um Rune
+Doombringer + Scroll of Identify -> Champion Sword + Io Rune
+Doomspittle + Scroll of Identify -> Repeating Crossbow + Amn Rune
+Dracul's Grasp + Scroll of Identify -> Vampirebone Gloves + Gul Rune
+Dragonscale + Scroll of Identify -> Zakarum Shield + Gul Rune
+Duriel's Shell + Scroll of Identify -> Cuirass + Amn Rune
+Duskdeep + Scroll of Identify -> Full Helm + Tal Rune
+Dwarf Star + Scroll of Identify -> Ring + Io Rune
+Eaglehorn + Scroll of Identify -> Crusader Bow + Mal Rune
+Earthshaker + Scroll of Identify -> Battle Hammer + Hel Rune
+Earthshifter + Scroll of Identify -> Thunder Maul + Mal Rune
+Endlesshail + Scroll of Identify -> Double Bow + Shael Rune
+Eschuta's temper + Scroll of Identify -> Eldritch Orb + Ist Rune
+Ethereal Edge + Scroll of Identify -> Silver-edged Axe + Gul Rune
+Executioner's Justice + Scroll of Identify -> Glorious Axe + Gul Rune
+Fathom + Scroll of Identify -> Dimensional Shard + Ist Rune
+Fechmars Axe + Scroll of Identify -> Large Axe + Tir Rune
+Felloak + Scroll of Identify -> Club + El Rune
+Firelizard's Talons + Scroll of Identify -> Feral Claws + Um Rune
+Flamebellow + Scroll of Identify -> Balrog Blade + Ist Rune
+Fleshrender + Scroll of Identify -> Barbed Club + Dol Rune
+Fleshripper + Scroll of Identify -> Fanged Knife + Mal Rune
+Frostburn + Scroll of Identify -> Gauntlets + Ral Rune
+Frostwind + Scroll of Identify -> Cryptic Sword + Mal Rune
+Gargoyle's Bite + Scroll of Identify -> Winged Harpoon + Mal Rune
+Gheed's Fortune + Scroll of Identify -> Grand Charm + Ist Rune
+Ghostflame + Scroll of Identify -> Legend Spike + Pul Rune
+Ghoulhide + Scroll of Identify -> Heavy Bracers + Shael Rune
+Giantskull + Scroll of Identify -> Bone Visage + Um Rune
+Gimmershred + Scroll of Identify -> Flying Axe + Mal Rune
+Ginther's Rift + Scroll of Identify -> Dimensional Blade + Dol Rune
+Gleamscythe + Scroll of Identify -> Falchion + Eth Rune
+Gloomstrap + Scroll of Identify -> Mesh Belt + Dol Rune
+Goblin Toe + Scroll of Identify -> Light Plated Boots + Fal Rune
+Godstrike Arch + Scroll of Identify -> Gothic Bow + Io Rune
+Goldskin + Scroll of Identify -> Full Plate Mail + Amn Rune
+Goldwrap + Scroll of Identify -> Heavy Belt + Nef Rune
+Gorefoot + Scroll of Identify -> Heavy Boots + Nef Rune
+Gorerider + Scroll of Identify -> War Boots + Fal Rune
+Goreshovel + Scroll of Identify -> Broad Axe + Ith Rune
+Gravenspine + Scroll of Identify -> Bone Wand + Ral Rune
+Gravepalm + Scroll of Identify -> Sharkskin Gloves + Sol Rune
+Greyform + Scroll of Identify -> Quilted Armor + Tir Rune
+Griffon's Eye + Scroll of Identify -> Diadem + Gul Rune
+Grim's Burning Dead + Scroll of Identify -> Grim Scythe + Io Rune
+Griswold's Heart + Scroll of Identify -> Ornate Plate + Fal Rune
+Griswold's Honor + Scroll of Identify -> Vortex Shield + Vex Rune
+Griswold's Redemption + Scroll of Identify -> Caduceus + Vex Rune
+Griswold's Valor + Scroll of Identify -> Corona + Vex Rune
+Griswolds Edge + Scroll of Identify -> Broad Sword + Tal Rune
+Guardian Angel + Scroll of Identify -> Templar Coat + Um Rune
+Guardian Naga + Scroll of Identify -> Naga + Lum Rune
+Guillaume's Face + Scroll of Identify -> Winged Helm + Um Rune
+Gull + Scroll of Identify -> Dagger + Eld Rune
+Gutsiphon + Scroll of Identify -> Demon Crossbow + Ist Rune
+Haemosu's Adamant + Scroll of Identify -> Cuirass + Dol Rune
+Halaberd's Reign + Scroll of Identify -> Conqueror Crown + Vex Rune
+Hand of Blessed Light + Scroll of Identify -> Divine Scepter + Hel Rune
+Harlequin Crest + Scroll of Identify -> Shako + Ist Rune
+Hawkmail + Scroll of Identify -> Scale Mail + Ith Rune
+Headhunter's Glory + Scroll of Identify -> Troll Nest + Gul Rune
+Headstriker + Scroll of Identify -> Battle Sword + Dol Rune
+Heart Carver + Scroll of Identify -> Rondel + Shael Rune
+Heaven's Light + Scroll of Identify -> Mighty Scepter + Pul Rune
+Heavenly Garb + Scroll of Identify -> Light Plate + Sol Rune
+Hell Forge Hammer + Scroll of Identify -> Hellforge Hammer + El Rune
+Hellcast + Scroll of Identify -> Heavy Crossbow + Amn Rune
+Hellclap + Scroll of Identify -> Short War Bow + Amn Rune
+Hellmouth + Scroll of Identify -> War Gauntlets + Io Rune
+Hellplague + Scroll of Identify -> Long Sword + Ort Rune
+Hellrack + Scroll of Identify -> Colossus Crossbow + Gul Rune
+Hellslayer + Scroll of Identify -> Decapitator + Pul Rune
+Herald of Zakarum + Scroll of Identify -> Gilded Shield + Um Rune
+Hexfire + Scroll of Identify -> Shamshir + Sol Rune
+Highlord's Wrath + Scroll of Identify -> Amulet + Ist Rune
+Homunculus + Scroll of Identify -> Heirophant Trophy + Sol Rune
+Hone Sundan + Scroll of Identify -> Yari + Dol Rune
+Horadric Staff + Scroll of Identify -> Horadric Staff + El Rune
+Horizon's Tornado + Scroll of Identify -> Scourge + Um Rune
+Hotspur + Scroll of Identify -> Boots + Eld Rune
+Howltusk + Scroll of Identify -> Great Helm + Thul Rune
+Hsarus' Iron Fist + Scroll of Identify -> Buckler + El Rune
+Hsarus' Iron Heel + Scroll of Identify -> Chain Boots + Nef Rune
+Hsarus' Iron Stay + Scroll of Identify -> Belt + Nef Rune
+Husoldal Evo + Scroll of Identify -> Bec-de-Corbin + Io Rune
+Hwanin's Blessing + Scroll of Identify -> Belt + Nef Rune
+Hwanin's Justice + Scroll of Identify -> Bill + Amn Rune
+Hwanin's Refuge + Scroll of Identify -> Tigulated Mail + Shael Rune
+Hwanin's Splendor + Scroll of Identify -> Grand Crown + Io Rune
+Iceblink + Scroll of Identify -> Splint Mail + Ort Rune
+Ichorsting + Scroll of Identify -> Crossbow + Tal Rune
+Immortal King's Detail + Scroll of Identify -> War Belt + Io Rune
+Immortal King's Forge + Scroll of Identify -> War Gauntlets + Io Rune
+Immortal King's Pillar + Scroll of Identify -> War Boots + Io Rune
+Immortal King's Soul Cage + Scroll of Identify -> Sacred Armor + Vex Rune
+Immortal King's Stone Crusher + Scroll of Identify -> Ogre Maul + Pul Rune
+Immortal King's Will + Scroll of Identify -> Avenger Guard + Tal Rune
+Infernal Cranium + Scroll of Identify -> Cap + El Rune
+Infernal Sign + Scroll of Identify -> Heavy Belt + Ith Rune
+Infernal Torch + Scroll of Identify -> Grim Wand + Ral Rune
+Infernostride + Scroll of Identify -> Demonhide Boots + Amn Rune
+Iratha's Coil + Scroll of Identify -> Crown + Ort Rune
+Iratha's Collar + Scroll of Identify -> Amulet + El Rune
+Iratha's Cord + Scroll of Identify -> Heavy Belt + Ith Rune
+Iratha's Cuff + Scroll of Identify -> Light Gauntlets + Ith Rune
+Irices Shard + Scroll of Identify -> Blade + Thul Rune
+Ironpelt + Scroll of Identify -> Trellised Armor + Sol Rune
+Ironstone + Scroll of Identify -> War Hammer + Amn Rune
+Ironward + Scroll of Identify -> Caduceus + Lem Rune
+Iros Torch + Scroll of Identify -> Wand + Eld Rune
+Isenhart's Case + Scroll of Identify -> Breast Plate + Eth Rune
+Isenhart's Horns + Scroll of Identify -> Full Helm + Nef Rune
+Isenhart's Lightbrand + Scroll of Identify -> Broad Sword + Nef Rune
+Isenhart's Parry + Scroll of Identify -> Gothic Shield + Ort Rune
+Islestrike + Scroll of Identify -> Twin Axe + Hel Rune
+Jadetalon + Scroll of Identify -> Wrist Sword + Um Rune
+Jalal's Mane + Scroll of Identify -> Totemic Mask + Hel Rune
+Kelpie Snare + Scroll of Identify -> Fuscina + Sol Rune
+Kerke's Sanctuary + Scroll of Identify -> Pavise + Io Rune
+KhalimFlail + Scroll of Identify -> Khalim's Flail + El Rune
+Kinemils Awl + Scroll of Identify -> Giant Sword + Ort Rune
+Kira's Guardian + Scroll of Identify -> Tiara + Vex Rune
+Knell Striker + Scroll of Identify -> Scepter + Eld Rune
+Krintizs Skewer + Scroll of Identify -> Sabre + Nef Rune
+Kuko Shakaku + Scroll of Identify -> Cedar Bow + Sol Rune
+Lacerator + Scroll of Identify -> Winged Axe + Mal Rune
+Lance Guard + Scroll of Identify -> Barbed Shield + Shael Rune
+Lance of Yaggai + Scroll of Identify -> Spetum + Ort Rune
+Langer Briser + Scroll of Identify -> Arbalest + Sol Rune
+Lavagout + Scroll of Identify -> Battle Gauntlets + Hel Rune
+Laying of Hands + Scroll of Identify -> Bramble Mitts + Lum Rune
+Lazarus Spire + Scroll of Identify -> Gnarled Staff + Tal Rune
+Leadcrow + Scroll of Identify -> Light Crossbow + Nef Rune
+Lenyms Cord + Scroll of Identify -> Sash + Tir Rune
+Leviathan + Scroll of Identify -> Kraken Shell + Um Rune
+Lidless Wall + Scroll of Identify -> Grim Shield + Hel Rune
+Lightsabre + Scroll of Identify -> Phase Blade + Lem Rune
+Lycander's Aim + Scroll of Identify -> Ceremonial Bow + Hel Rune
+Lycander's Flank + Scroll of Identify -> Ceremonial Pike + Hel Rune
+M'avina's Caster + Scroll of Identify -> Grand Matron Bow + Mal Rune
+M'avina's Embrace + Scroll of Identify -> Kraken Shell + Ist Rune
+M'avina's Icy Clutch + Scroll of Identify -> Battle Gauntlets + Hel Rune
+M'avina's Tenet + Scroll of Identify -> Sharkskin Belt + Sol Rune
+M'avina's True Sight + Scroll of Identify -> Diadem + Vex Rune
+Maelstromwrath + Scroll of Identify -> Yew Wand + Ith Rune
+Magefist + Scroll of Identify -> Light Gauntlets + Fal Rune
+Magewrath + Scroll of Identify -> Rune Bow + Hel Rune
+Magnus' Skin + Scroll of Identify -> Sharkskin Gloves + Sol Rune
+Manald Heal + Scroll of Identify -> Ring + Ith Rune
+Mang Song's Lesson + Scroll of Identify -> Archon Staff + Gul Rune
+Mara's Kaleidoscope + Scroll of Identify -> Amulet + Ist Rune
+Marrowwalk + Scroll of Identify -> Boneweave Boots + Um Rune
+Medusa's Gaze + Scroll of Identify -> Aegis + Gul Rune
+Messerschmidt's Reaver + Scroll of Identify -> Champion Axe + Um Rune
+Metalgrid + Scroll of Identify -> Amulet + Vex Rune
+Milabrega's Diadem + Scroll of Identify -> Crown + Ort Rune
+Milabrega's Orb + Scroll of Identify -> Kite Shield + Nef Rune
+Milabrega's Robe + Scroll of Identify -> Ancient Armor + Sol Rune
+Milabrega's Rod + Scroll of Identify -> War Scepter + Ith Rune
+Mindrend + Scroll of Identify -> Military Pick + Ral Rune
+Moonfall + Scroll of Identify -> Jagged Star + Hel Rune
+Mosers Blessed Circle + Scroll of Identify -> Round Shield + Sol Rune
+Nagelring + Scroll of Identify -> Ring + Tir Rune
+Naj's Circlet + Scroll of Identify -> Circlet + Tal Rune
+Naj's Light Plate + Scroll of Identify -> Hellforge Plate + Mal Rune
+Naj's Puzzler + Scroll of Identify -> Elder Staff + Um Rune
+Natalya's Mark + Scroll of Identify -> Scissors Suwayyah + Vex Rune
+Natalya's Shadow + Scroll of Identify -> Loricated Mail + Um Rune
+Natalya's Soul + Scroll of Identify -> Mesh Boots + Shael Rune
+Natalya's Totem + Scroll of Identify -> Grim Helm + Hel Rune
+Nature's Peace + Scroll of Identify -> Ring + Fal Rune
+Nightsmoke + Scroll of Identify -> Belt + Ral Rune
+Nightwing's Veil + Scroll of Identify -> Spired Helm + Um Rune
+Nokozan Relic + Scroll of Identify -> Amulet + Nef Rune
+Nord's Tenderizer + Scroll of Identify -> Truncheon + Mal Rune
+Nosferatu's Coil + Scroll of Identify -> Vampirefang Belt + Lem Rune
+Ondal's Almighty + Scroll of Identify -> Spired Helm + Ist Rune
+Ondal's Wisdom + Scroll of Identify -> Elder Staff + Um Rune
+Ormus' Robes + Scroll of Identify -> Dusk Shroud + Um Rune
+Peasent Crown + Scroll of Identify -> War Hat + Amn Rune
+Pelta Lunata + Scroll of Identify -> Buckler + El Rune
+Piercerib + Scroll of Identify -> Composite Bow + Ral Rune
+Pierre Tombale Couant + Scroll of Identify -> Partizan + Hel Rune
+Plague Bearer + Scroll of Identify -> Rune Sword + Hel Rune
+Pluckeye + Scroll of Identify -> Short Bow + Tir Rune
+Pompe's Wrath + Scroll of Identify -> Crowbill + Io Rune
+Pullspite + Scroll of Identify -> Short Battle Bow + Thul Rune
+Pus Spiter + Scroll of Identify -> Siege Crossbow + Shael Rune
+Que-Hegan's Wisdon + Scroll of Identify -> Mage Plate + Ko Rune
+Radimant's Sphere + Scroll of Identify -> xts + Lum Rune
+Rainbow Facet (Hit Power - Cold) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet (Hit Power - Fire) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet (Hit Power - Lightning) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet (Hit Power - Poison) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet (Level Up - Cold) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet (Level Up - Fire) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet (Level Up - Lightning) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet (Level Up - Poison) + Scroll of Identify -> Jewel + Ist Rune
+Rakescar + Scroll of Identify -> War Axe + Amn Rune
+Rattlecage + Scroll of Identify -> Gothic Plate + Sol Rune
+Raven Frost + Scroll of Identify -> Ring + Ko Rune
+Ravenlore + Scroll of Identify -> Sky Spirit + Gul Rune
+Razoredge + Scroll of Identify -> Tomahawk + Um Rune
+Razorswitch + Scroll of Identify -> Jo Staff + Amn Rune
+Razortail + Scroll of Identify -> Sharkskin Belt + Um Rune
+Razortine + Scroll of Identify -> Trident + Eth Rune
+Ribcracker + Scroll of Identify -> Quarterstaff + Thul Rune
+Rimeraven + Scroll of Identify -> Long Bow + Ith Rune
+Riphook + Scroll of Identify -> Razor Bow + Sol Rune
+Ripsaw + Scroll of Identify -> Flamberge + Thul Rune
+Rite of Passage + Scroll of Identify -> Demonhide Boots + Amn Rune
+Rixots Keen + Scroll of Identify -> Short Sword + El Rune
+Rockfleece + Scroll of Identify -> Field Plate + Amn Rune
+Rockstopper + Scroll of Identify -> Sallet + Sol Rune
+Runemaster + Scroll of Identify -> Ettin Axe + Ist Rune
+Rusthandle + Scroll of Identify -> Grand Scepter + Tal Rune
+Sander's Paragon + Scroll of Identify -> Cap + El Rune
+Sander's Riprap + Scroll of Identify -> Heavy Boots + Eld Rune
+Sander's Superstition + Scroll of Identify -> Bone Wand + Eth Rune
+Sander's Taboo + Scroll of Identify -> Heavy Gloves + Eld Rune
+Sandstorm Trek + Scroll of Identify -> Scarabshell Boots + Shael Rune
+Saracen's Chance + Scroll of Identify -> Amulet + Ral Rune
+Sazabi's Cobalt Redeemer + Scroll of Identify -> Legend Sword + Ko Rune
+Sazabi's Ghost Liberator + Scroll of Identify -> Balrog Skin + Mal Rune
+Sazabi's Mental Sheath + Scroll of Identify -> Basinet + Dol Rune
+Schaefer's Hammer + Scroll of Identify -> Legendary Mallet + Hel Rune
+Seraph's Hymn + Scroll of Identify -> Amulet + Pul Rune
+Serpent Lord + Scroll of Identify -> Long Staff + Nef Rune
+Shadowdancer + Scroll of Identify -> Myrmidon Greaves + Ist Rune
+Shadowfang + Scroll of Identify -> Two-Handed Sword + Eth Rune
+Shadowkiller + Scroll of Identify -> Battle Cestus + Vex Rune
+Shaftstop + Scroll of Identify -> Mesh Armor + Sol Rune
+Sigon's Gage + Scroll of Identify -> Gauntlets + Ral Rune
+Sigon's Guard + Scroll of Identify -> Tower Shield + Tal Rune
+Sigon's Sabot + Scroll of Identify -> Greaves + Ral Rune
+Sigon's Shelter + Scroll of Identify -> Gothic Plate + Thul Rune
+Sigon's Visor + Scroll of Identify -> Great Helm + Tal Rune
+Sigon's Wrap + Scroll of Identify -> Plated Belt + Ral Rune
+Silkweave + Scroll of Identify -> Mesh Boots + Shael Rune
+Skin of the Flayerd One + Scroll of Identify -> Demonhide Armor + Sol Rune
+Skin of the Vipermagi + Scroll of Identify -> Serpentskin Armor + Mal Rune
+Skullcollector + Scroll of Identify -> Rune Staff + Hel Rune
+Skullder's Ire + Scroll of Identify -> Russet Armor + Hel Rune
+Skystrike + Scroll of Identify -> Edge Bow + Amn Rune
+Snakecord + Scroll of Identify -> Light Belt + Eth Rune
+Snowclash + Scroll of Identify -> Battle Belt + Hel Rune
+Soul Harvest + Scroll of Identify -> Scythe + Ral Rune
+Souldrain + Scroll of Identify -> Vambraces + Gul Rune
+Soulfeast Tine + Scroll of Identify -> War Fork + Shael Rune
+Soulflay + Scroll of Identify -> Claymore + Ral Rune
+Sparking Mail + Scroll of Identify -> Chain Mail + Tal Rune
+Spellsteel + Scroll of Identify -> Bearded Axe + Dol Rune
+Spike Thorn + Scroll of Identify -> Blade Barrier + Mal Rune
+Spineripper + Scroll of Identify -> Poignard + Sol Rune
+Spire of Honor + Scroll of Identify -> Lance + Dol Rune
+Spirit Ward + Scroll of Identify -> Ward + Mal Rune
+Spiritforge + Scroll of Identify -> Linked Mail + Shael Rune
+Spiritkeeper + Scroll of Identify -> Earth Spirit + Um Rune
+Staff of Kings + Scroll of Identify -> Staff of Kings + El Rune
+Stealskull + Scroll of Identify -> Casque + Shael Rune
+Steel Carapice + Scroll of Identify -> Shadow Plate + Um Rune
+Steelclash + Scroll of Identify -> Kite Shield + Tal Rune
+Steeldriver + Scroll of Identify -> Great Maul + Sol Rune
+Steelgoad + Scroll of Identify -> Voulge + Ith Rune
+Steelpillar + Scroll of Identify -> War Pike + Mal Rune
+Steelrend + Scroll of Identify -> Ogre Gauntlets + Sol Rune
+Steelshade + Scroll of Identify -> Armet + Pul Rune
+Stone Crusher + Scroll of Identify -> Legendary Mallet + Mal Rune
+Stoneraven + Scroll of Identify -> Matriarchal Spear + Um Rune
+Stormchaser + Scroll of Identify -> Scutum + Shael Rune
+Stormeye + Scroll of Identify -> War Scepter + Ort Rune
+Stormguild + Scroll of Identify -> Large Shield + Eth Rune
+Stormlash + Scroll of Identify -> Scourge + Hel Rune
+Stormrider + Scroll of Identify -> Tabar + Hel Rune
+Stormshield + Scroll of Identify -> Monarch + Lem Rune
+Stormspike + Scroll of Identify -> Stilleto + Hel Rune
+Stormspire + Scroll of Identify -> Giant Thresher + Mal Rune
+Stoutnail + Scroll of Identify -> Spiked Club + Eld Rune
+String of Ears + Scroll of Identify -> Demonhide Sash + Thul Rune
+Suicide Branch + Scroll of Identify -> Burnt Wand + Sol Rune
+SuperKhalimFlail + Scroll of Identify -> Khalim's Will + El Rune
+Sureshrill Frost + Scroll of Identify -> Flanged Mace + Dol Rune
+Swordback Hold + Scroll of Identify -> Spiked Shield + Ith Rune
+Swordguard + Scroll of Identify -> Executioner Sword + Io Rune
+Taebaek's Glory + Scroll of Identify -> Ward + Gul Rune
+Tal Rasha's Adjudication + Scroll of Identify -> Amulet + Sol Rune
+Tal Rasha's Fine-Spun Cloth + Scroll of Identify -> Mesh Belt + Shael Rune
+Tal Rasha's Guardianship + Scroll of Identify -> Lacquered Plate + Gul Rune
+Tal Rasha's Horadric Crest + Scroll of Identify -> Death Mask + Dol Rune
+Tal Rasha's Lidless Eye + Scroll of Identify -> Swirling Crystal + Hel Rune
+Tancred's Crowbill + Scroll of Identify -> Military Pick + Ith Rune
+Tancred's Hobnails + Scroll of Identify -> Boots + El Rune
+Tancred's Skull + Scroll of Identify -> Bone Helm + Tal Rune
+Tancred's Spine + Scroll of Identify -> Full Plate Mail + Amn Rune
+Tancred's Weird + Scroll of Identify -> Amulet + El Rune
+Tarnhelm + Scroll of Identify -> Skull Cap + Ith Rune
+Tearhaunch + Scroll of Identify -> Greaves + Sol Rune
+Telling of Beads + Scroll of Identify -> Amulet + El Rune
+Templar's Might + Scroll of Identify -> Sacred Armor + Gul Rune
+The Atlantian + Scroll of Identify -> Ancient Sword + Hel Rune
+The Battlebranch + Scroll of Identify -> Poleaxe + Thul Rune
+The Cat's Eye + Scroll of Identify -> Amulet + Lum Rune
+The Centurion + Scroll of Identify -> Hard Leather Armor + Ith Rune
+The Chieftan + Scroll of Identify -> Battle Axe + Ral Rune
+The Cranium Basher + Scroll of Identify -> Thunder Maul + Vex Rune
+The Diggler + Scroll of Identify -> Dirk + Nef Rune
+The Dragon Chang + Scroll of Identify -> Spear + Tir Rune
+The Eye of Etlich + Scroll of Identify -> Amulet + Ith Rune
+The Face of Horror + Scroll of Identify -> Mask + Ral Rune
+The Fetid Sprinkler + Scroll of Identify -> Holy Water Sprinkler + Dol Rune
+The Gavel of Pain + Scroll of Identify -> Martel de Fer + Fal Rune
+The Generals Tan Do Li Ga + Scroll of Identify -> Flail + Ral Rune
+The Gladiator's Bane + Scroll of Identify -> Wire Fleece + Vex Rune
+The Gnasher + Scroll of Identify -> Hand Axe + Eld Rune
+The Grandfather + Scroll of Identify -> Colossus Blade + Gul Rune
+The Grim Reaper + Scroll of Identify -> War Scythe + Sol Rune
+The Hand of Broc + Scroll of Identify -> Leather Gloves + Eld Rune
+The Humongous + Scroll of Identify -> Giant Axe + Sol Rune
+The Impaler + Scroll of Identify -> War Spear + Sol Rune
+The Iron Jang Bong + Scroll of Identify -> War Staff + Amn Rune
+The Jade Tan Do + Scroll of Identify -> Kriss + Ral Rune
+The Mahim-Oak Curio + Scroll of Identify -> Amulet + Thul Rune
+The Meat Scraper + Scroll of Identify -> Lochaber Axe + Hel Rune
+The Minataur + Scroll of Identify -> Ancient Axe + Io Rune
+The Oculus + Scroll of Identify -> Swirling Crystal + Pul Rune
+The Patriarch + Scroll of Identify -> Great Sword + Sol Rune
+The Reaper's Toll + Scroll of Identify -> Thresher + Ist Rune
+The Reedeemer + Scroll of Identify -> Mighty Scepter + Ist Rune
+The Rising Sun + Scroll of Identify -> Amulet + Um Rune
+The Salamander + Scroll of Identify -> Battle Staff + Ral Rune
+The Scalper + Scroll of Identify -> Francisca + Lem Rune
+The Spirit Shroud + Scroll of Identify -> Ghost Armor + Amn Rune
+The Stone of Jordan + Scroll of Identify -> Ring + Gul Rune
+The Tannr Gorerod + Scroll of Identify -> Pike + Amn Rune
+The Vile Husk + Scroll of Identify -> Tusk Sword + Io Rune
+The Ward + Scroll of Identify -> Gothic Shield + Thul Rune
+Thudergod's Vigor + Scroll of Identify -> War Belt + Um Rune
+Thunderstroke + Scroll of Identify -> Matriarchal Javelin + Mal Rune
+Tiamat's Rebuke + Scroll of Identify -> Dragon Shield + Dol Rune
+Titan's Revenge + Scroll of Identify -> Ceremonial Javelin + Ko Rune
+Todesfaelle Flamme + Scroll of Identify -> Zweihander + Io Rune
+Tomb Reaver + Scroll of Identify -> Cryptic Axe + Vex Rune
+Toothrow + Scroll of Identify -> Sharktooth Armor + Lum Rune
+Trang-Oul's Claws + Scroll of Identify -> Heavy Bracers + Fal Rune
+Trang-Oul's Girth + Scroll of Identify -> Troll Belt + Gul Rune
+Trang-Oul's Guise + Scroll of Identify -> Bone Visage + Gul Rune
+Trang-Oul's Scales + Scroll of Identify -> Chaos Armor + Ko Rune
+Trang-Oul's Wing + Scroll of Identify -> Cantor Trophy + Hel Rune
+Treads of Cthon + Scroll of Identify -> Chain Boots + Ith Rune
+Twitchthroe + Scroll of Identify -> Studded Leather + Tal Rune
+Tyrael's Might + Scroll of Identify -> Sacred Armor + Vex Rune
+Umbral Disk + Scroll of Identify -> Small Shield + Nef Rune
+Umes Lament + Scroll of Identify -> Grim Wand + Amn Rune
+Undead Crown + Scroll of Identify -> Crown + Sol Rune
+Valkiry Wing + Scroll of Identify -> Winged Helm + Io Rune
+Vampiregaze + Scroll of Identify -> Grim Helm + Lum Rune
+Veil of Steel + Scroll of Identify -> Spired Helm + Lem Rune
+Venom Grip + Scroll of Identify -> Demonhide Gloves + Amn Rune
+Venomsward + Scroll of Identify -> Breast Plate + Ral Rune
+Verdungo's Hearty Cord + Scroll of Identify -> Mithril Coil + Io Rune
+Victors Silk + Scroll of Identify -> Ancient Armor + Amn Rune
+Vidala's Ambush + Scroll of Identify -> Leather Armor + El Rune
+Vidala's Barb + Scroll of Identify -> Long Battle Bow + Tal Rune
+Vidala's Fetlock + Scroll of Identify -> Light Plated Boots + Ith Rune
+Vidala's Snare + Scroll of Identify -> Amulet + El Rune
+Viperfork + Scroll of Identify -> Mancatcher + Ist Rune
+Visceratuant + Scroll of Identify -> Defender + Amn Rune
+Wall of the Eyeless + Scroll of Identify -> Bone Shield + Ral Rune
+War Bonnet + Scroll of Identify -> Cap + El Rune
+Warlord's Trust + Scroll of Identify -> Military Axe + Shael Rune
+Warpspear + Scroll of Identify -> Gothic Staff + Dol Rune
+Warshrike + Scroll of Identify -> Winged Knife + Gul Rune
+Wartraveler + Scroll of Identify -> Battle Boots + Ist Rune
+Waterwalk + Scroll of Identify -> Sharkskin Boots + Ort Rune
+Whichwild String + Scroll of Identify -> Short Siege Bow + Dol Rune
+Whitstan's Guard + Scroll of Identify -> Round Shield + Amn Rune
+Widowmaker + Scroll of Identify -> Ward Bow + Um Rune
+Wilhelm's Pride + Scroll of Identify -> Battle Belt + Hel Rune
+Windforce + Scroll of Identify -> Hydra Bow + Ist Rune
+Windhammer + Scroll of Identify -> Ogre Maul + Mal Rune
+Wisp + Scroll of Identify -> Ring + Gul Rune
+Witherstring + Scroll of Identify -> Hunter's Bow + Eth Rune
+Wizardspike + Scroll of Identify -> Bone Knife + Ral Rune
+Wizendraw + Scroll of Identify -> Long Battle Bow + Thul Rune
+Woestave + Scroll of Identify -> Halberd + Amn Rune
+Wolfhowl + Scroll of Identify -> Fury Visor + Vex Rune
+Wormskull + Scroll of Identify -> Bone Helm + Ral Rune
+Wraithflight + Scroll of Identify -> Ghost Glaive + Gul Rune
+Zakarum's Hand + Scroll of Identify -> Rune Scepter + Dol Rune
