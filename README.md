@@ -27,8 +27,8 @@ this mod's tooling reads from -- none of it needs to be installed.
 
 ## Install
 
-D2R has official mod support built in. You only need to copy the two changed
-files into a mod folder and launch with a flag.
+D2R has official mod support built in. You only need to copy a few files from
+this repo into a mod folder and launch with a flag.
 
 1. Find your D2R install directory, e.g.:
    - Battle.net: `C:\Program Files (x86)\Diablo II Resurrected`
@@ -47,8 +47,13 @@ files into a mod folder and launch with a flag.
    - `data/uniqueitems.txt`
    - `data/cubemain.txt`
 
-4. Create a file named `modinfo.json` directly inside
-   `HoradricExchange.mpq\` (one level up from `excel`) containing:
+4. Copy `data/modinfo.json` from this repo the to `HoradricExchange.mpq` at:
+
+   ```
+   <D2R install>\mods\HoradricExchange\HoradricExchange.mpq\modinfo.json
+   ```
+
+  The contents of this JSON file are:
 
    ```json
    {
