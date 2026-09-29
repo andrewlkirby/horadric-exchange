@@ -30,6 +30,10 @@ this mod's tooling reads from -- none of it needs to be installed.
 D2R has official mod support built in. You only need to copy a few files from
 this repo into a mod folder and launch with a flag.
 
+The paths below are for **Windows** (the standard D2R platform). If you're on
+Steam Deck/Linux via Proton, the same relative structure applies, but the
+base install and save paths will be under Proton's compatdata layout instead.
+
 1. Find your D2R install directory, e.g.:
    - Battle.net: `C:\Program Files (x86)\Diablo II Resurrected`
    - Steam: `...\Steam\steamapps\common\Diablo II Resurrected`
@@ -76,8 +80,15 @@ this repo into a mod folder and launch with a flag.
      `-mod HoradricExchange -txt` to the end of the Target field (outside the
      quotes around the .exe path)
 
-6. Launch the game. A successful mod load shows in the bottom-left corner of
-   the main menu as `Mod: HoradricExchange`.
+6. Launch the game and verify the mod is active:
+   - **Check the save folder** -- normal D2R saves live in
+     `C:\Users\<you>\Saved Games\Diablo II Resurrected`. A successful mod
+     load instead saves characters to
+     `C:\Users\<you>\Saved Games\Diablo II Resurrected\mods\HoradricExchange\`.
+     If your character's `.ctl`/`.d2s` files show up there, the mod is active.
+   - **Or just try a recipe** -- put a plain base item + the right rune +
+     Scroll of Identify in the Horadric Cube and Transmute. Vanilla has no
+     such recipe, so if it works, the mod loaded.
 
 You can rename `HoradricExchange` to anything -- just use the same name
 consistently for the folder, `modinfo.json`, and the `-mod` flag.
