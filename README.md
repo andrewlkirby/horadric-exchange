@@ -47,13 +47,13 @@ this repo into a mod folder and launch with a flag.
    - `data/uniqueitems.txt`
    - `data/cubemain.txt`
 
-4. Copy `data/modinfo.json` from this repo the to `HoradricExchange.mpq` at:
+4. Copy `data/modinfo.json` from this repo to:
 
    ```
    <D2R install>\mods\HoradricExchange\HoradricExchange.mpq\modinfo.json
    ```
 
-  The contents of this JSON file are:
+   Its contents are:
 
    ```json
    {
