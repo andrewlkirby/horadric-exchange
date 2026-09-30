@@ -73,7 +73,9 @@ def build_row(description, base_code, quality, base_qualifier, rune_code, filler
     row['input 2'] = rune_code
     row['input 3'] = filler_code
     row['output'] = output_name
-    row['ilvl'] = '99'
+    # 'lvl' is an absolute item level; 'ilvl' is a % of the input item's level,
+    # which leaves low-level bases below the unique's qlvl and yields a rare.
+    row['lvl'] = '99'
     if eth_output:
         row['mod 1'] = 'ethereal'
         row['mod 1 min'] = '1'
