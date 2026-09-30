@@ -9,7 +9,7 @@ Recipes match the base item by **type and ethereal state**, plus a quality rule 
 
 > **Careful:** for the always-any-quality category (charms/rings/amulets/jewels), a *different* unique/set item that happens to share the same base type also satisfies the recipe and gets destroyed for the same result -- double check what you feed in.
 
-## Crafting Recipes (826)
+## Crafting Recipes (839)
 
 Base item + rune + filler item &rarr; named unique/set item
 
@@ -483,7 +483,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | Skullcollector | Rune Staff (Ethereal) | Lum | Scroll of Identify |
 | Skullcollector | Rune Staff | Hel | Scroll of Identify |
 | Skullder's Ire | Russet Armor (Ethereal) | Lum | Scroll of Identify |
-| Skullder's Ire | Russet Armor | Hel | Scroll of Identify |
+| Skullder's Ire | Russet Armor | Hel | Scroll of Town Portal |
 | Skystrike | Edge Bow | Amn | Scroll of Identify |
 | Snakecord | Light Belt (Ethereal) | Tal | Scroll of Identify |
 | Snakecord | Light Belt | Eth | Scroll of Identify |
@@ -577,7 +577,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | The Battlebranch | Poleaxe | Thul | Scroll of Identify |
 | The Cat's Eye | Amulet | Lum | Scroll of Identify |
 | The Centurion | Hard Leather Armor (Ethereal) | Ral | Scroll of Identify |
-| The Centurion | Hard Leather Armor | Ith | Scroll of Identify |
+| The Centurion | Hard Leather Armor | Ith | Scroll of Town Portal |
 | The Chieftan | Battle Axe (Ethereal) | Thul | Scroll of Identify |
 | The Chieftan | Battle Axe | Ral | Scroll of Identify |
 | The Cranium Basher | Thunder Maul (Ethereal) | Lo | Scroll of Identify |
@@ -612,7 +612,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | The Iron Jang Bong | War Staff (Ethereal) | Shael | Scroll of Identify |
 | The Iron Jang Bong | War Staff | Amn | Scroll of Identify |
 | The Jade Tan Do | Kriss (Ethereal) | Thul | Scroll of Identify |
-| The Jade Tan Do | Kriss | Ral | Scroll of Identify |
+| The Jade Tan Do | Kriss | Ral | Scroll of Town Portal |
 | The Mahim-Oak Curio | Amulet | Thul | Scroll of Identify |
 | The Meat Scraper | Lochaber Axe (Ethereal) | Lum | Scroll of Identify |
 | The Meat Scraper | Lochaber Axe | Hel | Scroll of Identify |
@@ -673,7 +673,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | Veil of Steel | Spired Helm (Ethereal) | Um | Scroll of Identify |
 | Veil of Steel | Spired Helm | Lem | Scroll of Identify |
 | Venom Grip | Demonhide Gloves (Ethereal) | Shael | Scroll of Identify |
-| Venom Grip | Demonhide Gloves | Amn | Scroll of Identify |
+| Venom Grip | Demonhide Gloves | Amn | Scroll of Town Portal |
 | Venomsward | Breast Plate (Ethereal) | Thul | Scroll of Identify |
 | Venomsward | Breast Plate | Ral | Scroll of Identify |
 | Verdungo's Hearty Cord | Mithril Coil (Ethereal) | Ko | Scroll of Identify |
@@ -721,13 +721,13 @@ Base item + rune + filler item &rarr; named unique/set item
 </details>
 
 <details>
-<summary><strong>Set Items (127)</strong></summary>
+<summary><strong>Set Items (140)</strong></summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
 | Aldur's Advance | Battle Boots | Hel | Scroll of Identify |
 | Aldur's Deception | Shadow Plate | Gul | Scroll of Identify |
-| Aldur's Rhythm | Jagged Star | Sol | Scroll of Identify |
+| Aldur's Gauntlet | Jagged Star | Sol | Scroll of Identify |
 | Aldur's Stony Gaze | Hunter's Guise | Dol | Scroll of Identify |
 | Angelic Halo | Ring | El | Scroll of Identify |
 | Angelic Mantle | Ring Mail | Tir | Scroll of Identify |
@@ -741,6 +741,9 @@ Base item + rune + filler item &rarr; named unique/set item
 | Arctic Furs | Quilted Armor | El | Scroll of Identify |
 | Arctic Horn | Short War Bow | Ral | Scroll of Identify |
 | Arctic Mitts | Light Gauntlets | Ith | Scroll of Identify |
+| Bane's Authority | Light Belt | Eld | Scroll of Town Portal |
+| Bane's Oathmaker | Kriss | Ral | Scroll of Identify |
+| Bane's Wraithskin | Hard Leather Armor | Ith | Scroll of Identify |
 | Berserker's Hatchet | Double Axe | Nef | Scroll of Identify |
 | Berserker's Hauberk | Splint Mail | Ith | Scroll of Identify |
 | Berserker's Headgear | Helm | Tir | Scroll of Identify |
@@ -758,26 +761,31 @@ Base item + rune + filler item &rarr; named unique/set item
 | Cleglaw's Pincers | Chain Gloves | Nef | Scroll of Identify |
 | Cleglaw's Tooth | Long Sword | Ith | Scroll of Identify |
 | Cow King's Hide | Studded Leather | Eld | Scroll of Identify |
-| Cow King's Hooves | Heavy Boots | Eld | Scroll of Identify |
+| Cow King's Hoofs | Heavy Boots | Eld | Scroll of Identify |
 | Cow King's Horns | War Hat | Thul | Scroll of Identify |
 | Credendum | Mithril Coil | Um | Scroll of Identify |
 | Dangoon's Teaching | Reinforced Mace | Fal | Scroll of Identify |
-| Dark Adherent | Dusk Shroud | Lem | Scroll of Identify |
 | Death's Guard | Sash | El | Scroll of Identify |
 | Death's Hand | Leather Gloves | El | Scroll of Identify |
 | Death's Touch | War Sword | Ral | Scroll of Identify |
 | Griswold's Heart | Ornate Plate | Fal | Scroll of Town Portal |
 | Griswold's Honor | Vortex Shield | Vex | Scroll of Identify |
-| Griswold's Redemption | Caduceus | Vex | Scroll of Identify |
 | Griswold's Valor | Corona | Vex | Scroll of Identify |
+| Griswolds's Redemption | Caduceus | Vex | Scroll of Identify |
 | Guillaume's Face | Winged Helm | Um | Scroll of Identify |
-| Haemosu's Adamant | Cuirass | Dol | Scroll of Identify |
+| Haemosu's Adament | Cuirass | Dol | Scroll of Identify |
+| Heaven's Taebaek | Ward | Gul | Scroll of Identify |
+| Horazon's Countenance | Demonhead | Um | Scroll of Town Portal |
+| Horazon's Dominion | Russet Armor | Hel | Scroll of Identify |
+| Horazon's Hold | Demonhide Gloves | Amn | Scroll of Identify |
+| Horazon's Legacy | Mirrored Boots | Ist | Scroll of Identify |
+| Horazon's Secrets | Occult Codex | Lem | Scroll of Identify |
 | Hsarus' Iron Fist | Buckler | El | Scroll of Identify |
 | Hsarus' Iron Heel | Chain Boots | Nef | Scroll of Identify |
 | Hsarus' Iron Stay | Belt | Nef | Scroll of Identify |
-| Hwanin's Blessing | Belt | Nef | Scroll of Town Portal |
 | Hwanin's Justice | Bill | Amn | Scroll of Identify |
 | Hwanin's Refuge | Tigulated Mail | Shael | Scroll of Identify |
+| Hwanin's Seal | Belt | Nef | Scroll of Town Portal |
 | Hwanin's Splendor | Grand Crown | Io | Scroll of Identify |
 | Immortal King's Detail | War Belt | Io | Scroll of Identify |
 | Immortal King's Forge | War Gauntlets | Io | Scroll of Town Portal |
@@ -803,6 +811,10 @@ Base item + rune + filler item &rarr; named unique/set item
 | M'avina's Tenet | Sharkskin Belt | Sol | Scroll of Identify |
 | M'avina's True Sight | Diadem | Vex | Scroll of Identify |
 | Magnus' Skin | Sharkskin Gloves | Sol | Scroll of Town Portal |
+| McAuley's Paragon | Cap | El | Scroll of Town Portal |
+| McAuley's Riprap | Heavy Boots | Eld | Scroll of Town Portal |
+| McAuley's Superstition | Bone Wand | Eth | Scroll of Identify |
+| McAuley's Taboo | Heavy Gloves | Eld | Scroll of Identify |
 | Milabrega's Diadem | Crown | Ort | Scroll of Town Portal |
 | Milabrega's Orb | Kite Shield | Nef | Scroll of Identify |
 | Milabrega's Robe | Ancient Armor | Sol | Scroll of Identify |
@@ -816,10 +828,6 @@ Base item + rune + filler item &rarr; named unique/set item
 | Natalya's Totem | Grim Helm | Hel | Scroll of Identify |
 | Ondal's Almighty | Spired Helm | Ist | Scroll of Identify |
 | Rite of Passage | Demonhide Boots | Amn | Scroll of Town Portal |
-| Sander's Paragon | Cap | El | Scroll of Town Portal |
-| Sander's Riprap | Heavy Boots | Eld | Scroll of Town Portal |
-| Sander's Superstition | Bone Wand | Eth | Scroll of Identify |
-| Sander's Taboo | Heavy Gloves | Eld | Scroll of Identify |
 | Sazabi's Cobalt Redeemer | Legend Sword | Ko | Scroll of Identify |
 | Sazabi's Ghost Liberator | Balrog Skin | Mal | Scroll of Identify |
 | Sazabi's Mental Sheath | Basinet | Dol | Scroll of Town Portal |
@@ -829,11 +837,11 @@ Base item + rune + filler item &rarr; named unique/set item
 | Sigon's Shelter | Gothic Plate | Thul | Scroll of Identify |
 | Sigon's Visor | Great Helm | Tal | Scroll of Identify |
 | Sigon's Wrap | Plated Belt | Ral | Scroll of Identify |
-| Taebaek's Glory | Ward | Gul | Scroll of Identify |
+| Spiritual Custodian | Dusk Shroud | Lem | Scroll of Identify |
 | Tal Rasha's Adjudication | Amulet | Sol | Scroll of Identify |
-| Tal Rasha's Fine-Spun Cloth | Mesh Belt | Shael | Scroll of Identify |
-| Tal Rasha's Guardianship | Lacquered Plate | Gul | Scroll of Identify |
+| Tal Rasha's Fire-Spun Cloth | Mesh Belt | Shael | Scroll of Identify |
 | Tal Rasha's Horadric Crest | Death Mask | Dol | Scroll of Identify |
+| Tal Rasha's Howling Wind | Lacquered Plate | Gul | Scroll of Identify |
 | Tal Rasha's Lidless Eye | Swirling Crystal | Hel | Scroll of Identify |
 | Tancred's Crowbill | Military Pick | Ith | Scroll of Identify |
 | Tancred's Hobnails | Boots | El | Scroll of Identify |
@@ -850,12 +858,17 @@ Base item + rune + filler item &rarr; named unique/set item
 | Vidala's Barb | Long Battle Bow | Tal | Scroll of Identify |
 | Vidala's Fetlock | Light Plated Boots | Ith | Scroll of Identify |
 | Vidala's Snare | Amulet | El | Minor Mana Potion |
-| Whitstan's Guard | Round Shield | Amn | Scroll of Identify |
+| Warlord's Authority | Plated Belt | Ral | Scroll of Town Portal |
+| Warlord's Conquest | Gauntlets | Ral | Tome of Identify |
+| Warlord's Crushers | Greaves | Ral | Scroll of Town Portal |
+| Warlord's Lust | Great Helm | Tal | Scroll of Town Portal |
+| Warlord's Mantle | Full Plate Mail | Amn | Tome of Identify |
+| Wihtstan's Guard | Round Shield | Amn | Scroll of Identify |
 | Wilhelm's Pride | Battle Belt | Hel | Scroll of Town Portal |
 
 </details>
 
-## Salvage Recipes (509)
+## Salvage Recipes (522)
 
 Named unique/set item + filler item &rarr; base item + rune
 
@@ -1250,13 +1263,13 @@ Named unique/set item + filler item &rarr; base item + rune
 </details>
 
 <details>
-<summary><strong>Set Items (127)</strong></summary>
+<summary><strong>Set Items (140)</strong></summary>
 
 | Item | Base Item Returned | Rune Returned |
 |---|---|---|
 | Aldur's Advance | Battle Boots | Hel |
 | Aldur's Deception | Shadow Plate | Gul |
-| Aldur's Rhythm | Jagged Star | Sol |
+| Aldur's Gauntlet | Jagged Star | Sol |
 | Aldur's Stony Gaze | Hunter's Guise | Dol |
 | Angelic Halo | Ring | El |
 | Angelic Mantle | Ring Mail | Tir |
@@ -1270,6 +1283,9 @@ Named unique/set item + filler item &rarr; base item + rune
 | Arctic Furs | Quilted Armor | El |
 | Arctic Horn | Short War Bow | Ral |
 | Arctic Mitts | Light Gauntlets | Ith |
+| Bane's Authority | Light Belt | Eld |
+| Bane's Oathmaker | Kriss | Ral |
+| Bane's Wraithskin | Hard Leather Armor | Ith |
 | Berserker's Hatchet | Double Axe | Nef |
 | Berserker's Hauberk | Splint Mail | Ith |
 | Berserker's Headgear | Helm | Tir |
@@ -1287,26 +1303,31 @@ Named unique/set item + filler item &rarr; base item + rune
 | Cleglaw's Pincers | Chain Gloves | Nef |
 | Cleglaw's Tooth | Long Sword | Ith |
 | Cow King's Hide | Studded Leather | Eld |
-| Cow King's Hooves | Heavy Boots | Eld |
+| Cow King's Hoofs | Heavy Boots | Eld |
 | Cow King's Horns | War Hat | Thul |
 | Credendum | Mithril Coil | Um |
 | Dangoon's Teaching | Reinforced Mace | Fal |
-| Dark Adherent | Dusk Shroud | Lem |
 | Death's Guard | Sash | El |
 | Death's Hand | Leather Gloves | El |
 | Death's Touch | War Sword | Ral |
 | Griswold's Heart | Ornate Plate | Fal |
 | Griswold's Honor | Vortex Shield | Vex |
-| Griswold's Redemption | Caduceus | Vex |
 | Griswold's Valor | Corona | Vex |
+| Griswolds's Redemption | Caduceus | Vex |
 | Guillaume's Face | Winged Helm | Um |
-| Haemosu's Adamant | Cuirass | Dol |
+| Haemosu's Adament | Cuirass | Dol |
+| Heaven's Taebaek | Ward | Gul |
+| Horazon's Countenance | Demonhead | Um |
+| Horazon's Dominion | Russet Armor | Hel |
+| Horazon's Hold | Demonhide Gloves | Amn |
+| Horazon's Legacy | Mirrored Boots | Ist |
+| Horazon's Secrets | Occult Codex | Lem |
 | Hsarus' Iron Fist | Buckler | El |
 | Hsarus' Iron Heel | Chain Boots | Nef |
 | Hsarus' Iron Stay | Belt | Nef |
-| Hwanin's Blessing | Belt | Nef |
 | Hwanin's Justice | Bill | Amn |
 | Hwanin's Refuge | Tigulated Mail | Shael |
+| Hwanin's Seal | Belt | Nef |
 | Hwanin's Splendor | Grand Crown | Io |
 | Immortal King's Detail | War Belt | Io |
 | Immortal King's Forge | War Gauntlets | Io |
@@ -1332,6 +1353,10 @@ Named unique/set item + filler item &rarr; base item + rune
 | M'avina's Tenet | Sharkskin Belt | Sol |
 | M'avina's True Sight | Diadem | Vex |
 | Magnus' Skin | Sharkskin Gloves | Sol |
+| McAuley's Paragon | Cap | El |
+| McAuley's Riprap | Heavy Boots | Eld |
+| McAuley's Superstition | Bone Wand | Eth |
+| McAuley's Taboo | Heavy Gloves | Eld |
 | Milabrega's Diadem | Crown | Ort |
 | Milabrega's Orb | Kite Shield | Nef |
 | Milabrega's Robe | Ancient Armor | Sol |
@@ -1345,10 +1370,6 @@ Named unique/set item + filler item &rarr; base item + rune
 | Natalya's Totem | Grim Helm | Hel |
 | Ondal's Almighty | Spired Helm | Ist |
 | Rite of Passage | Demonhide Boots | Amn |
-| Sander's Paragon | Cap | El |
-| Sander's Riprap | Heavy Boots | Eld |
-| Sander's Superstition | Bone Wand | Eth |
-| Sander's Taboo | Heavy Gloves | Eld |
 | Sazabi's Cobalt Redeemer | Legend Sword | Ko |
 | Sazabi's Ghost Liberator | Balrog Skin | Mal |
 | Sazabi's Mental Sheath | Basinet | Dol |
@@ -1358,11 +1379,11 @@ Named unique/set item + filler item &rarr; base item + rune
 | Sigon's Shelter | Gothic Plate | Thul |
 | Sigon's Visor | Great Helm | Tal |
 | Sigon's Wrap | Plated Belt | Ral |
-| Taebaek's Glory | Ward | Gul |
+| Spiritual Custodian | Dusk Shroud | Lem |
 | Tal Rasha's Adjudication | Amulet | Sol |
-| Tal Rasha's Fine-Spun Cloth | Mesh Belt | Shael |
-| Tal Rasha's Guardianship | Lacquered Plate | Gul |
+| Tal Rasha's Fire-Spun Cloth | Mesh Belt | Shael |
 | Tal Rasha's Horadric Crest | Death Mask | Dol |
+| Tal Rasha's Howling Wind | Lacquered Plate | Gul |
 | Tal Rasha's Lidless Eye | Swirling Crystal | Hel |
 | Tancred's Crowbill | Military Pick | Ith |
 | Tancred's Hobnails | Boots | El |
@@ -1379,7 +1400,12 @@ Named unique/set item + filler item &rarr; base item + rune
 | Vidala's Barb | Long Battle Bow | Tal |
 | Vidala's Fetlock | Light Plated Boots | Ith |
 | Vidala's Snare | Amulet | El |
-| Whitstan's Guard | Round Shield | Amn |
+| Warlord's Authority | Plated Belt | Ral |
+| Warlord's Conquest | Gauntlets | Ral |
+| Warlord's Crushers | Greaves | Ral |
+| Warlord's Lust | Great Helm | Tal |
+| Warlord's Mantle | Full Plate Mail | Amn |
+| Wihtstan's Guard | Round Shield | Amn |
 | Wilhelm's Pride | Battle Belt | Hel |
 
 </details>
