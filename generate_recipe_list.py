@@ -134,6 +134,36 @@ def md_section(title, subtitle, rows, table_fn, prices, key_fn):
     return lines
 
 
+def by_rune_section(forward, prices):
+    """Crafting recipes regrouped by rune (low -> high), one collapsible block
+    per rune, so "what can I make with this rune?" doesn't mean scanning the
+    whole alphabetical table. Markdown can't run scripts, so this stands in
+    for a filter.
+    """
+    by_code = {}
+    for r in forward:
+        by_code.setdefault(r['input 2'], []).append(r)
+
+    present = [(code, name) for code, name in RUNES if code in by_code]
+    lines = ['## Crafting Recipes by Rune', '']
+    lines.append('Jump to: ' + ' &middot; '.join(
+        f'[{name}](#{name.lower()}-rune-{len(by_code[code])})' for code, name in present
+    ))
+    lines.append('')
+    for code, name in present:
+        group = by_code[code]
+        lines.append(f'### {name} Rune ({len(group)})')
+        lines.append('')
+        lines.append('<details>')
+        lines.append(f'<summary>Show {len(group)} recipes</summary>')
+        lines.append('')
+        lines.extend(forward_table(group, prices))
+        lines.append('')
+        lines.append('</details>')
+        lines.append('')
+    return lines
+
+
 def write_md(forward, reverse, prices):
     lines = ['# Horadric Exchange -- Recipe List', '']
     lines.append(
@@ -164,14 +194,21 @@ def write_md(forward, reverse, prices):
         'gets destroyed for the same result -- double check what you feed in.'
     )
     lines.append('')
+    lines.append(
+        'Looking for a specific item? Use your browser\'s find (Ctrl+F). '
+        'Have a rune and want to know what it makes? See '
+        '[Crafting Recipes by Rune](#crafting-recipes-by-rune).'
+    )
+    lines.append('')
     lines.extend(md_section(
-        'Crafting Recipes', 'Base item + rune + filler item &rarr; named unique/set item',
+        'Crafting Recipes','Base item + rune + filler item &rarr; named unique/set item',
         forward, forward_table, prices, key_fn=lambda r: r['output'],
     ))
     lines.extend(md_section(
         'Salvage Recipes', 'Named unique/set item + filler item &rarr; base item + rune',
         reverse, reverse_table, prices, key_fn=lambda r: r['input 1'],
     ))
+    lines.extend(by_rune_section(forward, prices))
 
     with open(MD_PATH, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines) + '\n')
