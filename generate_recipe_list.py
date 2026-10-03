@@ -11,10 +11,22 @@ from cube_common import RUNES, FILLER_NAMES
 VANILLA_PATH = 'data/cubemain.vanilla.txt'
 CUBEMAIN_PATH = 'data/cubemain.txt'
 PRICES_PATH = 'prices.csv'
+DISPLAY_NAMES_PATH = 'data/display_names.csv'
 TXT_PATH = 'recipes.txt'
 MD_PATH = 'recipes.md'
 
 RUNE_NAME_BY_CODE = {code: name for code, name in RUNES}
+
+# uniqueitems.txt / setitems.txt names are internal IDs (e.g. "Krintizs Skewer")
+# that cube recipes must match exactly; the game shows a separate localized
+# name ("Skewer of Krintiz"). Show players the name they'll actually see.
+# Items absent from this file already display under their ID.
+DISPLAY_NAMES = {row['item']: row['display_name']
+                 for row in csv.DictReader(open(DISPLAY_NAMES_PATH, encoding='utf-8'))}
+
+
+def display(item):
+    return DISPLAY_NAMES.get(item, item)
 
 
 def load_prices():
@@ -46,7 +58,7 @@ def load_recipes():
     # Collapse back to one representative line per (item, ethereal-state).
     seen = set()
     forward = []
-    for r in sorted(all_forward, key=lambda r: r['output'].lower()):
+    for r in sorted(all_forward, key=lambda r: display(r['output']).lower()):
         key = (r['output'], r['mod 1'] == 'ethereal', r['input 2'], r['input 3'])
         if key in seen:
             continue
@@ -55,7 +67,7 @@ def load_recipes():
 
     reverse = sorted(
         (r for r in custom if r['numinputs'] == '2' and r['output b']),
-        key=lambda r: salvage_name(r).lower(),
+        key=lambda r: display(salvage_name(r)).lower(),
     )
     return forward, reverse
 
@@ -85,7 +97,7 @@ def forward_line(r, prices):
     rune_name = RUNE_NAME_BY_CODE.get(r['input 2'], r['input 2'])
     filler = FILLER_NAMES.get(r['input 3'], r['input 3'])
     suffix = ' (eth)' if r['mod 1'] == 'ethereal' else ''
-    return f"{base_name} + {rune_name} Rune + {filler} -> {r['output']}{suffix}"
+    return f"{base_name} + {rune_name} Rune + {filler} -> {display(r['output'])}{suffix}"
 
 
 def write_txt(forward, reverse, prices):
@@ -101,7 +113,10 @@ def write_txt(forward, reverse, prices):
     lines.append('Named unique/set item + filler item -> base item + rune')
     lines.append('=' * 70)
     for r in reverse:
-        lines.append(r['description'])
+        item = salvage_name(r)
+        rune_name = RUNE_NAME_BY_CODE.get(r['output b'], r['output b'])
+        lines.append(f"{display(item)} + {FILLER_NAMES.get(r['input 2'], r['input 2'])} -> "
+                     f"{prices[item]['base_name']} + {rune_name} Rune")
 
     with open(TXT_PATH, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines) + '\n')
@@ -115,7 +130,7 @@ def forward_table(rows, prices):
             base_name += ' (Ethereal)'
         rune_name = RUNE_NAME_BY_CODE.get(r['input 2'], r['input 2'])
         filler = FILLER_NAMES.get(r['input 3'], r['input 3'])
-        lines.append(f"| {r['output']} | {base_name} | {rune_name} | {filler} |")
+        lines.append(f"| {display(r['output'])} | {base_name} | {rune_name} | {filler} |")
     return lines
 
 
@@ -125,7 +140,7 @@ def reverse_table(rows, prices):
         item = salvage_name(r)
         base_name = prices[item]['base_name']
         rune_name = RUNE_NAME_BY_CODE.get(r['output b'], r['output b'])
-        lines.append(f"| {item} | {base_name} | {rune_name} |")
+        lines.append(f"| {display(item)} | {base_name} | {rune_name} |")
     return lines
 
 
