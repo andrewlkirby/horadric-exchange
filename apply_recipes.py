@@ -202,6 +202,7 @@ def main():
         # cubemain.txt qualifiers AND together and can't express "any of".
         return [None] if base_code in QUALITY_EXEMPT_CODES else WHITE_QUALITY_TIERS
 
+    facet_rune = None
     for r in rows:
         item, base_code, base_name = r['item'], r['base_code'], r['base_name']
 
@@ -224,6 +225,22 @@ def main():
                 f'{base_name}{tag} + {rune_name} Rune + {FILLER_NAMES[filler]} -> {item}',
                 base_code, quality, 'noe', rune_code, filler, item, eth_output=False,
             ))
+
+        if base_code == 'jew':
+            # The Rainbow Facet names are too long for a cube input to resolve,
+            # and an unresolved name matches *any* unique -- hijacking every
+            # salvage recipe below it. They're the only unique jewels and all
+            # salvage identically, so one 'jew,uni' recipe covers all of them.
+            if facet_rune is None:
+                facet_rune = rune_code
+                try_add(build_reverse_row(
+                    f'Rainbow Facet + {FILLER_NAMES[REVERSE_FILLER]} -> {base_name} + {rune_name} Rune',
+                    'jew,uni', base_code, rune_code,
+                ))
+            elif rune_code != facet_rune:
+                raise SystemExit(f'{item!r} salvages to a different rune than the other Rainbow '
+                                 f'Facets -- they share one jew,uni recipe, so keep their runes equal.')
+            continue
 
         try_add(build_reverse_row(
             f'{item} + {FILLER_NAMES[REVERSE_FILLER]} -> {base_name} + {rune_name} Rune',

@@ -870,12 +870,12 @@ Base item + rune + filler item &rarr; named unique/set item
 
 </details>
 
-## Salvage Recipes (522)
+## Salvage Recipes (515)
 
 Named unique/set item + filler item &rarr; base item + rune
 
 <details>
-<summary><strong>Unique Items (382)</strong></summary>
+<summary><strong>Unique Items (375)</strong></summary>
 
 | Item | Base Item Returned | Rune Returned |
 |---|---|---|
@@ -1099,14 +1099,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Pus Spiter | Siege Crossbow | Shael |
 | Que-Hegan's Wisdon | Mage Plate | Ko |
 | Radimant's Sphere | xts | Lum |
-| Rainbow Facet (Hit Power - Cold) | Jewel | Ist |
-| Rainbow Facet (Hit Power - Fire) | Jewel | Ist |
-| Rainbow Facet (Hit Power - Lightning) | Jewel | Ist |
-| Rainbow Facet (Hit Power - Poison) | Jewel | Ist |
-| Rainbow Facet (Level Up - Cold) | Jewel | Ist |
-| Rainbow Facet (Level Up - Fire) | Jewel | Ist |
-| Rainbow Facet (Level Up - Lightning) | Jewel | Ist |
-| Rainbow Facet (Level Up - Poison) | Jewel | Ist |
+| Rainbow Facet | Jewel | Ist |
 | Rakescar | War Axe | Amn |
 | Rattlecage | Gothic Plate | Sol |
 | Raven Frost | Ring | Ko |

@@ -19,7 +19,18 @@ RUNE_NAME_BY_CODE = {code: name for code, name in RUNES}
 
 def load_prices():
     """item name -> its prices.csv row, for kind + base_name lookups."""
-    return {row['item']: row for row in csv.DictReader(open(PRICES_PATH, encoding='utf-8'))}
+    prices = {row['item']: row for row in csv.DictReader(open(PRICES_PATH, encoding='utf-8'))}
+    facets = [row for item, row in prices.items() if item.startswith('Rainbow Facet (')]
+    if facets:
+        prices['Rainbow Facet'] = facets[0]  # display name for the shared 'jew,uni' salvage recipe
+    return prices
+
+
+def salvage_name(r):
+    """Display name of a salvage recipe's input item. The Rainbow Facets share
+    one 'jew,uni' recipe (see apply_recipes.py) instead of one per name.
+    """
+    return 'Rainbow Facet' if r['input 1'] == 'jew,uni' else r['input 1']
 
 
 def load_recipes():
@@ -44,7 +55,7 @@ def load_recipes():
 
     reverse = sorted(
         (r for r in custom if r['numinputs'] == '2' and r['output b']),
-        key=lambda r: r['input 1'].lower(),
+        key=lambda r: salvage_name(r).lower(),
     )
     return forward, reverse
 
@@ -111,7 +122,7 @@ def forward_table(rows, prices):
 def reverse_table(rows, prices):
     lines = ['| Item | Base Item Returned | Rune Returned |', '|---|---|---|']
     for r in rows:
-        item = r['input 1']
+        item = salvage_name(r)
         base_name = prices[item]['base_name']
         rune_name = RUNE_NAME_BY_CODE.get(r['output b'], r['output b'])
         lines.append(f"| {item} | {base_name} | {rune_name} |")
@@ -206,7 +217,7 @@ def write_md(forward, reverse, prices):
     ))
     lines.extend(md_section(
         'Salvage Recipes', 'Named unique/set item + filler item &rarr; base item + rune',
-        reverse, reverse_table, prices, key_fn=lambda r: r['input 1'],
+        reverse, reverse_table, prices, key_fn=salvage_name,
     ))
     lines.extend(by_rune_section(forward, prices))
 

@@ -843,7 +843,7 @@ Ghost Glaive + Gul Rune + Scroll of Identify -> Wraithflight
 Rune Scepter (Ethereal) + Io Rune + Scroll of Identify -> Zakarum's Hand (eth)
 Rune Scepter + Dol Rune + Scroll of Identify -> Zakarum's Hand
 
-SALVAGE RECIPES (522)
+SALVAGE RECIPES (515)
 Named unique/set item + filler item -> base item + rune
 ======================================================================
 Aldur's Advance + Scroll of Identify -> Battle Boots + Hel Rune
@@ -1168,14 +1168,7 @@ Pullspite + Scroll of Identify -> Short Battle Bow + Thul Rune
 Pus Spiter + Scroll of Identify -> Siege Crossbow + Shael Rune
 Que-Hegan's Wisdon + Scroll of Identify -> Mage Plate + Ko Rune
 Radimant's Sphere + Scroll of Identify -> xts + Lum Rune
-Rainbow Facet (Hit Power - Cold) + Scroll of Identify -> Jewel + Ist Rune
-Rainbow Facet (Hit Power - Fire) + Scroll of Identify -> Jewel + Ist Rune
-Rainbow Facet (Hit Power - Lightning) + Scroll of Identify -> Jewel + Ist Rune
-Rainbow Facet (Hit Power - Poison) + Scroll of Identify -> Jewel + Ist Rune
-Rainbow Facet (Level Up - Cold) + Scroll of Identify -> Jewel + Ist Rune
-Rainbow Facet (Level Up - Fire) + Scroll of Identify -> Jewel + Ist Rune
-Rainbow Facet (Level Up - Lightning) + Scroll of Identify -> Jewel + Ist Rune
-Rainbow Facet (Level Up - Poison) + Scroll of Identify -> Jewel + Ist Rune
+Rainbow Facet + Scroll of Identify -> Jewel + Ist Rune
 Rakescar + Scroll of Identify -> War Axe + Amn Rune
 Rattlecage + Scroll of Identify -> Gothic Plate + Sol Rune
 Raven Frost + Scroll of Identify -> Ring + Ko Rune
