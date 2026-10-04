@@ -89,7 +89,10 @@ def build_reverse_row(description, item_name, base_code, rune_code):
     row['numinputs'] = '2'
     row['input 1'] = item_name
     row['input 2'] = REVERSE_FILLER
-    row['output'] = base_code
+    # A bare base code rolls a random quality (often magic) at the unique's
+    # high ilvl; force a white base instead. Rings/amulets/jewels/charms have
+    # no normal-quality form, so they're left to roll.
+    row['output'] = base_code if base_code in QUALITY_EXEMPT_CODES else f'{base_code},nor'
     row['output b'] = rune_code
     return row
 
