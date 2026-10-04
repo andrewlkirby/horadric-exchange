@@ -30,7 +30,9 @@ from cube_common import (
 CUBEMAIN_PATH = 'data/cubemain.txt'
 VANILLA_PATH = 'data/cubemain.vanilla.txt'  # untouched original -- never overwritten after creation
 BACKUP_PATH = 'data/cubemain.backup.txt'    # convenience copy of the last build, safe to inspect/diff
-REVERSE_FILLER = FILLER_POOL[0]  # isc -- item name alone already disambiguates
+UNIQUES_PATH = 'data/uniqueitems.txt'
+SET_ITEMS_PATH = 'data/set_items.csv'
+REVERSE_FILLER =FILLER_POOL[0]  # isc -- item name alone already disambiguates
 
 
 def load_existing_signatures():
@@ -158,6 +160,16 @@ def main():
         print()
 
     rows = [r for r in all_rows if r.get('include', '1').strip() == '1']
+
+    # Cube inputs/outputs match the game's internal index names (typos and
+    # all, e.g. "Verdugo's Hearty Cord"), not the in-game display names. An
+    # unresolved salvage input matches *any* unique, hijacking later recipes.
+    known = {r['index'] for r in csv.DictReader(open(UNIQUES_PATH, encoding='utf-8'), delimiter='\t')}
+    known |= {r['Item'] for r in csv.DictReader(open(SET_ITEMS_PATH, encoding='utf-8'))}
+    unknown = [r['item'] for r in rows if r['base_code'] != 'jew' and r['item'] not in known]
+    if unknown:
+        raise SystemExit(f'prices.csv: not a unique/set index name: {unknown!r} -- use the internal '
+                         f'name and put the display name in data/display_names.csv instead.')
 
     # --- normal recipes: resolve (base_code, tier) collisions via filler ---
     normal_groups = {}
