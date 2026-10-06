@@ -1,6 +1,6 @@
 NOTE: recipes match the base item by type and ethereal state, plus a quality rule that depends on the item: for charms/rings/amulets/jewels, ANY quality works (low/normal/superior/magic/rare/crafted) since these almost never drop as true white items. For everything else, the base must be genuinely white (low, normal, or superior quality) -- magic, rare, crafted, and already-unique/set items do NOT satisfy the recipe. For the always-any-quality category, a DIFFERENT unique/set item sharing the same base type also satisfies the recipe and gets destroyed for the same result -- double check what you feed in.
 
-CRAFTING RECIPES (839)
+CRAFTING RECIPES (845)
 Base item + rune + filler item -> named unique/set item
 ======================================================================
 Battle Boots + Hel Rune + Scroll of Identify -> Aldur's Advance
@@ -413,6 +413,12 @@ Barbed Shield + Shael Rune + Scroll of Identify -> Lance Guard
 Spetum (Ethereal) + Amn Rune + Scroll of Identify -> Lance of Yaggai (eth)
 Spetum + Ort Rune + Scroll of Identify -> Lance of Yaggai
 Arbalest + Sol Rune + Scroll of Identify -> Langer Briser
+Grand Charm + Ist Rune + Scroll of Town Portal -> Latent Black Cleft
+Grand Charm + Ist Rune + Tome of Identify -> Latent Bone Break
+Grand Charm + Ist Rune + Tome of Town Portal -> Latent Cold Rupture
+Grand Charm + Ist Rune + Key -> Latent Crack of the Heavens
+Grand Charm + Ist Rune + Minor Healing Potion -> Latent Flame Rift
+Grand Charm + Ist Rune + Minor Mana Potion -> Latent Rotting Fissure
 Battle Gauntlets (Ethereal) + Lum Rune + Scroll of Identify -> Lava Gout (eth)
 Battle Gauntlets + Hel Rune + Scroll of Identify -> Lava Gout
 Bramble Mitts + Lum Rune + Scroll of Identify -> Laying of Hands
@@ -667,7 +673,7 @@ Spiked Shield + Ith Rune + Scroll of Identify -> Swordback Hold
 Executioner Sword (Ethereal) + Ko Rune + Scroll of Identify -> Swordguard (eth)
 Executioner Sword + Io Rune + Scroll of Identify -> Swordguard
 Ward + Gul Rune + Scroll of Identify -> Taebaek's Glory
-Amulet + Sol Rune + Scroll of Identify -> Tal Rasha's Adjudication
+Amulet + Um Rune + Scroll of Town Portal -> Tal Rasha's Adjudication
 Mesh Belt + Shael Rune + Scroll of Identify -> Tal Rasha's Fine-Spun Cloth
 Lacquered Plate + Gul Rune + Scroll of Identify -> Tal Rasha's Guardianship
 Death Mask + Dol Rune + Scroll of Identify -> Tal Rasha's Horadric Crest
@@ -737,7 +743,7 @@ Thresher (Ethereal) + Mal Rune + Scroll of Identify -> The Reaper's Toll (eth)
 Thresher + Ist Rune + Scroll of Identify -> The Reaper's Toll
 Mighty Scepter (Ethereal) + Vex Rune + Scroll of Identify -> The Redeemer (eth)
 Mighty Scepter + Ist Rune + Scroll of Identify -> The Redeemer
-Amulet + Um Rune + Scroll of Town Portal -> The Rising Sun
+Amulet + Um Rune + Tome of Identify -> The Rising Sun
 Battle Staff (Ethereal) + Thul Rune + Scroll of Identify -> The Salamander (eth)
 Battle Staff + Ral Rune + Scroll of Identify -> The Salamander
 Francisca (Ethereal) + Um Rune + Scroll of Identify -> The Scalper (eth)
@@ -843,7 +849,7 @@ Ghost Glaive + Gul Rune + Scroll of Identify -> Wraith Flight
 Rune Scepter (Ethereal) + Io Rune + Scroll of Identify -> Zakarum's Hand (eth)
 Rune Scepter + Dol Rune + Scroll of Identify -> Zakarum's Hand
 
-SALVAGE RECIPES (515)
+SALVAGE RECIPES (521)
 Named unique/set item + filler item -> base item + rune
 ======================================================================
 Aldur's Advance + Scroll of Identify -> Battle Boots + Hel Rune
@@ -1103,6 +1109,12 @@ Lacerator + Scroll of Identify -> Winged Axe + Mal Rune
 Lance Guard + Scroll of Identify -> Barbed Shield + Shael Rune
 Lance of Yaggai + Scroll of Identify -> Spetum + Ort Rune
 Langer Briser + Scroll of Identify -> Arbalest + Sol Rune
+Latent Black Cleft + Scroll of Identify -> Grand Charm + Ist Rune
+Latent Bone Break + Scroll of Identify -> Grand Charm + Ist Rune
+Latent Cold Rupture + Scroll of Identify -> Grand Charm + Ist Rune
+Latent Crack of the Heavens + Scroll of Identify -> Grand Charm + Ist Rune
+Latent Flame Rift + Scroll of Identify -> Grand Charm + Ist Rune
+Latent Rotting Fissure + Scroll of Identify -> Grand Charm + Ist Rune
 Lava Gout + Scroll of Identify -> Battle Gauntlets + Hel Rune
 Laying of Hands + Scroll of Identify -> Bramble Mitts + Lum Rune
 Leadcrow + Scroll of Identify -> Light Crossbow + Nef Rune
@@ -1254,7 +1266,7 @@ Sureshrill Frost + Scroll of Identify -> Flanged Mace + Dol Rune
 Swordback Hold + Scroll of Identify -> Spiked Shield + Ith Rune
 Swordguard + Scroll of Identify -> Executioner Sword + Io Rune
 Taebaek's Glory + Scroll of Identify -> Ward + Gul Rune
-Tal Rasha's Adjudication + Scroll of Identify -> Amulet + Sol Rune
+Tal Rasha's Adjudication + Scroll of Identify -> Amulet + Um Rune
 Tal Rasha's Fine-Spun Cloth + Scroll of Identify -> Mesh Belt + Shael Rune
 Tal Rasha's Guardianship + Scroll of Identify -> Lacquered Plate + Gul Rune
 Tal Rasha's Horadric Crest + Scroll of Identify -> Death Mask + Dol Rune

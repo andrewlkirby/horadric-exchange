@@ -11,12 +11,12 @@ Recipes match the base item by **type and ethereal state**, plus a quality rule 
 
 Looking for a specific item? Use your browser's find (Ctrl+F). Have a rune and want to know what it makes? See [Crafting Recipes by Rune](#crafting-recipes-by-rune).
 
-## Crafting Recipes (839)
+## Crafting Recipes (845)
 
 Base item + rune + filler item &rarr; named unique/set item
 
 <details>
-<summary><strong>Unique Items (699)</strong></summary>
+<summary><strong>Unique Items (705)</strong></summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -351,6 +351,12 @@ Base item + rune + filler item &rarr; named unique/set item
 | Lance of Yaggai | Spetum (Ethereal) | Amn | Scroll of Identify |
 | Lance of Yaggai | Spetum | Ort | Scroll of Identify |
 | Langer Briser | Arbalest | Sol | Scroll of Identify |
+| Latent Black Cleft | Grand Charm | Ist | Scroll of Town Portal |
+| Latent Bone Break | Grand Charm | Ist | Tome of Identify |
+| Latent Cold Rupture | Grand Charm | Ist | Tome of Town Portal |
+| Latent Crack of the Heavens | Grand Charm | Ist | Key |
+| Latent Flame Rift | Grand Charm | Ist | Minor Healing Potion |
+| Latent Rotting Fissure | Grand Charm | Ist | Minor Mana Potion |
 | Lava Gout | Battle Gauntlets (Ethereal) | Lum | Scroll of Identify |
 | Lava Gout | Battle Gauntlets | Hel | Scroll of Identify |
 | Leadcrow | Light Crossbow | Nef | Scroll of Identify |
@@ -630,7 +636,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | The Reaper's Toll | Thresher | Ist | Scroll of Identify |
 | The Redeemer | Mighty Scepter (Ethereal) | Vex | Scroll of Identify |
 | The Redeemer | Mighty Scepter | Ist | Scroll of Identify |
-| The Rising Sun | Amulet | Um | Scroll of Town Portal |
+| The Rising Sun | Amulet | Um | Tome of Identify |
 | The Salamander | Battle Staff (Ethereal) | Thul | Scroll of Identify |
 | The Salamander | Battle Staff | Ral | Scroll of Identify |
 | The Scalper | Francisca (Ethereal) | Um | Scroll of Identify |
@@ -840,7 +846,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | Sigon's Visor | Great Helm | Tal | Scroll of Identify |
 | Sigon's Wrap | Plated Belt | Ral | Scroll of Identify |
 | Taebaek's Glory | Ward | Gul | Scroll of Identify |
-| Tal Rasha's Adjudication | Amulet | Sol | Scroll of Identify |
+| Tal Rasha's Adjudication | Amulet | Um | Scroll of Town Portal |
 | Tal Rasha's Fine-Spun Cloth | Mesh Belt | Shael | Scroll of Identify |
 | Tal Rasha's Guardianship | Lacquered Plate | Gul | Scroll of Identify |
 | Tal Rasha's Horadric Crest | Death Mask | Dol | Scroll of Identify |
@@ -870,12 +876,12 @@ Base item + rune + filler item &rarr; named unique/set item
 
 </details>
 
-## Salvage Recipes (515)
+## Salvage Recipes (521)
 
 Named unique/set item + filler item &rarr; base item + rune
 
 <details>
-<summary><strong>Unique Items (375)</strong></summary>
+<summary><strong>Unique Items (381)</strong></summary>
 
 | Item | Base Item Returned | Rune Returned |
 |---|---|---|
@@ -1057,6 +1063,12 @@ Named unique/set item + filler item &rarr; base item + rune
 | Lance Guard | Barbed Shield | Shael |
 | Lance of Yaggai | Spetum | Ort |
 | Langer Briser | Arbalest | Sol |
+| Latent Black Cleft | Grand Charm | Ist |
+| Latent Bone Break | Grand Charm | Ist |
+| Latent Cold Rupture | Grand Charm | Ist |
+| Latent Crack of the Heavens | Grand Charm | Ist |
+| Latent Flame Rift | Grand Charm | Ist |
+| Latent Rotting Fissure | Grand Charm | Ist |
 | Lava Gout | Battle Gauntlets | Hel |
 | Leadcrow | Light Crossbow | Nef |
 | Lenymo | Sash | Tir |
@@ -1375,7 +1387,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Sigon's Visor | Great Helm | Tal |
 | Sigon's Wrap | Plated Belt | Ral |
 | Taebaek's Glory | Ward | Gul |
-| Tal Rasha's Adjudication | Amulet | Sol |
+| Tal Rasha's Adjudication | Amulet | Um |
 | Tal Rasha's Fine-Spun Cloth | Mesh Belt | Shael |
 | Tal Rasha's Guardianship | Lacquered Plate | Gul |
 | Tal Rasha's Horadric Crest | Death Mask | Dol |
@@ -1407,7 +1419,7 @@ Named unique/set item + filler item &rarr; base item + rune
 
 ## Crafting Recipes by Rune
 
-Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune-20) &middot; [Nef](#nef-rune-29) &middot; [Eth](#eth-rune-16) &middot; [Ith](#ith-rune-36) &middot; [Tal](#tal-rune-23) &middot; [Ral](#ral-rune-41) &middot; [Ort](#ort-rune-18) &middot; [Thul](#thul-rune-34) &middot; [Amn](#amn-rune-36) &middot; [Sol](#sol-rune-43) &middot; [Shael](#shael-rune-38) &middot; [Dol](#dol-rune-47) &middot; [Hel](#hel-rune-53) &middot; [Io](#io-rune-40) &middot; [Lum](#lum-rune-39) &middot; [Ko](#ko-rune-25) &middot; [Fal](#fal-rune-18) &middot; [Lem](#lem-rune-14) &middot; [Pul](#pul-rune-13) &middot; [Um](#um-rune-37) &middot; [Mal](#mal-rune-32) &middot; [Ist](#ist-rune-49) &middot; [Gul](#gul-rune-41) &middot; [Vex](#vex-rune-28) &middot; [Ohm](#ohm-rune-13) &middot; [Lo](#lo-rune-11) &middot; [Jah](#jah-rune-1)
+Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune-20) &middot; [Nef](#nef-rune-29) &middot; [Eth](#eth-rune-16) &middot; [Ith](#ith-rune-36) &middot; [Tal](#tal-rune-23) &middot; [Ral](#ral-rune-41) &middot; [Ort](#ort-rune-18) &middot; [Thul](#thul-rune-34) &middot; [Amn](#amn-rune-36) &middot; [Sol](#sol-rune-42) &middot; [Shael](#shael-rune-38) &middot; [Dol](#dol-rune-47) &middot; [Hel](#hel-rune-53) &middot; [Io](#io-rune-40) &middot; [Lum](#lum-rune-39) &middot; [Ko](#ko-rune-25) &middot; [Fal](#fal-rune-18) &middot; [Lem](#lem-rune-14) &middot; [Pul](#pul-rune-13) &middot; [Um](#um-rune-38) &middot; [Mal](#mal-rune-32) &middot; [Ist](#ist-rune-55) &middot; [Gul](#gul-rune-41) &middot; [Vex](#vex-rune-28) &middot; [Ohm](#ohm-rune-13) &middot; [Lo](#lo-rune-11) &middot; [Jah](#jah-rune-1)
 
 ### El Rune (27)
 
@@ -1816,10 +1828,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Sol Rune (43)
+### Sol Rune (42)
 
 <details>
-<summary>Show 43 recipes</summary>
+<summary>Show 42 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1858,7 +1870,6 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Steelrend | Ogre Gauntlets | Sol | Scroll of Identify |
 | String of Ears | Demonhide Sash (Ethereal) | Sol | Scroll of Identify |
 | Suicide Branch | Burnt Wand | Sol | Scroll of Identify |
-| Tal Rasha's Adjudication | Amulet | Sol | Scroll of Identify |
 | Tearhaunch | Greaves | Sol | Scroll of Identify |
 | The Battlebranch | Poleaxe (Ethereal) | Sol | Scroll of Identify |
 | The Grim Reaper | War Scythe | Sol | Scroll of Identify |
@@ -2246,10 +2257,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Um Rune (37)
+### Um Rune (38)
 
 <details>
-<summary>Show 37 recipes</summary>
+<summary>Show 38 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -2285,7 +2296,8 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Steel Carapace | Shadow Plate | Um | Scroll of Identify |
 | Stoneraven | Matriarchal Spear | Um | Scroll of Identify |
 | Stormshield | Monarch (Ethereal) | Um | Scroll of Identify |
-| The Rising Sun | Amulet | Um | Scroll of Town Portal |
+| Tal Rasha's Adjudication | Amulet | Um | Scroll of Town Portal |
+| The Rising Sun | Amulet | Um | Tome of Identify |
 | The Scalper | Francisca (Ethereal) | Um | Scroll of Identify |
 | Thundergod's Vigor | War Belt | Um | Scroll of Identify |
 | Veil of Steel | Spired Helm (Ethereal) | Um | Scroll of Identify |
@@ -2335,10 +2347,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Ist Rune (49)
+### Ist Rune (55)
 
 <details>
-<summary>Show 49 recipes</summary>
+<summary>Show 55 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -2364,6 +2376,12 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Horazon's Legacy | Mirrored Boots | Ist | Scroll of Identify |
 | Horizon's Tornado | Scourge (Ethereal) | Ist | Scroll of Identify |
 | Jade Talon | Wrist Sword (Ethereal) | Ist | Scroll of Identify |
+| Latent Black Cleft | Grand Charm | Ist | Scroll of Town Portal |
+| Latent Bone Break | Grand Charm | Ist | Tome of Identify |
+| Latent Cold Rupture | Grand Charm | Ist | Tome of Town Portal |
+| Latent Crack of the Heavens | Grand Charm | Ist | Key |
+| Latent Flame Rift | Grand Charm | Ist | Minor Healing Potion |
+| Latent Rotting Fissure | Grand Charm | Ist | Minor Mana Potion |
 | Leviathan | Kraken Shell (Ethereal) | Ist | Scroll of Identify |
 | M'avina's Embrace | Kraken Shell | Ist | Scroll of Identify |
 | Mara's Kaleidoscope | Amulet | Ist | Scroll of Town Portal |

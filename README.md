@@ -5,8 +5,8 @@ craft a specific unique/set item from a base item + a rune (priced to roughly
 match the item's market value), and to salvage a unique/set item back into
 its base + rune.
 
-- **826 crafting recipes** -- `base item + rune + filler item -> named unique/set item`
-- **509 salvage recipes** -- `named unique/set item + filler item -> base item + rune`
+- **845 crafting recipes** -- `base item + rune + filler item -> named unique/set item`
+- **521 salvage recipes** -- `named unique/set item + filler item -> base item + rune`
 
 See **[recipes.md](recipes.md)** for the full list (also available as plain
 text in `recipes.txt`). See `prices_README.txt` if you want to re-price items
@@ -19,7 +19,7 @@ Only two files are modified from vanilla:
 - `data/uniqueitems.txt` -- 8 "Rainbow Facet" jewels renamed to distinguish
   their otherwise-identical in-game names (e.g. "Rainbow Facet (Hit Power -
   Lightning)"), so each can be targeted individually.
-- `data/cubemain.txt` -- the 1335 recipes above, appended after all of the
+- `data/cubemain.txt` -- the 1366 recipes above, appended after all of the
   original vanilla recipes (which are untouched).
 
 Every other file in `data/` (armor.txt, weapons.txt, etc.) is reference data

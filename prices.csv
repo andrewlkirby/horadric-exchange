@@ -12,7 +12,7 @@ Aldur's Gauntlet,set,9mt,Jagged Star,0,12,Sol,,,1,
 Hwanin's Justice,set,9vo,Bill,0,11,Amn,,,1,
 Milabrega's Robe,set,aar,Ancient Armor,0,12,Sol,,,1,
 M'avina's Caster,set,amc,Grand Matron Bow,0,23,Mal,,,1,
-Tal Rasha's Adjudication,set,amu,Amulet,0,12,Sol,,,1,
+Tal Rasha's Adjudication,set,amu,Amulet,0,22,Um,,,1,
 Angelic Wings,set,amu,Amulet,0,1,El,,,1,
 Cathan's Sigil,set,amu,Amulet,0,1,El,,,1,
 Civerb's Icon,set,amu,Amulet,0,1,El,,,1,
@@ -317,6 +317,12 @@ Griffon's Eye,unique,ci3,Diadem,1,25,Gul,23,Mal,1,gul
 Felloak,unique,clb,Club,1,1,El,3,Tir,1,
 Soulflay,unique,clm,Claymore,1,8,Ral,10,Thul,1,
 Gheed's Fortune,unique,cm3,Grand Charm,0,24,Ist,,,1,ist
+PreCrafted Black Cleft,unique,cm3,Grand Charm,0,24,Ist,,,1,Latent Black Cleft (RotW sunder charm)
+PreCrafted Bone Break,unique,cm3,Grand Charm,0,24,Ist,,,1,Latent Bone Break (RotW sunder charm)
+PreCrafted Cold Rupture,unique,cm3,Grand Charm,0,24,Ist,,,1,Latent Cold Rupture (RotW sunder charm)
+PreCrafted Crack of the Heavens,unique,cm3,Grand Charm,0,24,Ist,,,1,Latent Crack of the Heavens (RotW sunder charm)
+PreCrafted Flame Rift,unique,cm3,Grand Charm,0,24,Ist,,,1,Latent Flame Rift (RotW sunder charm)
+PreCrafted Rotting Fissure,unique,cm3,Grand Charm,0,24,Ist,,,1,Latent Rotting Fissure (RotW sunder charm)
 Undead Crown,unique,crn,Crown,1,12,Sol,14,Dol,1,
 Lazarus Spire,unique,cst,Gnarled Staff,1,7,Tal,9,Ort,1,
 Gull,unique,dgr,Dagger,1,2,Eld,4,Nef,1,
