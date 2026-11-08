@@ -11,12 +11,12 @@ Recipes match the base item by **type and ethereal state**, plus a quality rule 
 
 Looking for a specific item? Use your browser's find (Ctrl+F). Have a rune and want to know what it makes? See [Crafting Recipes by Rune](#crafting-recipes-by-rune).
 
-## Crafting Recipes (845)
+## Crafting Recipes (862)
 
 Base item + rune + filler item &rarr; named unique/set item
 
 <details>
-<summary><strong>Unique Items (705)</strong></summary>
+<summary><strong>Unique Items (722)</strong></summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -34,6 +34,9 @@ Base item + rune + filler item &rarr; named unique/set item
 | Arm of King Leoric | Tomb Wand | Shael | Scroll of Identify |
 | Arreat's Face | Slayer Guard (Ethereal) | Lum | Scroll of Identify |
 | Arreat's Face | Slayer Guard | Hel | Scroll of Identify |
+| Ars Al'Diablolos | Blasphemous Grimoire | Ist | Scroll of Identify |
+| Ars Dul'Mephistos | Occult Tome | Mal | Scroll of Identify |
+| Ars Tor'Baalos | Blasphemous Compendium | Lem | Scroll of Identify |
 | Astreon's Iron Ward | Caduceus (Ethereal) | Um | Scroll of Identify |
 | Astreon's Iron Ward | Caduceus | Lem | Scroll of Identify |
 | Athena's Wrath | Battle Scythe (Ethereal) | Lum | Scroll of Identify |
@@ -89,6 +92,8 @@ Base item + rune + filler item &rarr; named unique/set item
 | Bloodletter | Gladius | Amn | Scroll of Identify |
 | Bloodmoon | Elegant Blade (Ethereal) | Mal | Scroll of Identify |
 | Bloodmoon | Elegant Blade | Pul | Scroll of Identify |
+| Bloodpact Shard | Mithral Point (Ethereal) | Lum | Scroll of Identify |
+| Bloodpact Shard | Mithral Point | Hel | Scroll of Identify |
 | Bloodrise | Morning Star (Ethereal) | Ral | Scroll of Identify |
 | Bloodrise | Morning Star | Ith | Scroll of Identify |
 | Bloodthief | Brandistock (Ethereal) | Ort | Scroll of Identify |
@@ -186,6 +191,8 @@ Base item + rune + filler item &rarr; named unique/set item
 | Dracul's Grasp | Vampirebone Gloves | Gul | Scroll of Identify |
 | Dragonscale | Zakarum Shield (Ethereal) | Ohm | Scroll of Identify |
 | Dragonscale | Zakarum Shield | Gul | Scroll of Identify |
+| Dreadfang | Legend Sword (Ethereal) | Pul | Scroll of Identify |
+| Dreadfang | Legend Sword | Fal | Scroll of Identify |
 | Duriel's Shell | Cuirass (Ethereal) | Shael | Scroll of Identify |
 | Duriel's Shell | Cuirass | Amn | Scroll of Identify |
 | Duskdeep | Full Helm (Ethereal) | Ort | Scroll of Identify |
@@ -197,6 +204,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | Earthshaker | Battle Hammer (Ethereal) | Lum | Scroll of Identify |
 | Earthshaker | Battle Hammer | Hel | Scroll of Identify |
 | Endlesshail | Double Bow | Shael | Scroll of Identify |
+| Entropy Locket | Amulet | Ort | Scroll of Identify |
 | Eschuta's Temper | Eldritch Orb (Ethereal) | Vex | Scroll of Identify |
 | Eschuta's Temper | Eldritch Orb | Ist | Scroll of Identify |
 | Ethereal Edge | Silver-edged Axe | Gul | Scroll of Identify |
@@ -221,6 +229,8 @@ Base item + rune + filler item &rarr; named unique/set item
 | Gerke's Sanctuary | Pavise (Ethereal) | Ko | Scroll of Identify |
 | Gerke's Sanctuary | Pavise | Io | Scroll of Identify |
 | Gheed's Fortune | Grand Charm | Ist | Scroll of Identify |
+| Gheed's Wager | Troll Belt (Ethereal) | Io | Scroll of Identify |
+| Gheed's Wager | Troll Belt | Dol | Scroll of Identify |
 | Ghostflame | Legend Spike | Pul | Scroll of Identify |
 | Ghoulhide | Heavy Bracers (Ethereal) | Hel | Scroll of Identify |
 | Ghoulhide | Heavy Bracers | Shael | Scroll of Identify |
@@ -295,6 +305,8 @@ Base item + rune + filler item &rarr; named unique/set item
 | Hellrack | Colossus Crossbow | Gul | Scroll of Identify |
 | Hellslayer | Decapitator (Ethereal) | Mal | Scroll of Identify |
 | Hellslayer | Decapitator | Pul | Scroll of Identify |
+| Hellwarden's Will | Death Mask (Ethereal) | Lum | Scroll of Town Portal |
+| Hellwarden's Will | Death Mask | Hel | Scroll of Town Portal |
 | Herald of Zakarum | Gilded Shield (Ethereal) | Lum | Scroll of Identify |
 | Herald of Zakarum | Gilded Shield | Um | Scroll of Identify |
 | Hexfire | Shamshir (Ethereal) | Dol | Scroll of Identify |
@@ -382,6 +394,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | Mara's Kaleidoscope | Amulet | Ist | Scroll of Town Portal |
 | Marrowwalk | Boneweave Boots (Ethereal) | Ist | Scroll of Identify |
 | Marrowwalk | Boneweave Boots | Um | Scroll of Identify |
+| Measured Wrath | Burnt Text | Ort | Scroll of Identify |
 | Medusa's Gaze | Aegis (Ethereal) | Ohm | Scroll of Identify |
 | Medusa's Gaze | Aegis | Gul | Scroll of Identify |
 | Messerschmidt's Reaver | Champion Axe (Ethereal) | Ist | Scroll of Identify |
@@ -404,6 +417,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | Nosferatu's Coil | Vampirefang Belt | Lem | Scroll of Identify |
 | Ondal's Wisdom | Elder Staff (Ethereal) | Ist | Scroll of Identify |
 | Ondal's Wisdom | Elder Staff | Um | Scroll of Town Portal |
+| Opalvein | Ring | Ith | Scroll of Town Portal |
 | Ormus' Robes | Dusk Shroud (Ethereal) | Ohm | Scroll of Identify |
 | Ormus' Robes | Dusk Shroud | Um | Scroll of Identify |
 | Peasant Crown | War Hat (Ethereal) | Shael | Scroll of Identify |
@@ -494,6 +508,7 @@ Base item + rune + filler item &rarr; named unique/set item
 | Skullder's Ire | Russet Armor (Ethereal) | Lum | Scroll of Identify |
 | Skullder's Ire | Russet Armor | Hel | Scroll of Town Portal |
 | Skystrike | Edge Bow | Amn | Scroll of Identify |
+| Sling | Ring | Ral | Scroll of Identify |
 | Snakecord | Light Belt (Ethereal) | Tal | Scroll of Identify |
 | Snakecord | Light Belt | Eth | Scroll of Identify |
 | Snowclash | Battle Belt (Ethereal) | Lum | Scroll of Identify |
@@ -723,6 +738,8 @@ Base item + rune + filler item &rarr; named unique/set item
 | Wormskull | Bone Helm (Ethereal) | Thul | Scroll of Identify |
 | Wormskull | Bone Helm | Ral | Scroll of Identify |
 | Wraith Flight | Ghost Glaive | Gul | Scroll of Identify |
+| Wraithstep | Mirrored Boots (Ethereal) | Sol | Scroll of Identify |
+| Wraithstep | Mirrored Boots | Thul | Scroll of Identify |
 | Zakarum's Hand | Rune Scepter (Ethereal) | Io | Scroll of Identify |
 | Zakarum's Hand | Rune Scepter | Dol | Scroll of Identify |
 
@@ -876,12 +893,12 @@ Base item + rune + filler item &rarr; named unique/set item
 
 </details>
 
-## Salvage Recipes (521)
+## Salvage Recipes (533)
 
 Named unique/set item + filler item &rarr; base item + rune
 
 <details>
-<summary><strong>Unique Items (381)</strong></summary>
+<summary><strong>Unique Items (393)</strong></summary>
 
 | Item | Base Item Returned | Rune Returned |
 |---|---|---|
@@ -892,6 +909,9 @@ Named unique/set item + filler item &rarr; base item + rune
 | Arkaine's Valor | Balrog Skin | Vex |
 | Arm of King Leoric | Tomb Wand | Shael |
 | Arreat's Face | Slayer Guard | Hel |
+| Ars Al'Diablolos | Blasphemous Grimoire | Ist |
+| Ars Dul'Mephistos | Occult Tome | Mal |
+| Ars Tor'Baalos | Blasphemous Compendium | Lem |
 | Astreon's Iron Ward | Caduceus | Lem |
 | Athena's Wrath | Battle Scythe | Hel |
 | Atma's Scarab | Amulet | Um |
@@ -921,6 +941,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Bloodfist | Heavy Gloves | Nef |
 | Bloodletter | Gladius | Amn |
 | Bloodmoon | Elegant Blade | Pul |
+| Bloodpact Shard | Mithral Point | Hel |
 | Bloodrise | Morning Star | Ith |
 | Bloodthief | Brandistock | Tal |
 | Bloodtree Stump | War Club | Lum |
@@ -973,6 +994,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Doomslinger | Repeating Crossbow | Amn |
 | Dracul's Grasp | Vampirebone Gloves | Gul |
 | Dragonscale | Zakarum Shield | Gul |
+| Dreadfang | Legend Sword | Fal |
 | Duriel's Shell | Cuirass | Amn |
 | Duskdeep | Full Helm | Tal |
 | Dwarf Star | Ring | Io |
@@ -980,6 +1002,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Earth Shifter | Thunder Maul | Mal |
 | Earthshaker | Battle Hammer | Hel |
 | Endlesshail | Double Bow | Shael |
+| Entropy Locket | Amulet | Ort |
 | Eschuta's Temper | Eldritch Orb | Ist |
 | Ethereal Edge | Silver-edged Axe | Gul |
 | Executioner's Justice | Glorious Axe | Gul |
@@ -993,6 +1016,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Gargoyle's Bite | Winged Harpoon | Mal |
 | Gerke's Sanctuary | Pavise | Io |
 | Gheed's Fortune | Grand Charm | Ist |
+| Gheed's Wager | Troll Belt | Dol |
 | Ghostflame | Legend Spike | Pul |
 | Ghoulhide | Heavy Bracers | Shael |
 | Giant Skull | Bone Visage | Um |
@@ -1033,6 +1057,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Hellplague | Long Sword | Ort |
 | Hellrack | Colossus Crossbow | Gul |
 | Hellslayer | Decapitator | Pul |
+| Hellwarden's Will | Death Mask | Hel |
 | Herald of Zakarum | Gilded Shield | Um |
 | Hexfire | Shamshir | Sol |
 | Highlord's Wrath | Amulet | Ist |
@@ -1084,6 +1109,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Mang Song's Lesson | Archon Staff | Gul |
 | Mara's Kaleidoscope | Amulet | Ist |
 | Marrowwalk | Boneweave Boots | Um |
+| Measured Wrath | Burnt Text | Ort |
 | Medusa's Gaze | Aegis | Gul |
 | Messerschmidt's Reaver | Champion Axe | Um |
 | Metalgrid | Amulet | Vex |
@@ -1097,6 +1123,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Nord's Tenderizer | Truncheon | Mal |
 | Nosferatu's Coil | Vampirefang Belt | Lem |
 | Ondal's Wisdom | Elder Staff | Um |
+| Opalvein | Ring | Ith |
 | Ormus' Robes | Dusk Shroud | Um |
 | Peasant Crown | War Hat | Amn |
 | Pelta Lunata | Buckler | El |
@@ -1144,6 +1171,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Skull Splitter | Military Pick | Ral |
 | Skullder's Ire | Russet Armor | Hel |
 | Skystrike | Edge Bow | Amn |
+| Sling | Ring | Ral |
 | Snakecord | Light Belt | Eth |
 | Snowclash | Battle Belt | Hel |
 | Soul Drainer | Vambraces | Gul |
@@ -1265,6 +1293,7 @@ Named unique/set item + filler item &rarr; base item + rune
 | Wolfhowl | Fury Visor | Vex |
 | Wormskull | Bone Helm | Ral |
 | Wraith Flight | Ghost Glaive | Gul |
+| Wraithstep | Mirrored Boots | Thul |
 | Zakarum's Hand | Rune Scepter | Dol |
 
 </details>
@@ -1419,7 +1448,7 @@ Named unique/set item + filler item &rarr; base item + rune
 
 ## Crafting Recipes by Rune
 
-Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune-20) &middot; [Nef](#nef-rune-29) &middot; [Eth](#eth-rune-16) &middot; [Ith](#ith-rune-36) &middot; [Tal](#tal-rune-23) &middot; [Ral](#ral-rune-41) &middot; [Ort](#ort-rune-18) &middot; [Thul](#thul-rune-34) &middot; [Amn](#amn-rune-36) &middot; [Sol](#sol-rune-42) &middot; [Shael](#shael-rune-38) &middot; [Dol](#dol-rune-47) &middot; [Hel](#hel-rune-53) &middot; [Io](#io-rune-40) &middot; [Lum](#lum-rune-39) &middot; [Ko](#ko-rune-25) &middot; [Fal](#fal-rune-18) &middot; [Lem](#lem-rune-14) &middot; [Pul](#pul-rune-13) &middot; [Um](#um-rune-38) &middot; [Mal](#mal-rune-32) &middot; [Ist](#ist-rune-55) &middot; [Gul](#gul-rune-41) &middot; [Vex](#vex-rune-28) &middot; [Ohm](#ohm-rune-13) &middot; [Lo](#lo-rune-11) &middot; [Jah](#jah-rune-1)
+Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune-20) &middot; [Nef](#nef-rune-29) &middot; [Eth](#eth-rune-16) &middot; [Ith](#ith-rune-37) &middot; [Tal](#tal-rune-23) &middot; [Ral](#ral-rune-42) &middot; [Ort](#ort-rune-20) &middot; [Thul](#thul-rune-35) &middot; [Amn](#amn-rune-36) &middot; [Sol](#sol-rune-43) &middot; [Shael](#shael-rune-38) &middot; [Dol](#dol-rune-48) &middot; [Hel](#hel-rune-55) &middot; [Io](#io-rune-41) &middot; [Lum](#lum-rune-41) &middot; [Ko](#ko-rune-25) &middot; [Fal](#fal-rune-19) &middot; [Lem](#lem-rune-15) &middot; [Pul](#pul-rune-14) &middot; [Um](#um-rune-38) &middot; [Mal](#mal-rune-33) &middot; [Ist](#ist-rune-56) &middot; [Gul](#gul-rune-41) &middot; [Vex](#vex-rune-28) &middot; [Ohm](#ohm-rune-13) &middot; [Lo](#lo-rune-11) &middot; [Jah](#jah-rune-1)
 
 ### El Rune (27)
 
@@ -1580,10 +1609,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Ith Rune (36)
+### Ith Rune (37)
 
 <details>
-<summary>Show 36 recipes</summary>
+<summary>Show 37 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1610,6 +1639,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Maelstrom | Yew Wand | Ith | Scroll of Identify |
 | Manald Heal | Ring | Ith | Scroll of Identify |
 | Milabrega's Rod | War Scepter | Ith | Scroll of Identify |
+| Opalvein | Ring | Ith | Scroll of Town Portal |
 | Raven Claw | Long Bow | Ith | Scroll of Identify |
 | Serpent Lord | Long Staff (Ethereal) | Ith | Scroll of Identify |
 | Skewer of Krintiz | Sabre (Ethereal) | Ith | Scroll of Identify |
@@ -1659,10 +1689,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Ral Rune (41)
+### Ral Rune (42)
 
 <details>
-<summary>Show 41 recipes</summary>
+<summary>Show 42 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1688,6 +1718,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Sigon's Sabot | Greaves | Ral | Scroll of Identify |
 | Sigon's Wrap | Plated Belt | Ral | Scroll of Identify |
 | Skull Splitter | Military Pick | Ral | Scroll of Identify |
+| Sling | Ring | Ral | Scroll of Identify |
 | Soul Harvest | Scythe | Ral | Scroll of Identify |
 | Soulflay | Claymore | Ral | Scroll of Identify |
 | Steelgoad | Voulge (Ethereal) | Ral | Scroll of Identify |
@@ -1710,16 +1741,17 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Ort Rune (18)
+### Ort Rune (20)
 
 <details>
-<summary>Show 18 recipes</summary>
+<summary>Show 20 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
 | Baranar's Star | Devil Star | Ort | Scroll of Identify |
 | Bloodthief | Brandistock (Ethereal) | Ort | Scroll of Identify |
 | Duskdeep | Full Helm (Ethereal) | Ort | Scroll of Identify |
+| Entropy Locket | Amulet | Ort | Scroll of Identify |
 | Griswold's Edge | Broad Sword (Ethereal) | Ort | Scroll of Identify |
 | Hellplague | Long Sword | Ort | Scroll of Identify |
 | Iceblink | Splint Mail | Ort | Scroll of Identify |
@@ -1727,6 +1759,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Isenhart's Parry | Gothic Shield | Ort | Scroll of Identify |
 | Kinemil's Awl | Giant Sword | Ort | Scroll of Identify |
 | Lance of Yaggai | Spetum | Ort | Scroll of Identify |
+| Measured Wrath | Burnt Text | Ort | Scroll of Identify |
 | Milabrega's Diadem | Crown | Ort | Scroll of Town Portal |
 | Rusthandle | Grand Scepter (Ethereal) | Ort | Scroll of Identify |
 | Sparking Mail | Chain Mail (Ethereal) | Ort | Scroll of Identify |
@@ -1738,10 +1771,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Thul Rune (34)
+### Thul Rune (35)
 
 <details>
-<summary>Show 34 recipes</summary>
+<summary>Show 35 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1779,6 +1812,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Wizardspike | Bone Knife (Ethereal) | Thul | Scroll of Identify |
 | Wizendraw | Long Battle Bow | Thul | Scroll of Identify |
 | Wormskull | Bone Helm (Ethereal) | Thul | Scroll of Identify |
+| Wraithstep | Mirrored Boots | Thul | Scroll of Identify |
 
 </details>
 
@@ -1828,10 +1862,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Sol Rune (42)
+### Sol Rune (43)
 
 <details>
-<summary>Show 42 recipes</summary>
+<summary>Show 43 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1877,6 +1911,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | The Patriarch | Great Sword | Sol | Scroll of Identify |
 | The Ward | Gothic Shield (Ethereal) | Sol | Scroll of Identify |
 | Undead Crown | Crown | Sol | Scroll of Identify |
+| Wraithstep | Mirrored Boots (Ethereal) | Sol | Scroll of Identify |
 
 </details>
 
@@ -1928,10 +1963,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Dol Rune (47)
+### Dol Rune (48)
 
 <details>
-<summary>Show 47 recipes</summary>
+<summary>Show 48 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1945,6 +1980,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Culwen's Point | War Sword (Ethereal) | Dol | Scroll of Identify |
 | Darksight Helm | Basinet | Dol | Scroll of Identify |
 | Fleshrender | Barbed Club | Dol | Scroll of Identify |
+| Gheed's Wager | Troll Belt | Dol | Scroll of Identify |
 | Ginther's Rift | Dimensional Blade | Dol | Scroll of Identify |
 | Gloom's Trap | Mesh Belt | Dol | Scroll of Identify |
 | Gravepalm | Sharkskin Gloves (Ethereal) | Dol | Scroll of Identify |
@@ -1985,10 +2021,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Hel Rune (53)
+### Hel Rune (55)
 
 <details>
-<summary>Show 53 recipes</summary>
+<summary>Show 55 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -2001,6 +2037,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Blackhorn's Face | Death Mask | Hel | Scroll of Identify |
 | Blackleach Blade | Bill | Hel | Scroll of Identify |
 | Blade of Ali Baba | Tulwar (Ethereal) | Hel | Scroll of Identify |
+| Bloodpact Shard | Mithral Point | Hel | Scroll of Identify |
 | Boneslayer Blade | Gothic Axe | Hel | Scroll of Identify |
 | Carin Shard | Petrified Wand (Ethereal) | Hel | Scroll of Identify |
 | Chromatic Ire | Cedar Staff (Ethereal) | Hel | Scroll of Identify |
@@ -2012,6 +2049,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Ghoulhide | Heavy Bracers (Ethereal) | Hel | Scroll of Identify |
 | Hand of Blessed Light | Divine Scepter | Hel | Scroll of Identify |
 | Heart Carver | Rondel (Ethereal) | Hel | Scroll of Identify |
+| Hellwarden's Will | Death Mask | Hel | Scroll of Town Portal |
 | Horazon's Dominion | Russet Armor | Hel | Scroll of Identify |
 | Islestrike | Twin Axe | Hel | Scroll of Identify |
 | Jalal's Mane | Totemic Mask | Hel | Scroll of Identify |
@@ -2048,10 +2086,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Io Rune (40)
+### Io Rune (41)
 
 <details>
-<summary>Show 40 recipes</summary>
+<summary>Show 41 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -2068,6 +2106,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Dwarf Star | Ring | Io | Scroll of Identify |
 | Fleshrender | Barbed Club (Ethereal) | Io | Scroll of Identify |
 | Gerke's Sanctuary | Pavise | Io | Scroll of Identify |
+| Gheed's Wager | Troll Belt (Ethereal) | Io | Scroll of Identify |
 | Ginther's Rift | Dimensional Blade (Ethereal) | Io | Scroll of Identify |
 | Gloom's Trap | Mesh Belt (Ethereal) | Io | Scroll of Identify |
 | Goldstrike Arch | Gothic Bow | Io | Scroll of Identify |
@@ -2098,10 +2137,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Lum Rune (39)
+### Lum Rune (41)
 
 <details>
-<summary>Show 39 recipes</summary>
+<summary>Show 41 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -2111,6 +2150,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Blackhand Key | Grave Wand (Ethereal) | Lum | Scroll of Identify |
 | Blackhorn's Face | Death Mask (Ethereal) | Lum | Scroll of Identify |
 | Blackleach Blade | Bill (Ethereal) | Lum | Scroll of Identify |
+| Bloodpact Shard | Mithral Point (Ethereal) | Lum | Scroll of Identify |
 | Bloodtree Stump | War Club | Lum | Scroll of Identify |
 | Boneslayer Blade | Gothic Axe (Ethereal) | Lum | Scroll of Identify |
 | Crainte Vomir | Espandon (Ethereal) | Lum | Scroll of Identify |
@@ -2119,6 +2159,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Earthshaker | Battle Hammer (Ethereal) | Lum | Scroll of Identify |
 | Guardian Naga | Naga | Lum | Scroll of Identify |
 | Hand of Blessed Light | Divine Scepter (Ethereal) | Lum | Scroll of Identify |
+| Hellwarden's Will | Death Mask (Ethereal) | Lum | Scroll of Town Portal |
 | Herald of Zakarum | Gilded Shield (Ethereal) | Lum | Scroll of Identify |
 | Islestrike | Twin Axe (Ethereal) | Lum | Scroll of Identify |
 | Jalal's Mane | Totemic Mask (Ethereal) | Lum | Scroll of Identify |
@@ -2182,10 +2223,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Fal Rune (18)
+### Fal Rune (19)
 
 <details>
-<summary>Show 18 recipes</summary>
+<summary>Show 19 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -2195,6 +2236,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Corpsemourn | Ornate Plate | Fal | Scroll of Identify |
 | Crown of Thieves | Grand Crown (Ethereal) | Fal | Scroll of Identify |
 | Dangoon's Teaching | Reinforced Mace | Fal | Scroll of Identify |
+| Dreadfang | Legend Sword | Fal | Scroll of Identify |
 | Goblin Toe | Light Plated Boots | Fal | Scroll of Identify |
 | Gore Rider | War Boots (Ethereal) | Fal | Scroll of Identify |
 | Gore Rider | War Boots | Fal | Scroll of Identify |
@@ -2210,13 +2252,14 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Lem Rune (14)
+### Lem Rune (15)
 
 <details>
-<summary>Show 14 recipes</summary>
+<summary>Show 15 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
+| Ars Tor'Baalos | Blasphemous Compendium | Lem | Scroll of Identify |
 | Astreon's Iron Ward | Caduceus | Lem | Scroll of Identify |
 | Atma's Wail | Embossed Plate (Ethereal) | Lem | Scroll of Identify |
 | Black Hades | Chaos Armor (Ethereal) | Lem | Scroll of Identify |
@@ -2234,10 +2277,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Pul Rune (13)
+### Pul Rune (14)
 
 <details>
-<summary>Show 13 recipes</summary>
+<summary>Show 14 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -2247,6 +2290,7 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Cranebeak | War Spike | Pul | Scroll of Identify |
 | Demon Limb | Tyrant Club | Pul | Scroll of Identify |
 | Demonhorn's Edge | Destroyer Helm | Pul | Scroll of Identify |
+| Dreadfang | Legend Sword (Ethereal) | Pul | Scroll of Identify |
 | Ghostflame | Legend Spike | Pul | Scroll of Identify |
 | Heaven's Light | Mighty Scepter | Pul | Scroll of Identify |
 | Hellslayer | Decapitator | Pul | Scroll of Identify |
@@ -2305,13 +2349,14 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Mal Rune (32)
+### Mal Rune (33)
 
 <details>
-<summary>Show 32 recipes</summary>
+<summary>Show 33 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
+| Ars Dul'Mephistos | Occult Tome | Mal | Scroll of Identify |
 | Bloodmoon | Elegant Blade (Ethereal) | Mal | Scroll of Identify |
 | Cerebus' Bite | Blood Spirit (Ethereal) | Mal | Scroll of Identify |
 | Cranebeak | War Spike (Ethereal) | Mal | Scroll of Identify |
@@ -2347,15 +2392,16 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Ist Rune (55)
+### Ist Rune (56)
 
 <details>
-<summary>Show 55 recipes</summary>
+<summary>Show 56 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
 | Arachnid Mesh | Spiderweb Sash | Ist | Scroll of Identify |
 | Arioc's Needle | Hyperion Spear | Ist | Scroll of Identify |
+| Ars Al'Diablolos | Blasphemous Grimoire | Ist | Scroll of Identify |
 | Blood Raven's Charge | Matriarchal Bow | Ist | Scroll of Identify |
 | Boneflame | Succubus Skull | Ist | Scroll of Identify |
 | Bonehew | Ogre Axe (Ethereal) | Ist | Scroll of Identify |

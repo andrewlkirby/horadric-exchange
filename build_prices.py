@@ -1,9 +1,16 @@
 """Phase A: build prices.csv -- one editable row per unique/set item.
 
-Usage: python build_prices.py
+Usage: python build_prices.py           # add new items, keep existing rows
+       python build_prices.py --reset   # regenerate every row from scratch
 Output: prices.csv (review/edit this, then run apply_recipes.py)
+
+By default every row already in prices.csv is kept exactly as-is (your rune
+prices, include flags and notes survive); only items found in the game data
+but missing from prices.csv are appended, priced by the rules below.
 """
 import csv
+import os
+import sys
 
 from cube_common import (
     read_tsv, load_base_tables, is_etherealizable, level_to_tier, RUNES,
@@ -68,7 +75,23 @@ TIER_OVERRIDES = {
     # Shields
     "Stormshield": 20,
     "Homunculus": 12,
+    # Reign of the Warlock uniques
+    "Ars Al'Diablolos": 24,
+    "Ars Dul'Mephistos": 23,
+    "Ars Tor'Baalos": 20,
+    "Dreadfang": 19,
+    "Bloodpact Shard": 15,
+    "Unique Warlock Helm": 15,  # Hellwarden's Will
+    "Gheed's Wager": 14,
+    "Wraithstep": 10,
+    "Measured Wrath": 9,
+    "Entropy Locket": 9,
+    "Sling": 8,
+    "Opalvein": 6,
 }
+
+# Spawnable uniques deliberately left out of the catalog.
+EXCLUDED_ITEMS = {'Annihilus', 'Hellfire Torch'}
 
 
 PROP_COLS = [f'prop{i}' for i in range(1, 13)]
@@ -77,7 +100,10 @@ PROP_COLS = [f'prop{i}' for i in range(1, 13)]
 def unique_rows(name2code):
     rows = []
     for row in read_tsv('data/uniqueitems.txt'):
-        if row.get('enabled', '').strip() != '1':
+        # D2R's current uniqueitems.txt has no 'enabled' column; items that
+        # can actually drop are flagged 'spawnable' (charms like the sunders
+        # and the RotW colossal jewels come from other sources and aren't).
+        if row.get('disabled', '').strip() == '1' or row.get('spawnable', '').strip() != '1':
             continue
         name = row.get('index', '').strip()
         code = row.get('code', '').strip()
@@ -85,6 +111,8 @@ def unique_rows(name2code):
             continue
         if code in QUEST_ONLY_UNIQUE_CODES:
             continue  # no plain/white version of this base ever exists
+        if name in EXCLUDED_ITEMS:
+            continue
         lvl_raw = row.get('lvl', '').strip()
         level = int(lvl_raw) if lvl_raw.isdigit() else 0
         # A handful of uniques (Ethereal Edge, Ghostflame, ...) are innately
@@ -101,7 +129,7 @@ def unique_rows(name2code):
 
 def set_rows(name2code):
     rows = []
-    for row in csv.DictReader(open('set_items.csv', encoding='utf-8')):
+    for row in csv.DictReader(open('data/set_items.csv', encoding='utf-8')):
         name = row['Item'].strip()
         base_name = row['Base Item'].strip()
         code = name2code.get(base_name)
@@ -168,7 +196,17 @@ def main():
             r['include'] = 0
             r['note'] = 'AMBIGUOUS: shares its in-game name with another entry -- fix the name collision at the source, then re-run'
 
-    out_rows.sort(key=lambda r: (r['kind'], r['base_code'], -r['rune_tier']))
+    added = out_rows
+    stale = []
+    if '--reset' not in sys.argv and os.path.exists('prices.csv'):
+        existing = list(csv.DictReader(open('prices.csv', encoding='utf-8')))
+        have = {(r['kind'], r['item']) for r in existing}
+        generated = {(r['kind'], r['item']) for r in out_rows}
+        added = [r for r in out_rows if (r['kind'], r['item']) not in have]
+        stale = sorted(item for kind, item in have - generated)
+        out_rows = existing + added
+
+    out_rows.sort(key=lambda r: (r['kind'], r['base_code'], -int(r['rune_tier'])))
 
     with open('prices.csv', 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=[
@@ -178,9 +216,16 @@ def main():
         w.writeheader()
         w.writerows(out_rows)
 
+    if added is not out_rows:
+        print(f'Kept existing prices.csv rows; added {len(added)} new item(s): '
+              f'{[r["item"] for r in added]}')
+        if stale:
+            print(f'Rows kept that this script would not generate (hand-added or '
+                  f'no longer spawnable -- check them): {stale}')
+
     n_uni = sum(1 for r in out_rows if r['kind'] == 'unique')
     n_set = sum(1 for r in out_rows if r['kind'] == 'set')
-    n_eth = sum(1 for r in out_rows if r['etherealizable'])
+    n_eth = sum(1 for r in out_rows if str(r['etherealizable']) == '1')
     print(f'Wrote prices.csv: {len(out_rows)} items ({n_uni} unique, {n_set} set), '
           f'{n_eth} eligible for an ethereal variant.')
     if ambiguous:

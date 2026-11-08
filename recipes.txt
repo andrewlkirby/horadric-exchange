@@ -1,6 +1,6 @@
 NOTE: recipes match the base item by type and ethereal state, plus a quality rule that depends on the item: for charms/rings/amulets/jewels, ANY quality works (low/normal/superior/magic/rare/crafted) since these almost never drop as true white items. For everything else, the base must be genuinely white (low, normal, or superior quality) -- magic, rare, crafted, and already-unique/set items do NOT satisfy the recipe. For the always-any-quality category, a DIFFERENT unique/set item sharing the same base type also satisfies the recipe and gets destroyed for the same result -- double check what you feed in.
 
-CRAFTING RECIPES (845)
+CRAFTING RECIPES (862)
 Base item + rune + filler item -> named unique/set item
 ======================================================================
 Battle Boots + Hel Rune + Scroll of Identify -> Aldur's Advance
@@ -33,6 +33,9 @@ Tomb Wand (Ethereal) + Hel Rune + Scroll of Identify -> Arm of King Leoric (eth)
 Tomb Wand + Shael Rune + Scroll of Identify -> Arm of King Leoric
 Slayer Guard (Ethereal) + Lum Rune + Scroll of Identify -> Arreat's Face (eth)
 Slayer Guard + Hel Rune + Scroll of Identify -> Arreat's Face
+Blasphemous Grimoire + Ist Rune + Scroll of Identify -> Ars Al'Diablolos
+Occult Tome + Mal Rune + Scroll of Identify -> Ars Dul'Mephistos
+Blasphemous Compendium + Lem Rune + Scroll of Identify -> Ars Tor'Baalos
 Caduceus (Ethereal) + Um Rune + Scroll of Identify -> Astreon's Iron Ward (eth)
 Caduceus + Lem Rune + Scroll of Identify -> Astreon's Iron Ward
 Battle Scythe (Ethereal) + Lum Rune + Scroll of Identify -> Athena's Wrath (eth)
@@ -94,6 +97,8 @@ Gladius (Ethereal) + Shael Rune + Scroll of Identify -> Bloodletter (eth)
 Gladius + Amn Rune + Scroll of Identify -> Bloodletter
 Elegant Blade (Ethereal) + Mal Rune + Scroll of Identify -> Bloodmoon (eth)
 Elegant Blade + Pul Rune + Scroll of Identify -> Bloodmoon
+Mithral Point (Ethereal) + Lum Rune + Scroll of Identify -> Bloodpact Shard (eth)
+Mithral Point + Hel Rune + Scroll of Identify -> Bloodpact Shard
 Morning Star (Ethereal) + Ral Rune + Scroll of Identify -> Bloodrise (eth)
 Morning Star + Ith Rune + Scroll of Identify -> Bloodrise
 Brandistock (Ethereal) + Ort Rune + Scroll of Identify -> Bloodthief (eth)
@@ -213,6 +218,8 @@ Vampirebone Gloves (Ethereal) + Ohm Rune + Scroll of Identify -> Dracul's Grasp 
 Vampirebone Gloves + Gul Rune + Scroll of Identify -> Dracul's Grasp
 Zakarum Shield (Ethereal) + Ohm Rune + Scroll of Identify -> Dragonscale (eth)
 Zakarum Shield + Gul Rune + Scroll of Identify -> Dragonscale
+Legend Sword (Ethereal) + Pul Rune + Scroll of Identify -> Dreadfang (eth)
+Legend Sword + Fal Rune + Scroll of Identify -> Dreadfang
 Cuirass (Ethereal) + Shael Rune + Scroll of Identify -> Duriel's Shell (eth)
 Cuirass + Amn Rune + Scroll of Identify -> Duriel's Shell
 Full Helm (Ethereal) + Ort Rune + Scroll of Identify -> Duskdeep (eth)
@@ -224,6 +231,7 @@ Thunder Maul + Mal Rune + Scroll of Identify -> Earth Shifter
 Battle Hammer (Ethereal) + Lum Rune + Scroll of Identify -> Earthshaker (eth)
 Battle Hammer + Hel Rune + Scroll of Identify -> Earthshaker
 Double Bow + Shael Rune + Scroll of Identify -> Endlesshail
+Amulet + Ort Rune + Scroll of Identify -> Entropy Locket
 Eldritch Orb (Ethereal) + Vex Rune + Scroll of Identify -> Eschuta's Temper (eth)
 Eldritch Orb + Ist Rune + Scroll of Identify -> Eschuta's Temper
 Silver-edged Axe + Gul Rune + Scroll of Identify -> Ethereal Edge
@@ -248,6 +256,8 @@ Winged Harpoon + Mal Rune + Scroll of Identify -> Gargoyle's Bite
 Pavise (Ethereal) + Ko Rune + Scroll of Identify -> Gerke's Sanctuary (eth)
 Pavise + Io Rune + Scroll of Identify -> Gerke's Sanctuary
 Grand Charm + Ist Rune + Scroll of Identify -> Gheed's Fortune
+Troll Belt (Ethereal) + Io Rune + Scroll of Identify -> Gheed's Wager (eth)
+Troll Belt + Dol Rune + Scroll of Identify -> Gheed's Wager
 Legend Spike + Pul Rune + Scroll of Identify -> Ghostflame
 Heavy Bracers (Ethereal) + Hel Rune + Scroll of Identify -> Ghoulhide (eth)
 Heavy Bracers + Shael Rune + Scroll of Identify -> Ghoulhide
@@ -328,6 +338,8 @@ Long Sword + Ort Rune + Scroll of Identify -> Hellplague
 Colossus Crossbow + Gul Rune + Scroll of Identify -> Hellrack
 Decapitator (Ethereal) + Mal Rune + Scroll of Identify -> Hellslayer (eth)
 Decapitator + Pul Rune + Scroll of Identify -> Hellslayer
+Death Mask (Ethereal) + Lum Rune + Scroll of Town Portal -> Hellwarden's Will (eth)
+Death Mask + Hel Rune + Scroll of Town Portal -> Hellwarden's Will
 Gilded Shield (Ethereal) + Lum Rune + Scroll of Identify -> Herald of Zakarum (eth)
 Gilded Shield + Um Rune + Scroll of Identify -> Herald of Zakarum
 Shamshir (Ethereal) + Dol Rune + Scroll of Identify -> Hexfire (eth)
@@ -451,6 +463,7 @@ Archon Staff + Gul Rune + Scroll of Identify -> Mang Song's Lesson
 Amulet + Ist Rune + Scroll of Town Portal -> Mara's Kaleidoscope
 Boneweave Boots (Ethereal) + Ist Rune + Scroll of Identify -> Marrowwalk (eth)
 Boneweave Boots + Um Rune + Scroll of Identify -> Marrowwalk
+Burnt Text + Ort Rune + Scroll of Identify -> Measured Wrath
 Aegis (Ethereal) + Ohm Rune + Scroll of Identify -> Medusa's Gaze (eth)
 Aegis + Gul Rune + Scroll of Identify -> Medusa's Gaze
 Champion Axe (Ethereal) + Ist Rune + Scroll of Identify -> Messerschmidt's Reaver (eth)
@@ -485,6 +498,7 @@ Vampirefang Belt + Lem Rune + Scroll of Identify -> Nosferatu's Coil
 Spired Helm + Ist Rune + Scroll of Identify -> Ondal's Almighty
 Elder Staff (Ethereal) + Ist Rune + Scroll of Identify -> Ondal's Wisdom (eth)
 Elder Staff + Um Rune + Scroll of Town Portal -> Ondal's Wisdom
+Ring + Ith Rune + Scroll of Town Portal -> Opalvein
 Dusk Shroud (Ethereal) + Ohm Rune + Scroll of Identify -> Ormus' Robes (eth)
 Dusk Shroud + Um Rune + Scroll of Identify -> Ormus' Robes
 War Hat (Ethereal) + Shael Rune + Scroll of Identify -> Peasant Crown (eth)
@@ -589,6 +603,7 @@ Military Pick + Ral Rune + Scroll of Identify -> Skull Splitter
 Russet Armor (Ethereal) + Lum Rune + Scroll of Identify -> Skullder's Ire (eth)
 Russet Armor + Hel Rune + Scroll of Town Portal -> Skullder's Ire
 Edge Bow + Amn Rune + Scroll of Identify -> Skystrike
+Ring + Ral Rune + Scroll of Identify -> Sling
 Light Belt (Ethereal) + Tal Rune + Scroll of Identify -> Snakecord (eth)
 Light Belt + Eth Rune + Scroll of Identify -> Snakecord
 Battle Belt (Ethereal) + Lum Rune + Scroll of Identify -> Snowclash (eth)
@@ -846,10 +861,12 @@ Fury Visor + Vex Rune + Scroll of Identify -> Wolfhowl
 Bone Helm (Ethereal) + Thul Rune + Scroll of Identify -> Wormskull (eth)
 Bone Helm + Ral Rune + Scroll of Identify -> Wormskull
 Ghost Glaive + Gul Rune + Scroll of Identify -> Wraith Flight
+Mirrored Boots (Ethereal) + Sol Rune + Scroll of Identify -> Wraithstep (eth)
+Mirrored Boots + Thul Rune + Scroll of Identify -> Wraithstep
 Rune Scepter (Ethereal) + Io Rune + Scroll of Identify -> Zakarum's Hand (eth)
 Rune Scepter + Dol Rune + Scroll of Identify -> Zakarum's Hand
 
-SALVAGE RECIPES (521)
+SALVAGE RECIPES (533)
 Named unique/set item + filler item -> base item + rune
 ======================================================================
 Aldur's Advance + Scroll of Identify -> Battle Boots + Hel Rune
@@ -875,6 +892,9 @@ Arioc's Needle + Scroll of Identify -> Hyperion Spear + Ist Rune
 Arkaine's Valor + Scroll of Identify -> Balrog Skin + Vex Rune
 Arm of King Leoric + Scroll of Identify -> Tomb Wand + Shael Rune
 Arreat's Face + Scroll of Identify -> Slayer Guard + Hel Rune
+Ars Al'Diablolos + Scroll of Identify -> Blasphemous Grimoire + Ist Rune
+Ars Dul'Mephistos + Scroll of Identify -> Occult Tome + Mal Rune
+Ars Tor'Baalos + Scroll of Identify -> Blasphemous Compendium + Lem Rune
 Astreon's Iron Ward + Scroll of Identify -> Caduceus + Lem Rune
 Athena's Wrath + Scroll of Identify -> Battle Scythe + Hel Rune
 Atma's Scarab + Scroll of Identify -> Amulet + Um Rune
@@ -910,6 +930,7 @@ Blood Raven's Charge + Scroll of Identify -> Matriarchal Bow + Ist Rune
 Bloodfist + Scroll of Identify -> Heavy Gloves + Nef Rune
 Bloodletter + Scroll of Identify -> Gladius + Amn Rune
 Bloodmoon + Scroll of Identify -> Elegant Blade + Pul Rune
+Bloodpact Shard + Scroll of Identify -> Mithral Point + Hel Rune
 Bloodrise + Scroll of Identify -> Morning Star + Ith Rune
 Bloodthief + Scroll of Identify -> Brandistock + Tal Rune
 Bloodtree Stump + Scroll of Identify -> War Club + Lum Rune
@@ -984,6 +1005,7 @@ Doombringer + Scroll of Identify -> Champion Sword + Io Rune
 Doomslinger + Scroll of Identify -> Repeating Crossbow + Amn Rune
 Dracul's Grasp + Scroll of Identify -> Vampirebone Gloves + Gul Rune
 Dragonscale + Scroll of Identify -> Zakarum Shield + Gul Rune
+Dreadfang + Scroll of Identify -> Legend Sword + Fal Rune
 Duriel's Shell + Scroll of Identify -> Cuirass + Amn Rune
 Duskdeep + Scroll of Identify -> Full Helm + Tal Rune
 Dwarf Star + Scroll of Identify -> Ring + Io Rune
@@ -991,6 +1013,7 @@ Eaglehorn + Scroll of Identify -> Crusader Bow + Mal Rune
 Earth Shifter + Scroll of Identify -> Thunder Maul + Mal Rune
 Earthshaker + Scroll of Identify -> Battle Hammer + Hel Rune
 Endlesshail + Scroll of Identify -> Double Bow + Shael Rune
+Entropy Locket + Scroll of Identify -> Amulet + Ort Rune
 Eschuta's Temper + Scroll of Identify -> Eldritch Orb + Ist Rune
 Ethereal Edge + Scroll of Identify -> Silver-edged Axe + Gul Rune
 Executioner's Justice + Scroll of Identify -> Glorious Axe + Gul Rune
@@ -1004,6 +1027,7 @@ Frostwind + Scroll of Identify -> Cryptic Sword + Mal Rune
 Gargoyle's Bite + Scroll of Identify -> Winged Harpoon + Mal Rune
 Gerke's Sanctuary + Scroll of Identify -> Pavise + Io Rune
 Gheed's Fortune + Scroll of Identify -> Grand Charm + Ist Rune
+Gheed's Wager + Scroll of Identify -> Troll Belt + Dol Rune
 Ghostflame + Scroll of Identify -> Legend Spike + Pul Rune
 Ghoulhide + Scroll of Identify -> Heavy Bracers + Shael Rune
 Giant Skull + Scroll of Identify -> Bone Visage + Um Rune
@@ -1050,6 +1074,7 @@ Hellmouth + Scroll of Identify -> War Gauntlets + Io Rune
 Hellplague + Scroll of Identify -> Long Sword + Ort Rune
 Hellrack + Scroll of Identify -> Colossus Crossbow + Gul Rune
 Hellslayer + Scroll of Identify -> Decapitator + Pul Rune
+Hellwarden's Will + Scroll of Identify -> Death Mask + Hel Rune
 Herald of Zakarum + Scroll of Identify -> Gilded Shield + Um Rune
 Hexfire + Scroll of Identify -> Shamshir + Sol Rune
 Highlord's Wrath + Scroll of Identify -> Amulet + Ist Rune
@@ -1137,6 +1162,7 @@ Manald Heal + Scroll of Identify -> Ring + Ith Rune
 Mang Song's Lesson + Scroll of Identify -> Archon Staff + Gul Rune
 Mara's Kaleidoscope + Scroll of Identify -> Amulet + Ist Rune
 Marrowwalk + Scroll of Identify -> Boneweave Boots + Um Rune
+Measured Wrath + Scroll of Identify -> Burnt Text + Ort Rune
 Medusa's Gaze + Scroll of Identify -> Aegis + Gul Rune
 Messerschmidt's Reaver + Scroll of Identify -> Champion Axe + Um Rune
 Metalgrid + Scroll of Identify -> Amulet + Vex Rune
@@ -1162,6 +1188,7 @@ Nord's Tenderizer + Scroll of Identify -> Truncheon + Mal Rune
 Nosferatu's Coil + Scroll of Identify -> Vampirefang Belt + Lem Rune
 Ondal's Almighty + Scroll of Identify -> Spired Helm + Ist Rune
 Ondal's Wisdom + Scroll of Identify -> Elder Staff + Um Rune
+Opalvein + Scroll of Identify -> Ring + Ith Rune
 Ormus' Robes + Scroll of Identify -> Dusk Shroud + Um Rune
 Peasant Crown + Scroll of Identify -> War Hat + Amn Rune
 Pelta Lunata + Scroll of Identify -> Buckler + El Rune
@@ -1223,6 +1250,7 @@ Skull Collector + Scroll of Identify -> Rune Staff + Hel Rune
 Skull Splitter + Scroll of Identify -> Military Pick + Ral Rune
 Skullder's Ire + Scroll of Identify -> Russet Armor + Hel Rune
 Skystrike + Scroll of Identify -> Edge Bow + Amn Rune
+Sling + Scroll of Identify -> Ring + Ral Rune
 Snakecord + Scroll of Identify -> Light Belt + Eth Rune
 Snowclash + Scroll of Identify -> Battle Belt + Hel Rune
 Soul Drainer + Scroll of Identify -> Vambraces + Gul Rune
@@ -1372,4 +1400,5 @@ Woestave + Scroll of Identify -> Halberd + Amn Rune
 Wolfhowl + Scroll of Identify -> Fury Visor + Vex Rune
 Wormskull + Scroll of Identify -> Bone Helm + Ral Rune
 Wraith Flight + Scroll of Identify -> Ghost Glaive + Gul Rune
+Wraithstep + Scroll of Identify -> Mirrored Boots + Thul Rune
 Zakarum's Hand + Scroll of Identify -> Rune Scepter + Dol Rune

@@ -47,6 +47,17 @@ MISC_BASE_NAMES = {
     'cm3': 'Grand Charm',
 }
 
+# Warlock grimoire bases (Reign of the Warlock) used by uniques/sets in this
+# catalog. They're missing from the local armor.txt, so they're never treated
+# as etherealizable.
+GRIMOIRE_BASE_NAMES = {
+    'wa6': 'Burnt Text',
+    'wac': 'Occult Tome',
+    'wad': 'Occult Codex',
+    'wae': 'Blasphemous Compendium',
+    'waf': 'Blasphemous Grimoire',
+}
+
 # Unique items whose base code is a quest-reward-only item (e.g. Amulet of the
 # Viper) that never exists as a plain white/normal-quality base -- a forward
 # "base + rune" recipe for these can never actually be fed, so they're
@@ -152,6 +163,10 @@ def load_base_tables():
     name2code['Amulet'] = 'amu'
     code2info['rin'] = {'type': 'ring', 'type2': '', 'level': 0}
     code2info['amu'] = {'type': 'amulet', 'type2': '', 'level': 0}
+
+    # Warlock grimoires (RotW) postdate this mod's local armor.txt.
+    for code, name in GRIMOIRE_BASE_NAMES.items():
+        name2code[name] = code
 
     for alias, real in BASE_NAME_ALIASES.items():
         if real in name2code:

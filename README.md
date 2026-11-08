@@ -5,8 +5,8 @@ craft a specific unique/set item from a base item + a rune (priced to roughly
 match the item's market value), and to salvage a unique/set item back into
 its base + rune.
 
-- **845 crafting recipes** -- `base item + rune + filler item -> named unique/set item`
-- **521 salvage recipes** -- `named unique/set item + filler item -> base item + rune`
+- **862 crafting recipes** -- `base item + rune + filler item -> named unique/set item`
+- **533 salvage recipes** -- `named unique/set item + filler item -> base item + rune`
 
 See **[recipes.md](recipes.md)** for the full list (also available as plain
 text in `recipes.txt`). See `prices_README.txt` if you want to re-price items
@@ -14,12 +14,16 @@ and regenerate the recipes yourself (`build_prices.py` / `apply_recipes.py`).
 
 ## What's actually in the mod
 
-Only two files are modified from vanilla:
+Three files are modified from vanilla:
 
 - `data/uniqueitems.txt` -- 8 "Rainbow Facet" jewels renamed to distinguish
   their otherwise-identical in-game names (e.g. "Rainbow Facet (Hit Power -
   Lightning)"), so each can be targeted individually.
-- `data/cubemain.txt` -- the 1366 recipes above, appended after all of the
+- `data/item-names.json` -- the game's item-name strings plus display names
+  for those 8 renamed jewels (without it they show up as "An Evil Force").
+  Because it contains Blizzard's full string table it isn't checked in; build
+  it from your own install with `build_strings.py` (see that script's header).
+- `data/cubemain.txt` -- the 1395 recipes above, appended after all of the
   original vanilla recipes (which are untouched).
 
 Every other file in `data/` (armor.txt, weapons.txt, etc.) is reference data
@@ -50,6 +54,12 @@ base install and save paths will be under Proton's compatdata layout instead.
 3. Copy these two files into that `excel` folder:
    - `data/uniqueitems.txt`
    - `data/cubemain.txt`
+
+   Then copy `data/item-names.json` (built by `build_strings.py`) to:
+
+   ```
+   <D2R install>\mods\HoradricExchange\HoradricExchange.mpq\data\local\lng\strings\item-names.json
+   ```
 
 4. Copy `data/modinfo.json` from this repo to:
 
