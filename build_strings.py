@@ -39,7 +39,9 @@ def main():
         raise SystemExit(f'No "{FACET_KEY}" entry in {VANILLA_PATH} -- is this item-names.json?')
     langs = [k for k in facet if k not in ('id', 'Key')]
 
-    indices = [r['index'].strip() for r in read_tsv('data/uniqueitems.txt') if r.get('index', '').strip()]
+    # Rows without a base code are section headers ("Expansion", ...), not items.
+    indices = [r['index'].strip() for r in read_tsv('data/uniqueitems.txt')
+               if r.get('index', '').strip() and r.get('code', '').strip()]
     facets = [n for n in indices if n.startswith(FACET_KEY + ' (')]
     assert len(facets) == 8, facets
 
