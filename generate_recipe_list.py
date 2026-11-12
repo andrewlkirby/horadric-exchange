@@ -42,7 +42,12 @@ def salvage_name(r):
     """Display name of a salvage recipe's input item. The Rainbow Facets share
     one 'jew,uni' recipe (see apply_recipes.py) instead of one per name.
     """
-    return 'Rainbow Facet' if r['input 1'] == 'jew,uni' else r['input 1']
+    return 'Rainbow Facet' if r['input 1'] == 'jew,uni' else r['input 1'].split(',')[0]
+
+
+def salvage_is_eth(r):
+    """True for the ethereal half of an item's eth/non-eth salvage pair."""
+    return r['input 1'] != 'jew,uni' and 'eth' in r['input 1'].split(',')[1:]
 
 
 def load_recipes():
@@ -115,8 +120,9 @@ def write_txt(forward, reverse, prices):
     for r in reverse:
         item = salvage_name(r)
         rune_name = RUNE_NAME_BY_CODE.get(r['output b'], r['output b'])
-        lines.append(f"{display(item)} + {FILLER_NAMES.get(r['input 2'], r['input 2'])} -> "
-                     f"{prices[item]['base_name']} + {rune_name} Rune")
+        eth = ' (Ethereal)' if salvage_is_eth(r) else ''
+        lines.append(f"{display(item)}{eth} + {FILLER_NAMES.get(r['input 2'], r['input 2'])} -> "
+                     f"{prices[item]['base_name']}{eth} + {rune_name} Rune")
 
     with open(TXT_PATH, 'w', encoding='utf-8') as f:
         f.write('\n'.join(lines) + '\n')
@@ -138,9 +144,10 @@ def reverse_table(rows, prices):
     lines = ['| Item | Base Item Returned | Rune Returned |', '|---|---|---|']
     for r in rows:
         item = salvage_name(r)
-        base_name = prices[item]['base_name']
+        eth = ' (Ethereal)' if salvage_is_eth(r) else ''
+        base_name = prices[item]['base_name'] + eth
         rune_name = RUNE_NAME_BY_CODE.get(r['output b'], r['output b'])
-        lines.append(f"| {display(item)} | {base_name} | {rune_name} |")
+        lines.append(f"| {display(item)}{eth} | {base_name} | {rune_name} |")
     return lines
 
 

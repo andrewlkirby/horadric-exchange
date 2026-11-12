@@ -893,199 +893,356 @@ Base item + rune + filler item &rarr; named unique/set item
 
 </details>
 
-## Salvage Recipes (533)
+## Salvage Recipes (855)
 
 Named unique/set item + filler item &rarr; base item + rune
 
 <details>
-<summary><strong>Unique Items (393)</strong></summary>
+<summary><strong>Unique Items (715)</strong></summary>
 
 | Item | Base Item Returned | Rune Returned |
 |---|---|---|
+| Alma Negra (Ethereal) | Sacred Rondache (Ethereal) | Lo |
 | Alma Negra | Sacred Rondache | Vex |
+| Andariel's Visage (Ethereal) | Demonhead (Ethereal) | Ohm |
 | Andariel's Visage | Demonhead | Um |
+| Arachnid Mesh (Ethereal) | Spiderweb Sash (Ethereal) | Gul |
 | Arachnid Mesh | Spiderweb Sash | Ist |
+| Arioc's Needle (Ethereal) | Hyperion Spear (Ethereal) | Lo |
 | Arioc's Needle | Hyperion Spear | Ist |
+| Arkaine's Valor (Ethereal) | Balrog Skin (Ethereal) | Lo |
 | Arkaine's Valor | Balrog Skin | Vex |
+| Arm of King Leoric (Ethereal) | Tomb Wand (Ethereal) | Hel |
 | Arm of King Leoric | Tomb Wand | Shael |
+| Arreat's Face (Ethereal) | Slayer Guard (Ethereal) | Lum |
 | Arreat's Face | Slayer Guard | Hel |
 | Ars Al'Diablolos | Blasphemous Grimoire | Ist |
 | Ars Dul'Mephistos | Occult Tome | Mal |
 | Ars Tor'Baalos | Blasphemous Compendium | Lem |
+| Astreon's Iron Ward (Ethereal) | Caduceus (Ethereal) | Um |
 | Astreon's Iron Ward | Caduceus | Lem |
+| Athena's Wrath (Ethereal) | Battle Scythe (Ethereal) | Lum |
 | Athena's Wrath | Battle Scythe | Hel |
 | Atma's Scarab | Amulet | Um |
+| Atma's Wail (Ethereal) | Embossed Plate (Ethereal) | Lem |
 | Atma's Wail | Embossed Plate | Ko |
+| Axe of Fechmar (Ethereal) | Large Axe (Ethereal) | Eth |
 | Axe of Fechmar | Large Axe | Tir |
 | Azurewrath | Phase Blade | Fal |
+| Baezil's Vortex (Ethereal) | Knout (Ethereal) | Ko |
 | Baezil's Vortex | Knout | Io |
+| Bane Ash (Ethereal) | Short Staff (Ethereal) | Nef |
 | Bane Ash | Short Staff | Eld |
+| Baranar's Star (Ethereal) | Devil Star (Ethereal) | Amn |
 | Baranar's Star | Devil Star | Ort |
+| Bartuc's Cut-Throat (Ethereal) | Greater Talons (Ethereal) | Io |
 | Bartuc's Cut-Throat | Greater Talons | Dol |
+| Biggin's Bonnet (Ethereal) | Cap (Ethereal) | Tir |
 | Biggin's Bonnet | Cap | El |
+| Bing Sz Wang (Ethereal) | Dacian Falx (Ethereal) | Lum |
 | Bing Sz Wang | Dacian Falx | Hel |
+| Black Hades (Ethereal) | Chaos Armor (Ethereal) | Lem |
 | Black Hades | Chaos Armor | Ko |
+| Blackbog's Sharp (Ethereal) | Cinquedeas (Ethereal) | Io |
 | Blackbog's Sharp | Cinquedeas | Dol |
+| Blackhand Key (Ethereal) | Grave Wand (Ethereal) | Lum |
 | Blackhand Key | Grave Wand | Hel |
+| Blackhorn's Face (Ethereal) | Death Mask (Ethereal) | Lum |
 | Blackhorn's Face | Death Mask | Hel |
+| Blackleach Blade (Ethereal) | Bill (Ethereal) | Lum |
 | Blackleach Blade | Bill | Hel |
+| Blackoak Shield (Ethereal) | Luna (Ethereal) | Um |
 | Blackoak Shield | Luna | Lem |
+| Blacktongue (Ethereal) | Bastard Sword (Ethereal) | Sol |
 | Blacktongue | Bastard Sword | Thul |
+| Blade of Ali Baba (Ethereal) | Tulwar (Ethereal) | Hel |
 | Blade of Ali Baba | Tulwar | Shael |
+| Bladebone (Ethereal) | Double Axe (Ethereal) | Ral |
 | Bladebone | Double Axe | Ith |
+| Bladebuckle (Ethereal) | Plated Belt (Ethereal) | Dol |
 | Bladebuckle | Plated Belt | Sol |
 | Blastbark | Long War Bow | Amn |
+| Blinkbat's Form (Ethereal) | Leather Armor (Ethereal) | Tal |
 | Blinkbat's Form | Leather Armor | Eth |
+| Blood Crescent (Ethereal) | Scimitar (Ethereal) | Eth |
 | Blood Crescent | Scimitar | Tir |
+| Blood Raven's Charge (Ethereal) | Matriarchal Bow (Ethereal) | Vex |
 | Blood Raven's Charge | Matriarchal Bow | Ist |
+| Bloodfist (Ethereal) | Heavy Gloves (Ethereal) | Ith |
 | Bloodfist | Heavy Gloves | Nef |
+| Bloodletter (Ethereal) | Gladius (Ethereal) | Shael |
 | Bloodletter | Gladius | Amn |
+| Bloodmoon (Ethereal) | Elegant Blade (Ethereal) | Mal |
 | Bloodmoon | Elegant Blade | Pul |
+| Bloodpact Shard (Ethereal) | Mithral Point (Ethereal) | Lum |
 | Bloodpact Shard | Mithral Point | Hel |
+| Bloodrise (Ethereal) | Morning Star (Ethereal) | Ral |
 | Bloodrise | Morning Star | Ith |
+| Bloodthief (Ethereal) | Brandistock (Ethereal) | Ort |
 | Bloodthief | Brandistock | Tal |
+| Bloodtree Stump (Ethereal) | War Club (Ethereal) | Fal |
 | Bloodtree Stump | War Club | Lum |
+| Boneflame (Ethereal) | Succubus Skull (Ethereal) | Vex |
 | Boneflame | Succubus Skull | Ist |
+| Boneflesh (Ethereal) | Plate Mail (Ethereal) | Sol |
 | Boneflesh | Plate Mail | Thul |
+| Bonehew (Ethereal) | Ogre Axe (Ethereal) | Ist |
 | Bonehew | Ogre Axe | Um |
+| Boneshade (Ethereal) | Lich Wand (Ethereal) | Ohm |
 | Boneshade | Lich Wand | Gul |
+| Boneslayer Blade (Ethereal) | Gothic Axe (Ethereal) | Lum |
 | Boneslayer Blade | Gothic Axe | Hel |
+| Bonesnap (Ethereal) | Maul (Ethereal) | Sol |
 | Bonesnap | Maul | Thul |
+| Brainhew (Ethereal) | Great Axe (Ethereal) | Sol |
 | Brainhew | Great Axe | Thul |
 | Bul-Kathos' Wedding Band | Ring | Ist |
 | Buriza-Do Kyanon | Ballista | Fal |
+| Butcher's Pupil (Ethereal) | Cleaver (Ethereal) | Io |
 | Butcher's Pupil | Cleaver | Dol |
+| Bverrit Keep (Ethereal) | Tower Shield (Ethereal) | Thul |
 | Bverrit Keep | Tower Shield | Ral |
+| Carin Shard (Ethereal) | Petrified Wand (Ethereal) | Hel |
 | Carin Shard | Petrified Wand | Shael |
 | Carrion Wind | Ring | Lem |
+| Cerebus' Bite (Ethereal) | Blood Spirit (Ethereal) | Mal |
 | Cerebus' Bite | Blood Spirit | Pul |
+| Chance Guards (Ethereal) | Chain Gloves (Ethereal) | Ral |
 | Chance Guards | Chain Gloves | Ith |
+| Chromatic Ire (Ethereal) | Cedar Staff (Ethereal) | Hel |
 | Chromatic Ire | Cedar Staff | Shael |
 | Cliffkiller | Long Siege Bow | Hel |
+| Cloudcrack (Ethereal) | Gothic Sword (Ethereal) | Ko |
 | Cloudcrack | Gothic Sword | Io |
+| Coif of Glory (Ethereal) | Helm (Ethereal) | Ral |
 | Coif of Glory | Helm | Ith |
+| Coldkill (Ethereal) | Hatchet (Ethereal) | Hel |
 | Coldkill | Hatchet | Shael |
+| Coldsteel Eye (Ethereal) | Cutlass (Ethereal) | Dol |
 | Coldsteel Eye | Cutlass | Sol |
+| Corpsemourn (Ethereal) | Ornate Plate (Ethereal) | Pul |
 | Corpsemourn | Ornate Plate | Fal |
+| Crainte Vomir (Ethereal) | Espandon (Ethereal) | Lum |
 | Crainte Vomir | Espandon | Hel |
+| Cranebeak (Ethereal) | War Spike (Ethereal) | Mal |
 | Cranebeak | War Spike | Pul |
 | Crescent Moon | Amulet | Io |
+| Crow Caw (Ethereal) | Tigulated Mail (Ethereal) | Io |
 | Crow Caw | Tigulated Mail | Dol |
+| Crown of Ages (Ethereal) | Corona (Ethereal) | Ist |
 | Crown of Ages | Corona | Um |
+| Crown of Thieves (Ethereal) | Grand Crown (Ethereal) | Fal |
 | Crown of Thieves | Grand Crown | Lum |
+| Crushflange (Ethereal) | Mace (Ethereal) | Ith |
 | Crushflange | Mace | Nef |
+| Culwen's Point (Ethereal) | War Sword (Ethereal) | Dol |
 | Culwen's Point | War Sword | Sol |
+| Dark Clan Crusher (Ethereal) | Cudgel (Ethereal) | Hel |
 | Dark Clan Crusher | Cudgel | Shael |
+| Darkforce Spawn (Ethereal) | Bloodlord Skull (Ethereal) | Ist |
 | Darkforce Spawn | Bloodlord Skull | Um |
+| Darkglow (Ethereal) | Ring Mail (Ethereal) | Ral |
 | Darkglow | Ring Mail | Ith |
+| Darksight Helm (Ethereal) | Basinet (Ethereal) | Io |
 | Darksight Helm | Basinet | Dol |
+| Death Cleaver (Ethereal) | Berserker Axe (Ethereal) | Gul |
 | Death Cleaver | Berserker Axe | Mal |
+| Death's Fathom (Ethereal) | Dimensional Shard (Ethereal) | Vex |
 | Death's Fathom | Dimensional Shard | Ist |
+| Death's Web (Ethereal) | Unearthed Wand (Ethereal) | Ist |
 | Death's Web | Unearthed Wand | Gul |
+| Deathbit (Ethereal) | Battle Dart (Ethereal) | Ko |
 | Deathbit | Battle Dart | Io |
+| Deathspade (Ethereal) | Axe (Ethereal) | Ith |
 | Deathspade | Axe | Nef |
+| Demon Limb (Ethereal) | Tyrant Club (Ethereal) | Mal |
 | Demon Limb | Tyrant Club | Pul |
 | Demon Machine | Chu-Ko-Nu | Lum |
+| Demon's Arch (Ethereal) | Balrog Spear (Ethereal) | Gul |
 | Demon's Arch | Balrog Spear | Mal |
+| Demonhorn's Edge (Ethereal) | Destroyer Helm (Ethereal) | Mal |
 | Demonhorn's Edge | Destroyer Helm | Pul |
+| Dimoak's Hew (Ethereal) | Bardiche (Ethereal) | Eth |
 | Dimoak's Hew | Bardiche | Tir |
+| Djinn Slayer (Ethereal) | Ataghan (Ethereal) | Ist |
 | Djinn Slayer | Ataghan | Um |
+| Doombringer (Ethereal) | Champion Sword (Ethereal) | Ko |
 | Doombringer | Champion Sword | Io |
 | Doomslinger | Repeating Crossbow | Amn |
+| Dracul's Grasp (Ethereal) | Vampirebone Gloves (Ethereal) | Ohm |
 | Dracul's Grasp | Vampirebone Gloves | Gul |
+| Dragonscale (Ethereal) | Zakarum Shield (Ethereal) | Ohm |
 | Dragonscale | Zakarum Shield | Gul |
+| Dreadfang (Ethereal) | Legend Sword (Ethereal) | Pul |
 | Dreadfang | Legend Sword | Fal |
+| Duriel's Shell (Ethereal) | Cuirass (Ethereal) | Shael |
 | Duriel's Shell | Cuirass | Amn |
+| Duskdeep (Ethereal) | Full Helm (Ethereal) | Ort |
 | Duskdeep | Full Helm | Tal |
 | Dwarf Star | Ring | Io |
 | Eaglehorn | Crusader Bow | Mal |
+| Earth Shifter (Ethereal) | Thunder Maul (Ethereal) | Gul |
 | Earth Shifter | Thunder Maul | Mal |
+| Earthshaker (Ethereal) | Battle Hammer (Ethereal) | Lum |
 | Earthshaker | Battle Hammer | Hel |
 | Endlesshail | Double Bow | Shael |
 | Entropy Locket | Amulet | Ort |
+| Eschuta's Temper (Ethereal) | Eldritch Orb (Ethereal) | Vex |
 | Eschuta's Temper | Eldritch Orb | Ist |
 | Ethereal Edge | Silver-edged Axe | Gul |
+| Executioner's Justice (Ethereal) | Glorious Axe (Ethereal) | Ohm |
 | Executioner's Justice | Glorious Axe | Gul |
+| Felloak (Ethereal) | Club (Ethereal) | Tir |
 | Felloak | Club | El |
+| Firelizard's Talons (Ethereal) | Feral Claws (Ethereal) | Ist |
 | Firelizard's Talons | Feral Claws | Um |
+| Flamebellow (Ethereal) | Balrog Blade (Ethereal) | Vex |
 | Flamebellow | Balrog Blade | Ist |
+| Fleshrender (Ethereal) | Barbed Club (Ethereal) | Io |
 | Fleshrender | Barbed Club | Dol |
+| Fleshripper (Ethereal) | Fanged Knife (Ethereal) | Gul |
 | Fleshripper | Fanged Knife | Mal |
+| Frostburn (Ethereal) | Gauntlets (Ethereal) | Thul |
 | Frostburn | Gauntlets | Ral |
+| Frostwind (Ethereal) | Cryptic Sword (Ethereal) | Gul |
 | Frostwind | Cryptic Sword | Mal |
+| Gargoyle's Bite (Ethereal) | Winged Harpoon (Ethereal) | Gul |
 | Gargoyle's Bite | Winged Harpoon | Mal |
+| Gerke's Sanctuary (Ethereal) | Pavise (Ethereal) | Ko |
 | Gerke's Sanctuary | Pavise | Io |
 | Gheed's Fortune | Grand Charm | Ist |
+| Gheed's Wager (Ethereal) | Troll Belt (Ethereal) | Io |
 | Gheed's Wager | Troll Belt | Dol |
 | Ghostflame | Legend Spike | Pul |
+| Ghoulhide (Ethereal) | Heavy Bracers (Ethereal) | Hel |
 | Ghoulhide | Heavy Bracers | Shael |
+| Giant Skull (Ethereal) | Bone Visage (Ethereal) | Ist |
 | Giant Skull | Bone Visage | Um |
+| Gimmershred (Ethereal) | Flying Axe (Ethereal) | Gul |
 | Gimmershred | Flying Axe | Mal |
+| Ginther's Rift (Ethereal) | Dimensional Blade (Ethereal) | Io |
 | Ginther's Rift | Dimensional Blade | Dol |
+| Gleamscythe (Ethereal) | Falchion (Ethereal) | Tal |
 | Gleamscythe | Falchion | Eth |
+| Gloom's Trap (Ethereal) | Mesh Belt (Ethereal) | Io |
 | Gloom's Trap | Mesh Belt | Dol |
+| Goblin Toe (Ethereal) | Light Plated Boots (Ethereal) | Amn |
 | Goblin Toe | Light Plated Boots | Fal |
+| Goldskin (Ethereal) | Full Plate Mail (Ethereal) | Shael |
 | Goldskin | Full Plate Mail | Amn |
 | Goldstrike Arch | Gothic Bow | Io |
+| Goldwrap (Ethereal) | Heavy Belt (Ethereal) | Ith |
 | Goldwrap | Heavy Belt | Nef |
+| Gore Rider (Ethereal) | War Boots (Ethereal) | Fal |
 | Gore Rider | War Boots | Fal |
+| Gorefoot (Ethereal) | Heavy Boots (Ethereal) | Ith |
 | Gorefoot | Heavy Boots | Nef |
+| Goreshovel (Ethereal) | Broad Axe (Ethereal) | Ral |
 | Goreshovel | Broad Axe | Ith |
+| Gravenspine (Ethereal) | Bone Wand (Ethereal) | Thul |
 | Gravenspine | Bone Wand | Ral |
+| Gravepalm (Ethereal) | Sharkskin Gloves (Ethereal) | Dol |
 | Gravepalm | Sharkskin Gloves | Sol |
+| Greyform (Ethereal) | Quilted Armor (Ethereal) | Eth |
 | Greyform | Quilted Armor | Tir |
+| Griffon's Eye (Ethereal) | Diadem (Ethereal) | Mal |
 | Griffon's Eye | Diadem | Gul |
+| Grim's Burning Dead (Ethereal) | Grim Scythe (Ethereal) | Ko |
 | Grim's Burning Dead | Grim Scythe | Io |
+| Griswold's Edge (Ethereal) | Broad Sword (Ethereal) | Ort |
 | Griswold's Edge | Broad Sword | Tal |
+| Guardian Angel (Ethereal) | Templar Coat (Ethereal) | Ko |
 | Guardian Angel | Templar Coat | Um |
+| Guardian Naga (Ethereal) | Naga (Ethereal) | Fal |
 | Guardian Naga | Naga | Lum |
+| Gull (Ethereal) | Dagger (Ethereal) | Nef |
 | Gull | Dagger | Eld |
 | Gut Siphon | Demon Crossbow | Ist |
+| Halaberd's Reign (Ethereal) | Conqueror Crown (Ethereal) | Lo |
 | Halaberd's Reign | Conqueror Crown | Vex |
+| Hand of Blessed Light (Ethereal) | Divine Scepter (Ethereal) | Lum |
 | Hand of Blessed Light | Divine Scepter | Hel |
+| Harlequin Crest (Ethereal) | Shako (Ethereal) | Jah |
 | Harlequin Crest | Shako | Ist |
+| Hawkmail (Ethereal) | Scale Mail (Ethereal) | Ral |
 | Hawkmail | Scale Mail | Ith |
+| Head Hunter's Glory (Ethereal) | Troll Nest (Ethereal) | Ohm |
 | Head Hunter's Glory | Troll Nest | Gul |
+| Headstriker (Ethereal) | Battle Sword (Ethereal) | Io |
 | Headstriker | Battle Sword | Dol |
+| Heart Carver (Ethereal) | Rondel (Ethereal) | Hel |
 | Heart Carver | Rondel | Shael |
+| Heaven's Light (Ethereal) | Mighty Scepter (Ethereal) | Mal |
 | Heaven's Light | Mighty Scepter | Pul |
+| Heavenly Garb (Ethereal) | Light Plate (Ethereal) | Dol |
 | Heavenly Garb | Light Plate | Sol |
+| Hell Forge Hammer (Ethereal) | Hellforge Hammer (Ethereal) | Tir |
 | Hell Forge Hammer | Hellforge Hammer | El |
 | Hellcast | Heavy Crossbow | Amn |
 | Hellclap | Short War Bow | Amn |
+| Hellmouth (Ethereal) | War Gauntlets (Ethereal) | Ko |
 | Hellmouth | War Gauntlets | Io |
+| Hellplague (Ethereal) | Long Sword (Ethereal) | Amn |
 | Hellplague | Long Sword | Ort |
 | Hellrack | Colossus Crossbow | Gul |
+| Hellslayer (Ethereal) | Decapitator (Ethereal) | Mal |
 | Hellslayer | Decapitator | Pul |
+| Hellwarden's Will (Ethereal) | Death Mask (Ethereal) | Lum |
 | Hellwarden's Will | Death Mask | Hel |
+| Herald of Zakarum (Ethereal) | Gilded Shield (Ethereal) | Lum |
 | Herald of Zakarum | Gilded Shield | Um |
+| Hexfire (Ethereal) | Shamshir (Ethereal) | Dol |
 | Hexfire | Shamshir | Sol |
 | Highlord's Wrath | Amulet | Ist |
+| Homunculus (Ethereal) | Heirophant Trophy (Ethereal) | Dol |
 | Homunculus | Heirophant Trophy | Sol |
+| Hone Sundan (Ethereal) | Yari (Ethereal) | Io |
 | Hone Sundan | Yari | Dol |
+| Horadric Staff (Ethereal) | Horadric Staff (Ethereal) | Tir |
 | Horadric Staff | Horadric Staff | El |
+| Horizon's Tornado (Ethereal) | Scourge (Ethereal) | Ist |
 | Horizon's Tornado | Scourge | Um |
+| Hotspur (Ethereal) | Boots (Ethereal) | Nef |
 | Hotspur | Boots | Eld |
+| Howltusk (Ethereal) | Great Helm (Ethereal) | Sol |
 | Howltusk | Great Helm | Thul |
+| Humongous (Ethereal) | Giant Axe (Ethereal) | Dol |
 | Humongous | Giant Axe | Sol |
+| Husoldal Evo (Ethereal) | Bec-de-Corbin (Ethereal) | Ko |
 | Husoldal Evo | Bec-de-Corbin | Io |
+| Iceblink (Ethereal) | Splint Mail (Ethereal) | Amn |
 | Iceblink | Splint Mail | Ort |
 | Ichorsting | Crossbow | Tal |
+| Infernostride (Ethereal) | Demonhide Boots (Ethereal) | Shael |
 | Infernostride | Demonhide Boots | Amn |
+| Iron Pelt (Ethereal) | Trellised Armor (Ethereal) | Dol |
 | Iron Pelt | Trellised Armor | Sol |
+| Ironstone (Ethereal) | War Hammer (Ethereal) | Shael |
 | Ironstone | War Hammer | Amn |
+| Islestrike (Ethereal) | Twin Axe (Ethereal) | Lum |
 | Islestrike | Twin Axe | Hel |
+| Jade Talon (Ethereal) | Wrist Sword (Ethereal) | Ist |
 | Jade Talon | Wrist Sword | Um |
+| Jalal's Mane (Ethereal) | Totemic Mask (Ethereal) | Lum |
 | Jalal's Mane | Totemic Mask | Hel |
+| Kelpie Snare (Ethereal) | Fuscina (Ethereal) | Dol |
 | Kelpie Snare | Fuscina | Sol |
+| Khalim's Flail (Ethereal) | Khalim's Flail (Ethereal) | Tir |
 | Khalim's Flail | Khalim's Flail | El |
+| Khalim's Will (Ethereal) | Khalim's Will (Ethereal) | Tir |
 | Khalim's Will | Khalim's Will | El |
+| Kinemil's Awl (Ethereal) | Giant Sword (Ethereal) | Amn |
 | Kinemil's Awl | Giant Sword | Ort |
+| Kira's Guardian (Ethereal) | Tiara (Ethereal) | Lo |
 | Kira's Guardian | Tiara | Vex |
+| Knell Striker (Ethereal) | Scepter (Ethereal) | Nef |
 | Knell Striker | Scepter | Eld |
 | Kuko Shakaku | Cedar Bow | Sol |
+| Lacerator (Ethereal) | Winged Axe (Ethereal) | Gul |
 | Lacerator | Winged Axe | Mal |
+| Lance Guard (Ethereal) | Barbed Shield (Ethereal) | Hel |
 | Lance Guard | Barbed Shield | Shael |
+| Lance of Yaggai (Ethereal) | Spetum (Ethereal) | Amn |
 | Lance of Yaggai | Spetum | Ort |
 | Langer Briser | Arbalest | Sol |
 | Latent Black Cleft | Grand Charm | Ist |
@@ -1094,206 +1251,371 @@ Named unique/set item + filler item &rarr; base item + rune
 | Latent Crack of the Heavens | Grand Charm | Ist |
 | Latent Flame Rift | Grand Charm | Ist |
 | Latent Rotting Fissure | Grand Charm | Ist |
+| Lava Gout (Ethereal) | Battle Gauntlets (Ethereal) | Lum |
 | Lava Gout | Battle Gauntlets | Hel |
 | Leadcrow | Light Crossbow | Nef |
+| Lenymo (Ethereal) | Sash (Ethereal) | Eth |
 | Lenymo | Sash | Tir |
+| Leviathan (Ethereal) | Kraken Shell (Ethereal) | Ist |
 | Leviathan | Kraken Shell | Um |
+| Lidless Wall (Ethereal) | Grim Shield (Ethereal) | Lum |
 | Lidless Wall | Grim Shield | Hel |
 | Lightsabre | Phase Blade | Lem |
+| Lycander's Aim (Ethereal) | Ceremonial Bow (Ethereal) | Lum |
 | Lycander's Aim | Ceremonial Bow | Hel |
+| Lycander's Flank (Ethereal) | Ceremonial Pike (Ethereal) | Lum |
 | Lycander's Flank | Ceremonial Pike | Hel |
+| Maelstrom (Ethereal) | Yew Wand (Ethereal) | Ral |
 | Maelstrom | Yew Wand | Ith |
+| Magefist (Ethereal) | Light Gauntlets (Ethereal) | Thul |
 | Magefist | Light Gauntlets | Fal |
 | Magewrath | Rune Bow | Hel |
 | Manald Heal | Ring | Ith |
+| Mang Song's Lesson (Ethereal) | Archon Staff (Ethereal) | Lo |
 | Mang Song's Lesson | Archon Staff | Gul |
 | Mara's Kaleidoscope | Amulet | Ist |
+| Marrowwalk (Ethereal) | Boneweave Boots (Ethereal) | Ist |
 | Marrowwalk | Boneweave Boots | Um |
 | Measured Wrath | Burnt Text | Ort |
+| Medusa's Gaze (Ethereal) | Aegis (Ethereal) | Ohm |
 | Medusa's Gaze | Aegis | Gul |
+| Messerschmidt's Reaver (Ethereal) | Champion Axe (Ethereal) | Ist |
 | Messerschmidt's Reaver | Champion Axe | Um |
 | Metalgrid | Amulet | Vex |
+| Moonfall (Ethereal) | Jagged Star (Ethereal) | Lum |
 | Moonfall | Jagged Star | Hel |
+| Moser's Blessed Circle (Ethereal) | Round Shield (Ethereal) | Dol |
 | Moser's Blessed Circle | Round Shield | Sol |
 | Nagelring | Ring | Tir |
 | Nature's Peace | Ring | Fal |
+| Nightsmoke (Ethereal) | Belt (Ethereal) | Thul |
 | Nightsmoke | Belt | Ral |
+| Nightwing's Veil (Ethereal) | Spired Helm (Ethereal) | Ist |
 | Nightwing's Veil | Spired Helm | Um |
 | Nokozan Relic | Amulet | Nef |
+| Nord's Tenderizer (Ethereal) | Truncheon (Ethereal) | Gul |
 | Nord's Tenderizer | Truncheon | Mal |
+| Nosferatu's Coil (Ethereal) | Vampirefang Belt (Ethereal) | Um |
 | Nosferatu's Coil | Vampirefang Belt | Lem |
+| Ondal's Wisdom (Ethereal) | Elder Staff (Ethereal) | Ist |
 | Ondal's Wisdom | Elder Staff | Um |
 | Opalvein | Ring | Ith |
+| Ormus' Robes (Ethereal) | Dusk Shroud (Ethereal) | Ohm |
 | Ormus' Robes | Dusk Shroud | Um |
+| Peasant Crown (Ethereal) | War Hat (Ethereal) | Shael |
 | Peasant Crown | War Hat | Amn |
+| Pelta Lunata (Ethereal) | Buckler (Ethereal) | Tir |
 | Pelta Lunata | Buckler | El |
+| Pierre Tombale Couant (Ethereal) | Partizan (Ethereal) | Lum |
 | Pierre Tombale Couant | Partizan | Hel |
+| Plague Bearer (Ethereal) | Rune Sword (Ethereal) | Lum |
 | Plague Bearer | Rune Sword | Hel |
 | Pluckeye | Short Bow | Tir |
+| Pompeii's Wrath (Ethereal) | Crowbill (Ethereal) | Ko |
 | Pompeii's Wrath | Crowbill | Io |
 | Pus Spitter | Siege Crossbow | Shael |
+| Que-Hegan's Wisdom (Ethereal) | Mage Plate (Ethereal) | Lem |
 | Que-Hegan's Wisdom | Mage Plate | Ko |
+| Radament's Sphere (Ethereal) | xts (Ethereal) | Fal |
 | Radament's Sphere | xts | Lum |
 | Rainbow Facet | Jewel | Ist |
+| Rakescar (Ethereal) | War Axe (Ethereal) | Shael |
 | Rakescar | War Axe | Amn |
+| Rattlecage (Ethereal) | Gothic Plate (Ethereal) | Dol |
 | Rattlecage | Gothic Plate | Sol |
 | Raven Claw | Long Bow | Ith |
 | Raven Frost | Ring | Ko |
+| Ravenlore (Ethereal) | Sky Spirit (Ethereal) | Ohm |
 | Ravenlore | Sky Spirit | Gul |
+| Razor's Edge (Ethereal) | Tomahawk (Ethereal) | Ist |
 | Razor's Edge | Tomahawk | Um |
+| Razorswitch (Ethereal) | Jo Staff (Ethereal) | Shael |
 | Razorswitch | Jo Staff | Amn |
+| Razortail (Ethereal) | Sharkskin Belt (Ethereal) | Dol |
 | Razortail | Sharkskin Belt | Um |
+| Razortine (Ethereal) | Trident (Ethereal) | Tal |
 | Razortine | Trident | Eth |
+| Ribcracker (Ethereal) | Quarterstaff (Ethereal) | Sol |
 | Ribcracker | Quarterstaff | Thul |
 | Riphook | Razor Bow | Sol |
+| Ripsaw (Ethereal) | Flamberge (Ethereal) | Sol |
 | Ripsaw | Flamberge | Thul |
+| Rixot's Keen (Ethereal) | Short Sword (Ethereal) | Tir |
 | Rixot's Keen | Short Sword | El |
+| Rockfleece (Ethereal) | Field Plate (Ethereal) | Shael |
 | Rockfleece | Field Plate | Amn |
+| Rockstopper (Ethereal) | Sallet (Ethereal) | Dol |
 | Rockstopper | Sallet | Sol |
 | Rogue's Bow | Composite Bow | Ral |
+| Rune Master (Ethereal) | Ettin Axe (Ethereal) | Vex |
 | Rune Master | Ettin Axe | Ist |
+| Rusthandle (Ethereal) | Grand Scepter (Ethereal) | Ort |
 | Rusthandle | Grand Scepter | Tal |
+| Sandstorm Trek (Ethereal) | Scarabshell Boots (Ethereal) | Hel |
 | Sandstorm Trek | Scarabshell Boots | Shael |
 | Saracen's Chance | Amulet | Ral |
+| Schaefer's Hammer (Ethereal) | Legendary Mallet (Ethereal) | Lum |
 | Schaefer's Hammer | Legendary Mallet | Hel |
 | Seraph's Hymn | Amulet | Pul |
+| Serpent Lord (Ethereal) | Long Staff (Ethereal) | Ith |
 | Serpent Lord | Long Staff | Nef |
+| Shadow Dancer (Ethereal) | Myrmidon Greaves (Ethereal) | Vex |
 | Shadow Dancer | Myrmidon Greaves | Ist |
 | Shadow Killer | Battle Cestus | Vex |
+| Shadowfang (Ethereal) | Two-Handed Sword (Ethereal) | Tal |
 | Shadowfang | Two-Handed Sword | Eth |
+| Shaftstop (Ethereal) | Mesh Armor (Ethereal) | Dol |
 | Shaftstop | Mesh Armor | Sol |
+| Silks of the Victor (Ethereal) | Ancient Armor (Ethereal) | Shael |
 | Silks of the Victor | Ancient Armor | Amn |
+| Silkweave (Ethereal) | Mesh Boots (Ethereal) | Hel |
 | Silkweave | Mesh Boots | Shael |
+| Skewer of Krintiz (Ethereal) | Sabre (Ethereal) | Ith |
 | Skewer of Krintiz | Sabre | Nef |
+| Skin of the Flayed One (Ethereal) | Demonhide Armor (Ethereal) | Dol |
 | Skin of the Flayed One | Demonhide Armor | Sol |
+| Skin of the Vipermagi (Ethereal) | Serpentskin Armor (Ethereal) | Io |
 | Skin of the Vipermagi | Serpentskin Armor | Mal |
+| Skull Collector (Ethereal) | Rune Staff (Ethereal) | Lum |
 | Skull Collector | Rune Staff | Hel |
+| Skull Splitter (Ethereal) | Military Pick (Ethereal) | Thul |
 | Skull Splitter | Military Pick | Ral |
+| Skullder's Ire (Ethereal) | Russet Armor (Ethereal) | Lum |
 | Skullder's Ire | Russet Armor | Hel |
 | Skystrike | Edge Bow | Amn |
 | Sling | Ring | Ral |
+| Snakecord (Ethereal) | Light Belt (Ethereal) | Tal |
 | Snakecord | Light Belt | Eth |
+| Snowclash (Ethereal) | Battle Belt (Ethereal) | Lum |
 | Snowclash | Battle Belt | Hel |
+| Soul Drainer (Ethereal) | Vambraces (Ethereal) | Ohm |
 | Soul Drainer | Vambraces | Gul |
+| Soul Harvest (Ethereal) | Scythe (Ethereal) | Thul |
 | Soul Harvest | Scythe | Ral |
+| Soulfeast Tine (Ethereal) | War Fork (Ethereal) | Hel |
 | Soulfeast Tine | War Fork | Shael |
+| Soulflay (Ethereal) | Claymore (Ethereal) | Thul |
 | Soulflay | Claymore | Ral |
+| Sparking Mail (Ethereal) | Chain Mail (Ethereal) | Ort |
 | Sparking Mail | Chain Mail | Tal |
+| Spectral Shard (Ethereal) | Blade (Ethereal) | Sol |
 | Spectral Shard | Blade | Thul |
+| Spellsteel (Ethereal) | Bearded Axe (Ethereal) | Io |
 | Spellsteel | Bearded Axe | Dol |
+| Spike Thorn (Ethereal) | Blade Barrier (Ethereal) | Gul |
 | Spike Thorn | Blade Barrier | Mal |
+| Spineripper (Ethereal) | Poignard (Ethereal) | Dol |
 | Spineripper | Poignard | Sol |
+| Spire of Honor (Ethereal) | Lance (Ethereal) | Io |
 | Spire of Honor | Lance | Dol |
+| Spire of Lazarus (Ethereal) | Gnarled Staff (Ethereal) | Ort |
 | Spire of Lazarus | Gnarled Staff | Tal |
+| Spirit Forge (Ethereal) | Linked Mail (Ethereal) | Hel |
 | Spirit Forge | Linked Mail | Shael |
+| Spirit Keeper (Ethereal) | Earth Spirit (Ethereal) | Ist |
 | Spirit Keeper | Earth Spirit | Um |
+| Spirit Ward (Ethereal) | Ward (Ethereal) | Gul |
 | Spirit Ward | Ward | Mal |
+| Staff of Kings (Ethereal) | Staff of Kings (Ethereal) | Tir |
 | Staff of Kings | Staff of Kings | El |
+| Stealskull (Ethereal) | Casque (Ethereal) | Hel |
 | Stealskull | Casque | Shael |
+| Steel Carapace (Ethereal) | Shadow Plate (Ethereal) | Ist |
 | Steel Carapace | Shadow Plate | Um |
+| Steel Pillar (Ethereal) | War Pike (Ethereal) | Gul |
 | Steel Pillar | War Pike | Mal |
+| Steel Shade (Ethereal) | Armet (Ethereal) | Mal |
 | Steel Shade | Armet | Pul |
+| Steelclash (Ethereal) | Kite Shield (Ethereal) | Ort |
 | Steelclash | Kite Shield | Tal |
+| Steeldriver (Ethereal) | Great Maul (Ethereal) | Dol |
 | Steeldriver | Great Maul | Sol |
+| Steelgoad (Ethereal) | Voulge (Ethereal) | Ral |
 | Steelgoad | Voulge | Ith |
+| Steelrend (Ethereal) | Ogre Gauntlets (Ethereal) | Dol |
 | Steelrend | Ogre Gauntlets | Sol |
+| Stone Crusher (Ethereal) | Legendary Mallet (Ethereal) | Gul |
 | Stone Crusher | Legendary Mallet | Mal |
+| Stoneraven (Ethereal) | Matriarchal Spear (Ethereal) | Ist |
 | Stoneraven | Matriarchal Spear | Um |
+| Stormchaser (Ethereal) | Scutum (Ethereal) | Hel |
 | Stormchaser | Scutum | Shael |
+| Stormeye (Ethereal) | War Scepter (Ethereal) | Amn |
 | Stormeye | War Scepter | Ort |
+| Stormguild (Ethereal) | Large Shield (Ethereal) | Tal |
 | Stormguild | Large Shield | Eth |
+| Stormlash (Ethereal) | Scourge (Ethereal) | Lum |
 | Stormlash | Scourge | Hel |
+| Stormrider (Ethereal) | Tabar (Ethereal) | Lum |
 | Stormrider | Tabar | Hel |
+| Stormshield (Ethereal) | Monarch (Ethereal) | Um |
 | Stormshield | Monarch | Lem |
+| Stormspike (Ethereal) | Stilleto (Ethereal) | Lum |
 | Stormspike | Stilleto | Hel |
+| Stormspire (Ethereal) | Giant Thresher (Ethereal) | Gul |
 | Stormspire | Giant Thresher | Mal |
 | Stormstrike | Short Battle Bow | Thul |
+| Stoutnail (Ethereal) | Spiked Club (Ethereal) | Nef |
 | Stoutnail | Spiked Club | Eld |
+| String of Ears (Ethereal) | Demonhide Sash (Ethereal) | Sol |
 | String of Ears | Demonhide Sash | Thul |
+| Suicide Branch (Ethereal) | Burnt Wand (Ethereal) | Dol |
 | Suicide Branch | Burnt Wand | Sol |
+| Sureshrill Frost (Ethereal) | Flanged Mace (Ethereal) | Io |
 | Sureshrill Frost | Flanged Mace | Dol |
+| Swordback Hold (Ethereal) | Spiked Shield (Ethereal) | Ral |
 | Swordback Hold | Spiked Shield | Ith |
+| Swordguard (Ethereal) | Executioner Sword (Ethereal) | Ko |
 | Swordguard | Executioner Sword | Io |
+| Tarnhelm (Ethereal) | Skull Cap (Ethereal) | Ral |
 | Tarnhelm | Skull Cap | Ith |
+| Tearhaunch (Ethereal) | Greaves (Ethereal) | Dol |
 | Tearhaunch | Greaves | Sol |
+| Templar's Might (Ethereal) | Sacred Armor (Ethereal) | Ohm |
 | Templar's Might | Sacred Armor | Gul |
+| The Atlantean (Ethereal) | Ancient Sword (Ethereal) | Lum |
 | The Atlantean | Ancient Sword | Hel |
+| The Battlebranch (Ethereal) | Poleaxe (Ethereal) | Sol |
 | The Battlebranch | Poleaxe | Thul |
 | The Cat's Eye | Amulet | Lum |
+| The Centurion (Ethereal) | Hard Leather Armor (Ethereal) | Ral |
 | The Centurion | Hard Leather Armor | Ith |
+| The Chieftain (Ethereal) | Battle Axe (Ethereal) | Thul |
 | The Chieftain | Battle Axe | Ral |
+| The Cranium Basher (Ethereal) | Thunder Maul (Ethereal) | Lo |
 | The Cranium Basher | Thunder Maul | Vex |
+| The Diggler (Ethereal) | Dirk (Ethereal) | Ith |
 | The Diggler | Dirk | Nef |
+| The Dragon Chang (Ethereal) | Spear (Ethereal) | Eth |
 | The Dragon Chang | Spear | Tir |
 | The Eye of Etlich | Amulet | Ith |
+| The Face of Horror (Ethereal) | Mask (Ethereal) | Thul |
 | The Face of Horror | Mask | Ral |
+| The Fetid Sprinkler (Ethereal) | Holy Water Sprinkler (Ethereal) | Io |
 | The Fetid Sprinkler | Holy Water Sprinkler | Dol |
+| The Gavel of Pain (Ethereal) | Martel de Fer (Ethereal) | Ko |
 | The Gavel of Pain | Martel de Fer | Fal |
+| The General's Tan Do Li Ga (Ethereal) | Flail (Ethereal) | Thul |
 | The General's Tan Do Li Ga | Flail | Ral |
+| The Gladiator's Bane (Ethereal) | Wire Fleece (Ethereal) | Lo |
 | The Gladiator's Bane | Wire Fleece | Vex |
+| The Gnasher (Ethereal) | Hand Axe (Ethereal) | Nef |
 | The Gnasher | Hand Axe | Eld |
+| The Grandfather (Ethereal) | Colossus Blade (Ethereal) | Ohm |
 | The Grandfather | Colossus Blade | Gul |
+| The Grim Reaper (Ethereal) | War Scythe (Ethereal) | Dol |
 | The Grim Reaper | War Scythe | Sol |
+| The Hand of Broc (Ethereal) | Leather Gloves (Ethereal) | Nef |
 | The Hand of Broc | Leather Gloves | Eld |
+| The Impaler (Ethereal) | War Spear (Ethereal) | Dol |
 | The Impaler | War Spear | Sol |
+| The Iron Jang Bong (Ethereal) | War Staff (Ethereal) | Shael |
 | The Iron Jang Bong | War Staff | Amn |
+| The Jade Tan Do (Ethereal) | Kriss (Ethereal) | Thul |
 | The Jade Tan Do | Kriss | Ral |
 | The Mahim-Oak Curio | Amulet | Thul |
+| The Meat Scraper (Ethereal) | Lochaber Axe (Ethereal) | Lum |
 | The Meat Scraper | Lochaber Axe | Hel |
+| The Minotaur (Ethereal) | Ancient Axe (Ethereal) | Ko |
 | The Minotaur | Ancient Axe | Io |
+| The Oculus (Ethereal) | Swirling Crystal (Ethereal) | Mal |
 | The Oculus | Swirling Crystal | Pul |
+| The Patriarch (Ethereal) | Great Sword (Ethereal) | Dol |
 | The Patriarch | Great Sword | Sol |
+| The Reaper's Toll (Ethereal) | Thresher (Ethereal) | Mal |
 | The Reaper's Toll | Thresher | Ist |
+| The Redeemer (Ethereal) | Mighty Scepter (Ethereal) | Vex |
 | The Redeemer | Mighty Scepter | Ist |
 | The Rising Sun | Amulet | Um |
+| The Salamander (Ethereal) | Battle Staff (Ethereal) | Thul |
 | The Salamander | Battle Staff | Ral |
+| The Scalper (Ethereal) | Francisca (Ethereal) | Um |
 | The Scalper | Francisca | Lem |
+| The Spirit Shroud (Ethereal) | Ghost Armor (Ethereal) | Shael |
 | The Spirit Shroud | Ghost Armor | Amn |
 | The Stone of Jordan | Ring | Gul |
+| The Tannr Gorerod (Ethereal) | Pike (Ethereal) | Shael |
 | The Tannr Gorerod | Pike | Amn |
+| The Vile Husk (Ethereal) | Tusk Sword (Ethereal) | Ko |
 | The Vile Husk | Tusk Sword | Io |
+| The Ward (Ethereal) | Gothic Shield (Ethereal) | Sol |
 | The Ward | Gothic Shield | Thul |
+| Thundergod's Vigor (Ethereal) | War Belt (Ethereal) | Ko |
 | Thundergod's Vigor | War Belt | Um |
+| Thunderstroke (Ethereal) | Matriarchal Javelin (Ethereal) | Gul |
 | Thunderstroke | Matriarchal Javelin | Mal |
+| Tiamat's Rebuke (Ethereal) | Dragon Shield (Ethereal) | Io |
 | Tiamat's Rebuke | Dragon Shield | Dol |
+| Titan's Revenge (Ethereal) | Ceremonial Javelin (Ethereal) | Lem |
 | Titan's Revenge | Ceremonial Javelin | Ko |
+| Todesfaelle Flamme (Ethereal) | Zweihander (Ethereal) | Ko |
 | Todesfaelle Flamme | Zweihander | Io |
+| Tomb Reaver (Ethereal) | Cryptic Axe (Ethereal) | Lo |
 | Tomb Reaver | Cryptic Axe | Vex |
+| Toothrow (Ethereal) | Sharktooth Armor (Ethereal) | Fal |
 | Toothrow | Sharktooth Armor | Lum |
+| Torch of Iro (Ethereal) | Wand (Ethereal) | Nef |
 | Torch of Iro | Wand | Eld |
+| Treads of Cthon (Ethereal) | Chain Boots (Ethereal) | Ral |
 | Treads of Cthon | Chain Boots | Ith |
+| Twitchthroe (Ethereal) | Studded Leather (Ethereal) | Ort |
 | Twitchthroe | Studded Leather | Tal |
+| Tyrael's Might (Ethereal) | Sacred Armor (Ethereal) | Lo |
 | Tyrael's Might | Sacred Armor | Vex |
+| Umbral Disk (Ethereal) | Small Shield (Ethereal) | Ith |
 | Umbral Disk | Small Shield | Nef |
+| Ume's Lament (Ethereal) | Grim Wand (Ethereal) | Shael |
 | Ume's Lament | Grim Wand | Amn |
+| Undead Crown (Ethereal) | Crown (Ethereal) | Dol |
 | Undead Crown | Crown | Sol |
+| Valkyrie Wing (Ethereal) | Winged Helm (Ethereal) | Ko |
 | Valkyrie Wing | Winged Helm | Io |
+| Vampire Gaze (Ethereal) | Grim Helm (Ethereal) | Fal |
 | Vampire Gaze | Grim Helm | Lum |
+| Veil of Steel (Ethereal) | Spired Helm (Ethereal) | Um |
 | Veil of Steel | Spired Helm | Lem |
+| Venom Grip (Ethereal) | Demonhide Gloves (Ethereal) | Shael |
 | Venom Grip | Demonhide Gloves | Amn |
+| Venom Ward (Ethereal) | Breast Plate (Ethereal) | Thul |
 | Venom Ward | Breast Plate | Ral |
+| Verdungo's Hearty Cord (Ethereal) | Mithril Coil (Ethereal) | Ko |
 | Verdungo's Hearty Cord | Mithril Coil | Io |
+| Viperfork (Ethereal) | Mancatcher (Ethereal) | Vex |
 | Viperfork | Mancatcher | Ist |
+| Visceratuant (Ethereal) | Defender (Ethereal) | Shael |
 | Visceratuant | Defender | Amn |
+| Wall of the Eyeless (Ethereal) | Bone Shield (Ethereal) | Thul |
 | Wall of the Eyeless | Bone Shield | Ral |
+| War Traveler (Ethereal) | Battle Boots (Ethereal) | Lum |
 | War Traveler | Battle Boots | Ist |
+| Warlord's Trust (Ethereal) | Military Axe (Ethereal) | Hel |
 | Warlord's Trust | Military Axe | Shael |
+| Warpspear (Ethereal) | Gothic Staff (Ethereal) | Io |
 | Warpspear | Gothic Staff | Dol |
+| Warshrike (Ethereal) | Winged Knife (Ethereal) | Ohm |
 | Warshrike | Winged Knife | Gul |
+| Waterwalk (Ethereal) | Sharkskin Boots (Ethereal) | Amn |
 | Waterwalk | Sharkskin Boots | Ort |
 | Widowmaker | Ward Bow | Um |
 | Windforce | Hydra Bow | Ist |
+| Windhammer (Ethereal) | Ogre Maul (Ethereal) | Gul |
 | Windhammer | Ogre Maul | Mal |
 | Wisp Projector | Ring | Gul |
 | Witchwild String | Short Siege Bow | Dol |
 | Witherstring | Hunter's Bow | Eth |
+| Wizardspike (Ethereal) | Bone Knife (Ethereal) | Thul |
 | Wizardspike | Bone Knife | Ral |
 | Wizendraw | Long Battle Bow | Thul |
+| Woestave (Ethereal) | Halberd (Ethereal) | Shael |
 | Woestave | Halberd | Amn |
+| Wolfhowl (Ethereal) | Fury Visor (Ethereal) | Lo |
 | Wolfhowl | Fury Visor | Vex |
+| Wormskull (Ethereal) | Bone Helm (Ethereal) | Thul |
 | Wormskull | Bone Helm | Ral |
 | Wraith Flight | Ghost Glaive | Gul |
+| Wraithstep (Ethereal) | Mirrored Boots (Ethereal) | Sol |
 | Wraithstep | Mirrored Boots | Thul |
+| Zakarum's Hand (Ethereal) | Rune Scepter (Ethereal) | Io |
 | Zakarum's Hand | Rune Scepter | Dol |
 
 </details>

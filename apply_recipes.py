@@ -12,9 +12,10 @@ Identify -> base item + rune (via cubemain.txt's 'output b' slot, which
 produces a second item alongside the first). The item's exact name is already
 globally unique, so no filler-pool disambiguation is needed on this side --
 one fixed filler is enough. The reverse recipe always refunds the *normal*
-recipe's ingredients, even for items that also have a pricier ethereal-input
-variant -- salvaging doesn't try to detect whether the specific item instance
-in the cube happened to be crafted via that route.
+recipe's ingredients for a non-ethereal item. Items that also have an
+ethereal-input variant get two salvage recipes instead -- 'Name,eth' refunds an
+ethereal base + the ethereal recipe's rune, 'Name,noe' refunds a normal base +
+the normal rune -- so salvaging can never turn one rune into a different one.
 
 Usage: python apply_recipes.py
 """
@@ -85,17 +86,24 @@ def build_row(description, base_code, quality, base_qualifier, rune_code, filler
     return row
 
 
-def build_reverse_row(description, item_name, base_code, rune_code):
+def build_reverse_row(description, item_name, base_code, rune_code, eth=None):
+    """eth: None matches the item regardless of ethereal state; True/False
+    restrict the input to an ethereal/non-ethereal instance, and True also
+    makes the refunded base ethereal."""
     row = blank_row()
     row['description'] = description
     row['numinputs'] = '2'
-    row['input 1'] = item_name
+    row['input 1'] = item_name if eth is None else f"{item_name},{'eth' if eth else 'noe'}"
     row['input 2'] = REVERSE_FILLER
     # A bare base code rolls a random quality (often magic) at the unique's
     # high ilvl; force a white base instead. Rings/amulets/jewels/charms have
     # no normal-quality form, so they're left to roll.
     row['output'] = base_code if base_code in QUALITY_EXEMPT_CODES else f'{base_code},nor'
     row['output b'] = rune_code
+    if eth:
+        row['mod 1'] = 'ethereal'
+        row['mod 1 min'] = '1'
+        row['mod 1 max'] = '1'
     return row
 
 
@@ -255,6 +263,18 @@ def main():
             elif rune_code != facet_rune:
                 raise SystemExit(f'{item!r} salvages to a different rune than the other Rainbow '
                                  f'Facets -- they share one jew,uni recipe, so keep their runes equal.')
+            continue
+
+        if item in eth_filler:
+            eth_rune_code, eth_rune_name = RUNES[int(r['rune_eth_tier']) - 1]
+            try_add(build_reverse_row(
+                f'{item} (eth) + {FILLER_NAMES[REVERSE_FILLER]} -> {base_name} (Ethereal) + {eth_rune_name} Rune',
+                item, base_code, eth_rune_code, eth=True,
+            ))
+            try_add(build_reverse_row(
+                f'{item} + {FILLER_NAMES[REVERSE_FILLER]} -> {base_name} + {rune_name} Rune',
+                item, base_code, rune_code, eth=False,
+            ))
             continue
 
         try_add(build_reverse_row(

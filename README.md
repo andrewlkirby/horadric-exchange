@@ -6,7 +6,9 @@ match the item's market value), and to salvage a unique/set item back into
 its base + rune.
 
 - **862 crafting recipes** -- `base item + rune + filler item -> named unique/set item`
-- **533 salvage recipes** -- `named unique/set item + filler item -> base item + rune`
+- **855 salvage recipes** -- `named unique/set item + filler item -> base item + rune`
+  (an ethereal item salvages into an ethereal base + the rune its ethereal
+  recipe costs)
 
 See **[recipes.md](recipes.md)** for the full list (also available as plain
 text in `recipes.txt`). See `prices_README.txt` if you want to re-price items
@@ -23,7 +25,7 @@ Three files are modified from vanilla:
   for those 8 renamed jewels (without it they show up as "An Evil Force").
   Because it contains Blizzard's full string table it isn't checked in; build
   it from your own install with `build_strings.py` (see that script's header).
-- `data/cubemain.txt` -- the 1395 recipes above, appended after all of the
+- `data/cubemain.txt` -- the 1717 recipes above, appended after all of the
   original vanilla recipes (which are untouched).
 
 Every other file in `data/` (armor.txt, weapons.txt, etc.) is reference data
