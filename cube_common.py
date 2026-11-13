@@ -62,7 +62,8 @@ GRIMOIRE_BASE_NAMES = {
 # Viper) that never exists as a plain white/normal-quality base -- a forward
 # "base + rune" recipe for these can never actually be fed, so they're
 # excluded from the catalog rather than shipping a dead recipe.
-QUEST_ONLY_UNIQUE_CODES = {'vip', 'msf', 'hst', 'qf1', 'qf2', 'qhr', 'qey', 'qbr', 'leg'}
+QUEST_ONLY_UNIQUE_CODES = {'vip', 'msf', 'hst', 'qf1', 'qf2', 'qhr', 'qey', 'qbr', 'leg',
+                           'hfh', 'hdm', 'g33', 'd33'}
 
 # Charms/rings/amulets/jewels basically never drop as true white (no-affix)
 # items -- rare, and rarer still with more Magic Find -- so forward recipes

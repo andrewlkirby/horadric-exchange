@@ -1,6 +1,6 @@
 NOTE: recipes match the base item by type and ethereal state, plus a quality rule that depends on the item: for charms/rings/amulets/jewels, ANY quality works (low/normal/superior/magic/rare/crafted) since these almost never drop as true white items. For everything else, the base must be genuinely white (low, normal, or superior quality) -- magic, rare, crafted, and already-unique/set items do NOT satisfy the recipe. For the always-any-quality category, a DIFFERENT unique/set item sharing the same base type also satisfies the recipe and gets destroyed for the same result -- double check what you feed in.
 
-CRAFTING RECIPES (862)
+CRAFTING RECIPES (852)
 Base item + rune + filler item -> named unique/set item
 ======================================================================
 Battle Boots + Hel Rune + Scroll of Identify -> Aldur's Advance
@@ -327,8 +327,6 @@ Mighty Scepter (Ethereal) + Mal Rune + Scroll of Identify -> Heaven's Light (eth
 Mighty Scepter + Pul Rune + Scroll of Identify -> Heaven's Light
 Light Plate (Ethereal) + Dol Rune + Scroll of Identify -> Heavenly Garb (eth)
 Light Plate + Sol Rune + Scroll of Identify -> Heavenly Garb
-Hellforge Hammer (Ethereal) + Tir Rune + Scroll of Identify -> Hell Forge Hammer (eth)
-Hellforge Hammer + El Rune + Scroll of Identify -> Hell Forge Hammer
 Heavy Crossbow + Amn Rune + Scroll of Identify -> Hellcast
 Short War Bow + Amn Rune + Scroll of Identify -> Hellclap
 War Gauntlets (Ethereal) + Ko Rune + Scroll of Identify -> Hellmouth (eth)
@@ -349,8 +347,6 @@ Heirophant Trophy (Ethereal) + Dol Rune + Scroll of Identify -> Homunculus (eth)
 Heirophant Trophy + Sol Rune + Scroll of Identify -> Homunculus
 Yari (Ethereal) + Io Rune + Scroll of Identify -> Hone Sundan (eth)
 Yari + Dol Rune + Scroll of Identify -> Hone Sundan
-Horadric Staff (Ethereal) + Tir Rune + Scroll of Identify -> Horadric Staff (eth)
-Horadric Staff + El Rune + Scroll of Identify -> Horadric Staff
 Demonhead + Um Rune + Scroll of Town Portal -> Horazon's Countenance
 Russet Armor + Hel Rune + Scroll of Identify -> Horazon's Dominion
 Demonhide Gloves + Amn Rune + Scroll of Identify -> Horazon's Hold
@@ -407,10 +403,6 @@ Totemic Mask (Ethereal) + Lum Rune + Scroll of Identify -> Jalal's Mane (eth)
 Totemic Mask + Hel Rune + Scroll of Identify -> Jalal's Mane
 Fuscina (Ethereal) + Dol Rune + Scroll of Identify -> Kelpie Snare (eth)
 Fuscina + Sol Rune + Scroll of Identify -> Kelpie Snare
-Khalim's Flail (Ethereal) + Tir Rune + Scroll of Identify -> Khalim's Flail (eth)
-Khalim's Flail + El Rune + Scroll of Identify -> Khalim's Flail
-Khalim's Will (Ethereal) + Tir Rune + Scroll of Identify -> Khalim's Will (eth)
-Khalim's Will + El Rune + Scroll of Identify -> Khalim's Will
 Giant Sword (Ethereal) + Amn Rune + Scroll of Identify -> Kinemil's Awl (eth)
 Giant Sword + Ort Rune + Scroll of Identify -> Kinemil's Awl
 Tiara (Ethereal) + Lo Rune + Scroll of Identify -> Kira's Guardian (eth)
@@ -636,8 +628,6 @@ Earth Spirit (Ethereal) + Ist Rune + Scroll of Identify -> Spirit Keeper (eth)
 Earth Spirit + Um Rune + Scroll of Identify -> Spirit Keeper
 Ward (Ethereal) + Gul Rune + Scroll of Identify -> Spirit Ward (eth)
 Ward + Mal Rune + Scroll of Identify -> Spirit Ward
-Staff of Kings (Ethereal) + Tir Rune + Scroll of Identify -> Staff of Kings (eth)
-Staff of Kings + El Rune + Scroll of Identify -> Staff of Kings
 Casque (Ethereal) + Hel Rune + Scroll of Identify -> Stealskull (eth)
 Casque + Shael Rune + Scroll of Identify -> Stealskull
 Shadow Plate (Ethereal) + Ist Rune + Scroll of Identify -> Steel Carapace (eth)
@@ -866,7 +856,7 @@ Mirrored Boots + Thul Rune + Scroll of Identify -> Wraithstep
 Rune Scepter (Ethereal) + Io Rune + Scroll of Identify -> Zakarum's Hand (eth)
 Rune Scepter + Dol Rune + Scroll of Identify -> Zakarum's Hand
 
-SALVAGE RECIPES (855)
+SALVAGE RECIPES (845)
 Named unique/set item + filler item -> base item + rune
 ======================================================================
 Aldur's Advance + Scroll of Identify -> Battle Boots + Hel Rune
@@ -1193,8 +1183,6 @@ Heaven's Light (Ethereal) + Scroll of Identify -> Mighty Scepter (Ethereal) + Ma
 Heaven's Light + Scroll of Identify -> Mighty Scepter + Pul Rune
 Heavenly Garb (Ethereal) + Scroll of Identify -> Light Plate (Ethereal) + Dol Rune
 Heavenly Garb + Scroll of Identify -> Light Plate + Sol Rune
-Hell Forge Hammer (Ethereal) + Scroll of Identify -> Hellforge Hammer (Ethereal) + Tir Rune
-Hell Forge Hammer + Scroll of Identify -> Hellforge Hammer + El Rune
 Hellcast + Scroll of Identify -> Heavy Crossbow + Amn Rune
 Hellclap + Scroll of Identify -> Short War Bow + Amn Rune
 Hellmouth (Ethereal) + Scroll of Identify -> War Gauntlets (Ethereal) + Ko Rune
@@ -1215,8 +1203,6 @@ Homunculus (Ethereal) + Scroll of Identify -> Heirophant Trophy (Ethereal) + Dol
 Homunculus + Scroll of Identify -> Heirophant Trophy + Sol Rune
 Hone Sundan (Ethereal) + Scroll of Identify -> Yari (Ethereal) + Io Rune
 Hone Sundan + Scroll of Identify -> Yari + Dol Rune
-Horadric Staff (Ethereal) + Scroll of Identify -> Horadric Staff (Ethereal) + Tir Rune
-Horadric Staff + Scroll of Identify -> Horadric Staff + El Rune
 Horazon's Countenance + Scroll of Identify -> Demonhead + Um Rune
 Horazon's Dominion + Scroll of Identify -> Russet Armor + Hel Rune
 Horazon's Hold + Scroll of Identify -> Demonhide Gloves + Amn Rune
@@ -1273,10 +1259,6 @@ Jalal's Mane (Ethereal) + Scroll of Identify -> Totemic Mask (Ethereal) + Lum Ru
 Jalal's Mane + Scroll of Identify -> Totemic Mask + Hel Rune
 Kelpie Snare (Ethereal) + Scroll of Identify -> Fuscina (Ethereal) + Dol Rune
 Kelpie Snare + Scroll of Identify -> Fuscina + Sol Rune
-Khalim's Flail (Ethereal) + Scroll of Identify -> Khalim's Flail (Ethereal) + Tir Rune
-Khalim's Flail + Scroll of Identify -> Khalim's Flail + El Rune
-Khalim's Will (Ethereal) + Scroll of Identify -> Khalim's Will (Ethereal) + Tir Rune
-Khalim's Will + Scroll of Identify -> Khalim's Will + El Rune
 Kinemil's Awl (Ethereal) + Scroll of Identify -> Giant Sword (Ethereal) + Amn Rune
 Kinemil's Awl + Scroll of Identify -> Giant Sword + Ort Rune
 Kira's Guardian (Ethereal) + Scroll of Identify -> Tiara (Ethereal) + Lo Rune
@@ -1495,8 +1477,6 @@ Spirit Keeper (Ethereal) + Scroll of Identify -> Earth Spirit (Ethereal) + Ist R
 Spirit Keeper + Scroll of Identify -> Earth Spirit + Um Rune
 Spirit Ward (Ethereal) + Scroll of Identify -> Ward (Ethereal) + Gul Rune
 Spirit Ward + Scroll of Identify -> Ward + Mal Rune
-Staff of Kings (Ethereal) + Scroll of Identify -> Staff of Kings (Ethereal) + Tir Rune
-Staff of Kings + Scroll of Identify -> Staff of Kings + El Rune
 Stealskull (Ethereal) + Scroll of Identify -> Casque (Ethereal) + Hel Rune
 Stealskull + Scroll of Identify -> Casque + Shael Rune
 Steel Carapace (Ethereal) + Scroll of Identify -> Shadow Plate (Ethereal) + Ist Rune

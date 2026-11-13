@@ -11,12 +11,12 @@ Recipes match the base item by **type and ethereal state**, plus a quality rule 
 
 Looking for a specific item? Use your browser's find (Ctrl+F). Have a rune and want to know what it makes? See [Crafting Recipes by Rune](#crafting-recipes-by-rune).
 
-## Crafting Recipes (862)
+## Crafting Recipes (852)
 
 Base item + rune + filler item &rarr; named unique/set item
 
 <details>
-<summary><strong>Unique Items (722)</strong></summary>
+<summary><strong>Unique Items (712)</strong></summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -294,8 +294,6 @@ Base item + rune + filler item &rarr; named unique/set item
 | Heaven's Light | Mighty Scepter | Pul | Scroll of Identify |
 | Heavenly Garb | Light Plate (Ethereal) | Dol | Scroll of Identify |
 | Heavenly Garb | Light Plate | Sol | Scroll of Identify |
-| Hell Forge Hammer | Hellforge Hammer (Ethereal) | Tir | Scroll of Identify |
-| Hell Forge Hammer | Hellforge Hammer | El | Scroll of Identify |
 | Hellcast | Heavy Crossbow | Amn | Scroll of Identify |
 | Hellclap | Short War Bow | Amn | Scroll of Identify |
 | Hellmouth | War Gauntlets (Ethereal) | Ko | Scroll of Identify |
@@ -316,8 +314,6 @@ Base item + rune + filler item &rarr; named unique/set item
 | Homunculus | Heirophant Trophy | Sol | Scroll of Identify |
 | Hone Sundan | Yari (Ethereal) | Io | Scroll of Identify |
 | Hone Sundan | Yari | Dol | Scroll of Identify |
-| Horadric Staff | Horadric Staff (Ethereal) | Tir | Scroll of Identify |
-| Horadric Staff | Horadric Staff | El | Scroll of Identify |
 | Horizon's Tornado | Scourge (Ethereal) | Ist | Scroll of Identify |
 | Horizon's Tornado | Scourge | Um | Scroll of Identify |
 | Hotspur | Boots (Ethereal) | Nef | Scroll of Identify |
@@ -345,10 +341,6 @@ Base item + rune + filler item &rarr; named unique/set item
 | Jalal's Mane | Totemic Mask | Hel | Scroll of Identify |
 | Kelpie Snare | Fuscina (Ethereal) | Dol | Scroll of Identify |
 | Kelpie Snare | Fuscina | Sol | Scroll of Identify |
-| Khalim's Flail | Khalim's Flail (Ethereal) | Tir | Scroll of Identify |
-| Khalim's Flail | Khalim's Flail | El | Scroll of Identify |
-| Khalim's Will | Khalim's Will (Ethereal) | Tir | Scroll of Identify |
-| Khalim's Will | Khalim's Will | El | Scroll of Identify |
 | Kinemil's Awl | Giant Sword (Ethereal) | Amn | Scroll of Identify |
 | Kinemil's Awl | Giant Sword | Ort | Scroll of Identify |
 | Kira's Guardian | Tiara (Ethereal) | Lo | Scroll of Identify |
@@ -541,8 +533,6 @@ Base item + rune + filler item &rarr; named unique/set item
 | Spirit Keeper | Earth Spirit | Um | Scroll of Identify |
 | Spirit Ward | Ward (Ethereal) | Gul | Scroll of Identify |
 | Spirit Ward | Ward | Mal | Scroll of Identify |
-| Staff of Kings | Staff of Kings (Ethereal) | Tir | Scroll of Identify |
-| Staff of Kings | Staff of Kings | El | Scroll of Identify |
 | Stealskull | Casque (Ethereal) | Hel | Scroll of Identify |
 | Stealskull | Casque | Shael | Scroll of Identify |
 | Steel Carapace | Shadow Plate (Ethereal) | Ist | Scroll of Identify |
@@ -893,12 +883,12 @@ Base item + rune + filler item &rarr; named unique/set item
 
 </details>
 
-## Salvage Recipes (855)
+## Salvage Recipes (845)
 
 Named unique/set item + filler item &rarr; base item + rune
 
 <details>
-<summary><strong>Unique Items (715)</strong></summary>
+<summary><strong>Unique Items (705)</strong></summary>
 
 | Item | Base Item Returned | Rune Returned |
 |---|---|---|
@@ -1176,8 +1166,6 @@ Named unique/set item + filler item &rarr; base item + rune
 | Heaven's Light | Mighty Scepter | Pul |
 | Heavenly Garb (Ethereal) | Light Plate (Ethereal) | Dol |
 | Heavenly Garb | Light Plate | Sol |
-| Hell Forge Hammer (Ethereal) | Hellforge Hammer (Ethereal) | Tir |
-| Hell Forge Hammer | Hellforge Hammer | El |
 | Hellcast | Heavy Crossbow | Amn |
 | Hellclap | Short War Bow | Amn |
 | Hellmouth (Ethereal) | War Gauntlets (Ethereal) | Ko |
@@ -1198,8 +1186,6 @@ Named unique/set item + filler item &rarr; base item + rune
 | Homunculus | Heirophant Trophy | Sol |
 | Hone Sundan (Ethereal) | Yari (Ethereal) | Io |
 | Hone Sundan | Yari | Dol |
-| Horadric Staff (Ethereal) | Horadric Staff (Ethereal) | Tir |
-| Horadric Staff | Horadric Staff | El |
 | Horizon's Tornado (Ethereal) | Scourge (Ethereal) | Ist |
 | Horizon's Tornado | Scourge | Um |
 | Hotspur (Ethereal) | Boots (Ethereal) | Nef |
@@ -1227,10 +1213,6 @@ Named unique/set item + filler item &rarr; base item + rune
 | Jalal's Mane | Totemic Mask | Hel |
 | Kelpie Snare (Ethereal) | Fuscina (Ethereal) | Dol |
 | Kelpie Snare | Fuscina | Sol |
-| Khalim's Flail (Ethereal) | Khalim's Flail (Ethereal) | Tir |
-| Khalim's Flail | Khalim's Flail | El |
-| Khalim's Will (Ethereal) | Khalim's Will (Ethereal) | Tir |
-| Khalim's Will | Khalim's Will | El |
 | Kinemil's Awl (Ethereal) | Giant Sword (Ethereal) | Amn |
 | Kinemil's Awl | Giant Sword | Ort |
 | Kira's Guardian (Ethereal) | Tiara (Ethereal) | Lo |
@@ -1416,8 +1398,6 @@ Named unique/set item + filler item &rarr; base item + rune
 | Spirit Keeper | Earth Spirit | Um |
 | Spirit Ward (Ethereal) | Ward (Ethereal) | Gul |
 | Spirit Ward | Ward | Mal |
-| Staff of Kings (Ethereal) | Staff of Kings (Ethereal) | Tir |
-| Staff of Kings | Staff of Kings | El |
 | Stealskull (Ethereal) | Casque (Ethereal) | Hel |
 | Stealskull | Casque | Shael |
 | Steel Carapace (Ethereal) | Shadow Plate (Ethereal) | Ist |
@@ -1770,12 +1750,12 @@ Named unique/set item + filler item &rarr; base item + rune
 
 ## Crafting Recipes by Rune
 
-Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune-20) &middot; [Nef](#nef-rune-29) &middot; [Eth](#eth-rune-16) &middot; [Ith](#ith-rune-37) &middot; [Tal](#tal-rune-23) &middot; [Ral](#ral-rune-42) &middot; [Ort](#ort-rune-20) &middot; [Thul](#thul-rune-35) &middot; [Amn](#amn-rune-36) &middot; [Sol](#sol-rune-43) &middot; [Shael](#shael-rune-38) &middot; [Dol](#dol-rune-48) &middot; [Hel](#hel-rune-55) &middot; [Io](#io-rune-41) &middot; [Lum](#lum-rune-41) &middot; [Ko](#ko-rune-25) &middot; [Fal](#fal-rune-19) &middot; [Lem](#lem-rune-15) &middot; [Pul](#pul-rune-14) &middot; [Um](#um-rune-38) &middot; [Mal](#mal-rune-33) &middot; [Ist](#ist-rune-56) &middot; [Gul](#gul-rune-41) &middot; [Vex](#vex-rune-28) &middot; [Ohm](#ohm-rune-13) &middot; [Lo](#lo-rune-11) &middot; [Jah](#jah-rune-1)
+Jump to: [El](#el-rune-22) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune-15) &middot; [Nef](#nef-rune-29) &middot; [Eth](#eth-rune-16) &middot; [Ith](#ith-rune-37) &middot; [Tal](#tal-rune-23) &middot; [Ral](#ral-rune-42) &middot; [Ort](#ort-rune-20) &middot; [Thul](#thul-rune-35) &middot; [Amn](#amn-rune-36) &middot; [Sol](#sol-rune-43) &middot; [Shael](#shael-rune-38) &middot; [Dol](#dol-rune-48) &middot; [Hel](#hel-rune-55) &middot; [Io](#io-rune-41) &middot; [Lum](#lum-rune-41) &middot; [Ko](#ko-rune-25) &middot; [Fal](#fal-rune-19) &middot; [Lem](#lem-rune-15) &middot; [Pul](#pul-rune-14) &middot; [Um](#um-rune-38) &middot; [Mal](#mal-rune-33) &middot; [Ist](#ist-rune-56) &middot; [Gul](#gul-rune-41) &middot; [Vex](#vex-rune-28) &middot; [Ohm](#ohm-rune-13) &middot; [Lo](#lo-rune-11) &middot; [Jah](#jah-rune-1)
 
-### El Rune (27)
+### El Rune (22)
 
 <details>
-<summary>Show 27 recipes</summary>
+<summary>Show 22 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1790,17 +1770,12 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Death's Guard | Sash | El | Scroll of Identify |
 | Death's Hand | Leather Gloves | El | Scroll of Identify |
 | Felloak | Club | El | Scroll of Identify |
-| Hell Forge Hammer | Hellforge Hammer | El | Scroll of Identify |
-| Horadric Staff | Horadric Staff | El | Scroll of Identify |
 | Hsarus' Iron Fist | Buckler | El | Scroll of Identify |
 | Infernal Cranium | Cap | El | Scroll of Identify |
 | Iratha's Collar | Amulet | El | Tome of Town Portal |
-| Khalim's Flail | Khalim's Flail | El | Scroll of Identify |
-| Khalim's Will | Khalim's Will | El | Scroll of Identify |
 | Pelta Lunata | Buckler | El | Scroll of Town Portal |
 | Rixot's Keen | Short Sword | El | Scroll of Identify |
 | Sander's Paragon | Cap | El | Scroll of Town Portal |
-| Staff of Kings | Staff of Kings | El | Scroll of Identify |
 | Tancred's Hobnails | Boots | El | Scroll of Identify |
 | Tancred's Weird | Amulet | El | Key |
 | Telling of Beads | Amulet | El | Minor Healing Potion |
@@ -1836,10 +1811,10 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 
 </details>
 
-### Tir Rune (20)
+### Tir Rune (15)
 
 <details>
-<summary>Show 20 recipes</summary>
+<summary>Show 15 recipes</summary>
 
 | Item | Base Item | Rune | Filler Item |
 |---|---|---|---|
@@ -1852,16 +1827,11 @@ Jump to: [El](#el-rune-27) &middot; [Eld](#eld-rune-17) &middot; [Tir](#tir-rune
 | Dimoak's Hew | Bardiche | Tir | Scroll of Identify |
 | Felloak | Club (Ethereal) | Tir | Scroll of Identify |
 | Greyform | Quilted Armor | Tir | Scroll of Identify |
-| Hell Forge Hammer | Hellforge Hammer (Ethereal) | Tir | Scroll of Identify |
-| Horadric Staff | Horadric Staff (Ethereal) | Tir | Scroll of Identify |
-| Khalim's Flail | Khalim's Flail (Ethereal) | Tir | Scroll of Identify |
-| Khalim's Will | Khalim's Will (Ethereal) | Tir | Scroll of Identify |
 | Lenymo | Sash | Tir | Scroll of Identify |
 | Nagelring | Ring | Tir | Scroll of Identify |
 | Pelta Lunata | Buckler (Ethereal) | Tir | Scroll of Identify |
 | Pluckeye | Short Bow | Tir | Scroll of Identify |
 | Rixot's Keen | Short Sword (Ethereal) | Tir | Scroll of Identify |
-| Staff of Kings | Staff of Kings (Ethereal) | Tir | Scroll of Identify |
 | The Dragon Chang | Spear | Tir | Scroll of Identify |
 
 </details>
