@@ -50,6 +50,15 @@ def salvage_is_eth(r):
     return r['input 1'] != 'jew,uni' and 'eth' in r['input 1'].split(',')[1:]
 
 
+def out_name(r):
+    """A forward recipe's output item name, minus any qualifiers like ',eth'."""
+    return r['output'].split(',')[0]
+
+
+def out_is_eth(r):
+    return 'eth' in r['output'].split(',')[1:]
+
+
 def load_recipes():
     with open(VANILLA_PATH, encoding='utf-8') as f:
         n_vanilla = sum(1 for _ in f) - 1  # minus header
@@ -63,8 +72,8 @@ def load_recipes():
     # Collapse back to one representative line per (item, ethereal-state).
     seen = set()
     forward = []
-    for r in sorted(all_forward, key=lambda r: display(r['output']).lower()):
-        key = (r['output'], r['mod 1'] == 'ethereal', r['input 2'], r['input 3'])
+    for r in sorted(all_forward, key=lambda r: display(out_name(r)).lower()):
+        key = (out_name(r), out_is_eth(r), r['input 2'], r['input 3'])
         if key in seen:
             continue
         seen.add(key)
@@ -96,13 +105,13 @@ def forward_line(r, prices):
     since that description names only one of the (possibly three) white
     quality tiers this recipe was collapsed from.
     """
-    base_name = prices[r['output']]['base_name']
+    base_name = prices[out_name(r)]['base_name']
     if 'eth' in r['input 1'].split(','):
         base_name += ' (Ethereal)'
     rune_name = RUNE_NAME_BY_CODE.get(r['input 2'], r['input 2'])
     filler = FILLER_NAMES.get(r['input 3'], r['input 3'])
-    suffix = ' (eth)' if r['mod 1'] == 'ethereal' else ''
-    return f"{base_name} + {rune_name} Rune + {filler} -> {display(r['output'])}{suffix}"
+    suffix = ' (eth)' if out_is_eth(r) else ''
+    return f"{base_name} + {rune_name} Rune + {filler} -> {display(out_name(r))}{suffix}"
 
 
 def write_txt(forward, reverse, prices):
@@ -131,12 +140,12 @@ def write_txt(forward, reverse, prices):
 def forward_table(rows, prices):
     lines = ['| Item | Base Item | Rune | Filler Item |', '|---|---|---|---|']
     for r in rows:
-        base_name = prices[r['output']]['base_name']
+        base_name = prices[out_name(r)]['base_name']
         if 'eth' in r['input 1'].split(','):
             base_name += ' (Ethereal)'
         rune_name = RUNE_NAME_BY_CODE.get(r['input 2'], r['input 2'])
         filler = FILLER_NAMES.get(r['input 3'], r['input 3'])
-        lines.append(f"| {display(r['output'])} | {base_name} | {rune_name} | {filler} |")
+        lines.append(f"| {display(out_name(r))} | {base_name} | {rune_name} | {filler} |")
     return lines
 
 
@@ -235,7 +244,7 @@ def write_md(forward, reverse, prices):
     lines.append('')
     lines.extend(md_section(
         'Crafting Recipes','Base item + rune + filler item &rarr; named unique/set item',
-        forward, forward_table, prices, key_fn=lambda r: r['output'],
+        forward, forward_table, prices, key_fn=out_name,
     ))
     lines.extend(md_section(
         'Salvage Recipes', 'Named unique/set item + filler item &rarr; base item + rune',

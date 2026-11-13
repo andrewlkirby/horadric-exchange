@@ -75,14 +75,12 @@ def build_row(description, base_code, quality, base_qualifier, rune_code, filler
     row['input 1'] = ','.join(parts)
     row['input 2'] = rune_code
     row['input 3'] = filler_code
-    row['output'] = output_name
+    # The output's 'eth' qualifier is what makes it ethereal. An 'ethereal'
+    # property in a 'mod' column is silently ignored by the cube in D2R.
+    row['output'] = f'{output_name},eth' if eth_output else output_name
     # 'lvl' is an absolute item level; 'ilvl' is a % of the input item's level,
     # which leaves low-level bases below the unique's qlvl and yields a rare.
     row['lvl'] = '99'
-    if eth_output:
-        row['mod 1'] = 'ethereal'
-        row['mod 1 min'] = '1'
-        row['mod 1 max'] = '1'
     return row
 
 
@@ -98,12 +96,11 @@ def build_reverse_row(description, item_name, base_code, rune_code, eth=None):
     # A bare base code rolls a random quality (often magic) at the unique's
     # high ilvl; force a white base instead. Rings/amulets/jewels/charms have
     # no normal-quality form, so they're left to roll.
-    row['output'] = base_code if base_code in QUALITY_EXEMPT_CODES else f'{base_code},nor'
-    row['output b'] = rune_code
+    out = [base_code] if base_code in QUALITY_EXEMPT_CODES else [base_code, 'nor']
     if eth:
-        row['mod 1'] = 'ethereal'
-        row['mod 1 min'] = '1'
-        row['mod 1 max'] = '1'
+        out.append('eth')  # see build_row: only the output qualifier works
+    row['output'] = ','.join(out)
+    row['output b'] = rune_code
     return row
 
 
